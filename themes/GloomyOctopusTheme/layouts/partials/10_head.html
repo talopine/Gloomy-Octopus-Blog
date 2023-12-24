@@ -10,5 +10,5 @@
   <!-- CSS -->
   {{ $css := resources.Get "/sass/main.scss" }}
   {{ $style := $css | resources.ToCSS | resources.Fingerprint }}
-  <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
   <!-- Favicon -->

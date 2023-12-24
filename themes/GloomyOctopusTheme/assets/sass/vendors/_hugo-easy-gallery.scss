@@ -1,0 +1,128 @@
+/* Documentation and licence at https://github.com/thkukuk/hugo-photoswipe5-gallery/ */
+/* Forked from
+ * https://github.com/liwenyip/hugo-easy-gallery/blob/master/static/css/hugo-easy-gallery.css
+ * with some fixes to make it working together with other styles
+ */
+
+/*
+Grid Layout Styles
+*/
+.gallery { overflow: hidden; }
+
+.gallery .gallery-box {
+    float: left;
+    position: relative; 
+}
+
+/* Tablet view: 2 tiles; Small desktop / ipad view: 3 tiles; Medium desktop: 4 tiles */
+.gallery .gallery-box {width: 50%; padding-bottom: 50%; }
+@media only screen and (min-width : 700px) {.gallery .gallery-box {width: 33.3%; padding-bottom: 33.3%;}}
+@media only screen and (min-width : 1000px) {.gallery .gallery-box {width: 25%; padding-bottom: 25%;}}
+@media only screen and (min-width : 1300px) {.gallery .gallery-box {width: 20%; padding-bottom: 20%;}}
+@media only screen and (min-width : 1600px) {.gallery .gallery-box {width: 20%; padding-bottom: 20%;}}
+@media only screen and (min-width : 1900px) {.gallery .gallery-box {width: 16.6%; padding-bottom: 16.6%;}}
+@media only screen and (min-width : 2100px) {.gallery .gallery-box {width: 14.2%; padding-bottom: 14.2%;}}
+@media only screen and (min-width : 2400px) {.gallery .gallery-box {width: 12.5%; padding-bottom: 12.5%;}}
+
+/* Transition styles */
+.gallery.hover-transition figure,
+.gallery.hover-effect-zoom .gallery-img,
+.gallery:not(.caption-effect-appear) figcaption {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+/* figure styles */
+.gallery figure {
+    position: absolute;
+    overflow: hidden;
+    margin: 0px;
+    border-radius: 10px;
+}
+
+/* img / a styles */
+.gallery .gallery-img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+.gallery.hover-effect-zoom figure:hover .gallery-img {
+    transform: scale(1.05);
+}
+
+/* figcaption styles */
+.gallery figcaption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #000;
+    color: #FFF;
+    text-align: center;
+    font-size: 75%; /* change this if you want bigger text */
+    background: rgba(0, 0, 0, 0.5);
+    opacity: 1;
+    cursor: pointer;
+}
+.gallery.caption-position-none figcaption  {
+    display: none;
+}
+.gallery.caption-position-bottom figcaption {
+    padding: 5px;
+}
+.gallery.caption-effect-fade figure:not(:hover) figcaption,
+.gallery.caption-effect-appear figure:not(:hover) figcaption {
+    background: rgba(0, 0, 0, 0);
+    opacity: 0;
+}
+.gallery.caption-effect-slide.caption-position-bottom figure:not(:hover) figcaption {
+    margin-bottom: -100%;
+}
+.gallery figcaption p {
+    font-weight: normal;
+    text-align: center;
+    margin: auto; 
+    line-height: 1.5em;
+    letter-spacing: normal;
+}
+
+/* Adjustments for standalone picture */
+.gallery-box a {
+    border-bottom: none;
+    padding-bottom: 0px;
+}
+
+.gallery-box figure {
+    left: 5px;
+    right: 5px;
+    top: 5px;
+    bottom: 5px;
+    overflow: hidden;
+    margin: 0px;
+}
+
+/* 
+From photoswipe5 caption plugin.
+*/
+
+.pswp-caption-content { display: none; }
+.pswp__item { font-size: 150%; }
+.pswp__dynamic-caption--aside { max-width: 500px; }
+.gallery__gallery-caption {font-style: normal !important;}
+.gala__image-description {color: $link;}
+.gala__commentary {
+  padding-top: 10px;
+  color: $body-background-color;
+}
+.gala__photo-credit {
+  font-size: 75%;
+  color: $m_light-grey;
+  padding-top: 10px;
+}

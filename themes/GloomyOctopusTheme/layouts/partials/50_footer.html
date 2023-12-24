@@ -1,0 +1,23 @@
+  <!-- FOOTER -->
+  <nav class="py-6 has-background-primary is-family-secondary has-text-light">
+
+    <div class="block is-flex is-flex-direction-row is-justify-content-center">
+      {{ with .Site.Params.social_media }}
+        {{ range sort . "weight" }}
+        <div class="px-2">
+          <a href="{{ .url }}" aria-label="{{ .name }}">
+            <img class="icon" src="{{ printf "/icons%s" .icon }}" aria-hidden="true">
+          </a>
+        </div>
+        {{ end }}
+      {{ end }}
+    </div>
+
+    <div class="has-text-centered mt-2">
+    {{ with .Site.Copyright }}
+      {{ replace . "{Year}" now.Year | markdownify }}
+    {{ end }}
+    </div>
+
+  </nav>
+  <!-- END FOOTER -->

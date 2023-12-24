@@ -1,0 +1,40 @@
+<!-- Modified from https://github.com/thkukuk/hugo-photoswipe5-gallery/ -->
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom" itemscope itemtype="http://schema.org/ImageGallery">
+  <div class="pswp-gallery pswp-gallery--single-column" id="photoswipe5-gallery">
+    {{ $galleryCaptions := "none" }}
+    {{ if isset $.Page.Params "resources" }} <!-- front matter captions -->
+      {{ $galleryCaptions = $.Page.Params.Resources }}
+    {{ end }}
+    {{ $path := printf "%s/*" (.Get "galleryPath") }}
+    {{ $gallery := .Page.Resources.Match $path }}
+    {{ $thumbnailSize := .Get "thumbnail-size" | default "450x450 Top" }}
+    {{ range $gallery }}
+      {{ $thumbnail := .Fill $thumbnailSize }}
+      {{ $name := path.Base . }}
+      {{ if ne $galleryCaptions "none"}}
+        {{ with index $galleryCaptions $name }} <!-- if there is a page parameter in galleryCaptions with the file name -->
+          {{ $name = . }}
+        {{ end }}
+      {{ end }}
+
+      <div class="gallery-box" style="max-width: {{ .Width }}px;">
+        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+          <div class="gallery-img" style="background-image: url('{{ $thumbnail.RelPermalink }}'); background-repeat:no-repeat;" >
+            <a href="{{ .RelPermalink }}" data-pswp-width="{{ .Width }}" data-pswp-height="{{ .Height }}" target="_blank">
+              <img src="{{ $thumbnail.RelPermalink }}" width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" alt="{{ $name }}">
+              <div class="pswp-caption-content">
+                {{ if ne $name ( path.Base . )}}
+                  {{ $name }}
+                {{ end }}
+              </div>
+            </a>
+          </div>
+          <figcaption class="gallery__gallery-caption">
+            <p>{{ $name | markdownify }}</p>
+          </figcaption>
+        </figure>
+      </div>
+    {{ end }}
+  </div>
+</div>

@@ -1,0 +1,77 @@
+{{ define "main" }}
+
+<div class="list-page-card">
+  <!-- blog header, date and tags -->
+  {{ partial "61_single-page-header" . }}
+  <div class="card-content" style="padding-left: 2rem;">
+    <div class="content is-family-serif">
+      {{ .Content }}    <!-- page content -->
+    </div>
+
+    <!-- book list section -->
+    <table class="booklist">
+      <thead>
+        <th scope="col">#</th>
+        <th scope="col">Title</th>
+        <th scope="col">Author</th>
+        <th scope="col">Date read</th>
+      </thead>
+
+      <!-- declare variables -->
+      {{ $booklist := .Page.Resources.GetMatch "*.json" | transform.Unmarshal }}
+      {{ $tableOfContents := slice "" }}
+      {{ $EachYear := "0" }}  <!-- declare variable to create year header rows -->
+
+      <tbody>
+      {{ range (sort $booklist "#" "desc") }}
+        {{ $Number := index . "#" }}
+        {{ $ReadDate := index . "ReadDate" }}
+          {{ $Year := substr $ReadDate 0 4 }} <!-- truncate Read Date string to YYYY -->
+        {{ $Title := index . "Title" }}
+        {{ $Author := index . "Author" }}
+        {{ $Editors := index . "Editors" }}
+  
+        {{ if ne $Year $EachYear }} <!-- if the EachYear tracking variable isn't the same as the year, create header row -->
+          <th scope="row" colspan="4" class="row">
+            <h6 id="BookYear{{ $Year | safeURL }}">{{ $Year }}</h6>
+          </th>
+          {{ $EachYear = $Year }}
+          {{ $tableOfContents = $tableOfContents | append $EachYear }}
+        {{ end }}
+        
+        <tr class="book-entry">
+          <td>{{ $Number }}</td>
+          <td>{{ $Title }}</td>
+          <td>
+            {{ if eq $Editors true}}Edited by {{ end }} <!-- If Editors = true, then return test "edited by" -->
+            {{ if eq (reflect.IsSlice $Author) true }} 
+              {{ delimit $Author ", " }} <!-- If $Authors has more than one value, separate each by commas -->
+            {{ else }}
+              {{ $Author }} <!-- otherwise just return single value for Author -->
+            {{ end }}
+          </td>
+          <td>{{ $ReadDate | time.Format "2 Jan 2006" }}</td>
+        </tr>
+      
+      {{ end }}
+      </tbody>
+    </table>
+    <!-- end book list section -->
+
+    <!-- table of contents -- manually creates the nav section -->
+    {{ $firsthalf := slice "<nav id='TableOfContents'><ul>" }}
+    {{ range $tableOfContents }}
+      {{ $li_content := printf "<li class='is-size-6'><a href='#BookYear%s'>%s</a></li>" . . }} 
+      {{ $firsthalf = $firsthalf | append $li_content }}
+    {{ end }}
+    {{ $firsthalf = $firsthalf | append "</ul></nav>" }}
+    {{ $booklistTOC := delimit $firsthalf "" | safeHTML }}
+   
+    {{ .Scratch.Set "contentOfTableOfContents" $booklistTOC }}
+    {{ partial "63_table-of-contents.html" . }}
+    
+    </div>
+  {{ partial "65_post-footer.html" . }}
+</div>
+
+{{ end }}

@@ -1,0 +1,73 @@
+// https://gist.github.com/danielpost/a0fa9d9046a885692346137b68babd54
+// https://danielpost.com/articles/making-hugos-footnotes-accessible/
+// amended for bulma+hugo by talopine
+
+// Footnotes for screen readers
+.u-hidden-visually {
+  clip-path: inset(100%);
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+// for reference (for when I forget) -- the colour is created by having the ::after pseudo-class be
+// colourful, while being posititioned almost exactly on top of the parent element
+
+
+// Footnotes with a visual marker
+// this sets the 
+@keyframes highlight {  
+  0% { opacity: 0.8; }
+  25% {opacity: 0.6; }
+  80% {opacity: 0;}
+  100% { opacity: 0; } 
+}
+
+.footnotes li {
+  padding-left: 0.25em;
+}
+
+.footnotes li,
+.footnote-ref-target {
+  position: relative;
+  z-index: 1; // the z-index needs to be set, otherwise I think it's too strong for the ::after element
+
+  &::after {
+    position: absolute;
+    z-index: -1;
+    content: '';
+    border-radius:10px;
+    opacity: 0;
+  }
+
+  &:target,
+  &:focus {
+    &::after {
+      animation: highlight 4s;
+    }
+  }
+}
+
+.footnote-ref-target::after {
+  top: -5px;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  background: rgba($link, 0.4);
+  scroll-margin-top: 200em; 
+}
+
+.footnotes li::after {
+  top: 0;
+  left: -30px;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(90deg, rgba($link,0.4), rgba($link, 0.6) 5%, rgba(255,0,0,0) 70.71%);
+}
+
+.footnote-ref-target {
+  scroll-margin-top: 10em; // this makes the window go higher than the a href target point
+}

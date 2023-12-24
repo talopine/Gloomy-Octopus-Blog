@@ -1,0 +1,11 @@
+{{ $main := resources.Get "js/main.js" | js.Build }}
+<script src="{{ $main.RelPermalink }}" defer></script>
+
+{{ $footnotes := resources.Get "js/footnotes.js" | js.Build }}
+<script src="{{ $footnotes.RelPermalink }}" defer></script>
+
+{{ $bulma_navbar := resources.Get "js/bulma-navbar.js" | js.Build }}
+<script src="{{ $bulma_navbar.RelPermalink }}" defer></script>
+
+{{ $tableofcontents := resources.Get "js/table-of-contents.js" | js.Build }}
+<script src="{{ $tableofcontents.RelPermalink }}" defer></script>

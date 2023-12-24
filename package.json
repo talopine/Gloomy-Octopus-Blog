@@ -1,0 +1,25 @@
+{
+  "name": "GloomyOctopus_blog",
+  "version": "1.0.0",
+  "description": "This is my blog about crafts, using Hugo (extended) and Bulma CSS",
+  "main": "index.js",
+  "scripts": {
+    "build": "hugo",
+    "start": "hugo server --disableFastRender",
+    "new_site": "hugo new site example"
+  },
+  "author": "Marian",
+  "license": "ISC",
+  "devDependencies": {
+    "bulma": "^0.9.4",
+    "hugo-extended": "^0.118.2"
+  },
+  "dependencies": {
+    "@creativebulma/bulma-badge": "^1.0.1",
+    "@creativebulma/bulma-divider": "^1.1.0",
+    "imagesloaded": "^5.0.0",
+    "lightgallery": "^2.7.1",
+    "node": "^20.2.0",
+    "photoswipe": "^5.3.7"
+  }
+}

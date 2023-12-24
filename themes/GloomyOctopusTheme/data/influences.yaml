@@ -1,0 +1,11 @@
+# site built using these things
+influences:
+  - name: "Hugo"
+    url: "gohugo.io"
+    icon: "/ionicons/home-outline.svg"
+    weight: 10
+  - name: "Bulma CSS"
+    url: ""
+    icon: "/ionicons/home-outline.svg"
+    weight: 20
+    

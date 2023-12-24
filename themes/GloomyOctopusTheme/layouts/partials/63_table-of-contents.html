@@ -1,0 +1,17 @@
+<!-- table of contents -->
+{{ $toc := .Scratch.Get "contentOfTableOfContents" }}
+
+<div class="card-overlay-box"></div>
+<div class="card-overlay-box overlay">
+  <div class="table-of-contents">
+    <div class="contentsButton is-size-5">
+      <span id="contentsButton" class="mb-2">contents</span>
+      <div><button class="delete" aria-label="delete" id="closeButton"></button></div>
+    </div>  
+    <aside class="table-of-contents-body" id="tableOfContentsBody">
+      <span class="is-family-secondary has-text-primary">{{ .Title }}</span>
+      {{ $toc }}
+    </aside>
+  </div>
+</div>
+<!-- table of contents --> 

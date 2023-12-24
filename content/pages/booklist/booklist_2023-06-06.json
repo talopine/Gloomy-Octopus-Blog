@@ -1,0 +1,6675 @@
+[
+  {
+    "#": 1,
+    "Title": "Tough guide to fantasyland",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 2,
+    "Title": "Have you felt like giving up lately?",
+    "Author": "David Wilkerson",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 3,
+    "Title": "Left behind: the mark",
+    "Author": ["Tim LaHaye","Jerry B. Jenkins"],
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 4,
+    "Title": "Double star",
+    "Author": "Robert A. Heinlein",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 5,
+    "Title": "Name of the rose",
+    "Author": "Umberto Eco",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 6,
+    "Title": "I never promised you a rose garden",
+    "Author": "Joanne Greenberg",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 7,
+    "Title": "2001: a space odyssey",
+    "Author": "Arthur C. Clarke",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 8,
+    "Title": "Martian chronicles",
+    "Author": "Ray Bradbury",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 9,
+    "Title": "Act of Roger Murgatroyd",
+    "Author": "Gilbert Adair",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 10,
+    "Title": "Death of a cad",
+    "Author": "M.C. Beaton",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 11,
+    "Title": "Death of a gossip",
+    "Author": "M.C. Beaton",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 12,
+    "Title": "Death of an outsider",
+    "Author": "M.C. Beaton",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 13,
+    "Title": "Red wyvern",
+    "Author": "Katharine Kerr",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 14,
+    "Title": "Murder room",
+    "Author": "P.D. James",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 15,
+    "Title": "King Solomon's mines",
+    "Author": "Henry Rider Haggard",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 16,
+    "Title": "Under the red robe",
+    "Author": "Stanley Weyman",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 17,
+    "Title": "Prisoner of Zenda",
+    "Author": "Anthony Hope",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 18,
+    "Title": "Lost world",
+    "Author": "Sir Arthur Conan Doyle",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 19,
+    "Title": "Beau Geste",
+    "Author": "P.C. Wren",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 20,
+    "Title": "Stiff upper lip, Jeeves",
+    "Author": "P.G. Wodehouse",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 21,
+    "Title": "Wuthering Heights",
+    "Author": "Emily Brontë",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 22,
+    "Title": "Jungle book",
+    "Author": "Rudyard Kipling",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 23,
+    "Title": "Moon is a harsh mistress",
+    "Author": "Robert A. Heinlein",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 24,
+    "Title": "Captains courageous",
+    "Author": "Rudyard Kipling",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 25,
+    "Title": "Burning water",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 26,
+    "Title": "Rumpole for the defence",
+    "Author": "John Mortimer",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 27,
+    "Title": "White as snow",
+    "Author": "Tanith Lee",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 28,
+    "Title": "Second jungle book",
+    "Author": "Rudyard Kipling",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 29,
+    "Title": "Druid's sword",
+    "Author": "Sara Douglass",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 30,
+    "Title": "Serpent bride",
+    "Author": "Sara Douglass",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 31,
+    "Title": "Sharing knife: beguilement",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 32,
+    "Title": "Scarlet pimpernel",
+    "Author": "Baroness Orczy",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 33,
+    "Title": "House of cards",
+    "Author": "Michael Dobbs",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 34,
+    "Title": "To play the king",
+    "Author": "Michael Dobbs",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 35,
+    "Title": "Final cut",
+    "Author": "Michael Dobbs",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 36,
+    "Title": "Jane Eyre",
+    "Author": "Charlotte Brontë",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 37,
+    "Title": "Book of flying",
+    "Author": "Keith Miller",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 38,
+    "Title": "Rumpole on trial",
+    "Author": "John Mortimer",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 39,
+    "Title": "Under the deodars",
+    "Author": "Rudyard Kipling",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 40,
+    "Title": "Joy in the morning",
+    "Author": "P.G. Wodehouse",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 41,
+    "Title": "Stars my destination",
+    "Author": "Alfred Bester",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 42,
+    "Title": "Demolished man",
+    "Author": "Alfred Bester",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 43,
+    "Title": "Podkayne of Mars",
+    "Author": "Robert A. Heinlein",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 44,
+    "Title": "Kim",
+    "Author": "Rudyard Kipling",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 45,
+    "Title": "What do YOU care what other people think?",
+    "Author": "Richard Feynman",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 46,
+    "Title": "Rose rent",
+    "Author": "Ellis Peters",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 47,
+    "Title": "Hermit of Eyton Forest",
+    "Author": "Ellis Peters",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 48,
+    "Title": "Raven in the foregate",
+    "Author": "Ellis Peters",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 49,
+    "Title": "Wide sargasso sea",
+    "Author": "Jean Rhys",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 50,
+    "Title": "Chocolat",
+    "Author": "Joanne Harris",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 51,
+    "Title": "Rumpole à la carte",
+    "Author": "John Mortimer",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 52,
+    "Title": "Komarr",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 53,
+    "Title": "Carry on, Jeeves",
+    "Author": "P.G. Wodehouse",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 54,
+    "Title": "Every living thing",
+    "Author": "James Herriot",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 55,
+    "Title": "Fall of Atlantis",
+    "Author": "Marion Zimmer Bradley",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 56,
+    "Title": "Civil campaign",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 57,
+    "Title": "Harry Potter and the deathly hallows",
+    "Author": "J.K. Rowling",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 58,
+    "Title": "Lady Chatterley's lover",
+    "Author": "D.H. Lawrence",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 59,
+    "Title": "Pale companion",
+    "Author": "Philip Gooden",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 60,
+    "Title": "Light that failed",
+    "Author": "Rudyard Kipling",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 61,
+    "Title": "Of mice and men",
+    "Author": "John Steinbeck",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 62,
+    "Title": "Debits and credits",
+    "Author": "Rudyard Kipling",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 63,
+    "Title": "Have his carcase",
+    "Author": "Dorothy L Sayers",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 64,
+    "Title": "Children of men",
+    "Author": "P.D. James",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 65,
+    "Title": "Kidnapped",
+    "Author": "Robert Louis Stevenson",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 66,
+    "Title": "Cordelia's honor",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 67,
+    "Title": "Young Miles",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 68,
+    "Title": "Miles, mystery and mayhem",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 69,
+    "Title": "Miles errant",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 70,
+    "Title": "Memory",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 71,
+    "Title": "Rumpole and the Penge bungalow murders",
+    "Author": "John Mortimer",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 72,
+    "Title": "Lord of the flies",
+    "Author": "William Golding",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 73,
+    "Title": "Moor",
+    "Author": "Laurie R. King",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 74,
+    "Title": "Letter of Mary",
+    "Author": "Laurie R. King",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 75,
+    "Title": "Rumpole rests his case",
+    "Author": "John Mortimer",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 76,
+    "Title": "Rumpole and the primrose path",
+    "Author": "John Mortimer",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 77,
+    "Title": "Rumpole and the reign of terror",
+    "Author": "John Mortimer",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 78,
+    "Title": "Mary Reilly",
+    "Author": "Valerie Martin",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 79,
+    "Title": "Midwife's tale",
+    "Author": "Gretchen Moran Laskas",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 80,
+    "Title": "Willie Winkie",
+    "Author": "Rudyard Kipling",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 81,
+    "Title": "Monstrous regiment of women",
+    "Author": "Laurie R. King",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 82,
+    "Title": "Hound of the Baskervilles",
+    "Author": "Sir Arthur Conan Doyle",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 83,
+    "Title": "Trading in danger",
+    "Author": "Elizabeth Moon",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 84,
+    "Title": "O Jerusalem",
+    "Author": "Laurie R. King",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 85,
+    "Title": "Game",
+    "Author": "Laurie R. King",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 86,
+    "Title": "Quite honestly",
+    "Author": "John Mortimer",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 87,
+    "Title": "Weapons of choice: World War 2.1",
+    "Author": "John Birmingham",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 88,
+    "Title": "Ruled Britannia",
+    "Author": "Harry Turtledove",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 89,
+    "Title": "Tristan betrayal",
+    "Author": "Robert Ludlum",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 90,
+    "Title": "Sea lady",
+    "Author": "Margaret Drabble",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 91,
+    "Title": "Justice Hall",
+    "Author": "Laurie R. King",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 92,
+    "Title": "Locked rooms",
+    "Author": "Laurie R. King",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 93,
+    "Title": "Lord Peter",
+    "Author": "Dorothy L Sayers",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 94,
+    "Title": "Small bachelor",
+    "Author": "P.G. Wodehouse",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 95,
+    "Title": "Overture to death",
+    "Author": "Ngaio Marsh",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 96,
+    "Title": "Day's work",
+    "Author": "Rudyard Kipling",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 97,
+    "Title": "Passport, The: the history of man's most travelled document",
+    "Author": "Martin Lloyd",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 98,
+    "Title": "Tales of H.P. Lovecraft",
+    "Author": "H.P. Lovecraft",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 99,
+    "Title": "Plain tales from the hills",
+    "Author": "Rudyard Kipling",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 100,
+    "Title": "Slaughterhouse-five",
+    "Author": "Kurt Vonnegut",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 101,
+    "Title": "Three men in a boat: to say nothing of the dog!",
+    "Author": "Jerome K. Jerome",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 102,
+    "Title": "Death of a village",
+    "Author": "M.C. Beaton",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 103,
+    "Title": "Death of a poison pen",
+    "Author": "M.C. Beaton",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 104,
+    "Title": "Speed of light",
+    "Author": "Elizabeth Moon",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 105,
+    "Title": "Moneypenny diaries, The: guardian angel",
+    "Author": "Kate Westbrook",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 106,
+    "Title": "To say nothing of the dog, or, how we found the bishop's bird-stump at last",
+    "Author": "Connie Willis",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 107,
+    "Title": "Curse of Chalion",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 108,
+    "Title": "Paladin of souls",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 109,
+    "Title": "Hallowed hunt",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 110,
+    "Title": "Monstrous regiment",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 111,
+    "Title": "Heart of darkness",
+    "Author": "Joseph Conrad",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 112,
+    "Title": "Shipping news",
+    "Author": "Annie Proulx",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 113,
+    "Title": "Call of the wild / White Fang",
+    "Author": "Jack London",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 114,
+    "Title": "Magician's guild",
+    "Author": "Trudi Canavan",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 115,
+    "Title": "Novice",
+    "Author": "Trudi Canavan",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 116,
+    "Title": "High lord",
+    "Author": "Trudi Canavan",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 117,
+    "Title": "Eight days of Luke",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 118,
+    "Title": "Wind singer",
+    "Author": "William Nicholson",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 119,
+    "Title": "Slaves of the Mastery",
+    "Author": "William Nicholson",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 120,
+    "Title": "Firesong",
+    "Author": "William Nicholson",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 121,
+    "Title": "If I were an evil overlord",
+    "Author": ["Martin H. Greenberg","Russell Davis"],
+    "Editors": true,
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 122,
+    "Title": "Hundred and one dalmatians",
+    "Author": "Dodie Smith",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 123,
+    "Title": "Beekeeper's apprentice",
+    "Author": "Laurie R. King",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 124,
+    "Title": "Treasure island",
+    "Author": "Robert Louis Stevenson",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 125,
+    "Title": "Something rotten",
+    "Author": "Jasper fforde",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 126,
+    "Title": "Big over easy",
+    "Author": "Jasper fforde",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 127,
+    "Title": "Fourth bear",
+    "Author": "Jasper fforde",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 128,
+    "Title": "Flights: extreme visions of fantasy, vol.1",
+    "Author": "Al Sarrantonio",
+    "Editors": true,
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 129,
+    "Title": "Room with a view",
+    "Author": "E.M. Forster",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 130,
+    "Title": "Seventy-seven clocks",
+    "Author": "Christopher Fowler",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 131,
+    "Title": "Locked rooms",
+    "Author": "Laurie R. King",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 132,
+    "Title": "Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 133,
+    "Title": "Don Quixote de la Mancha",
+    "Author": "Michel Cervantes",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 134,
+    "Title": "Going postal",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 135,
+    "Title": "Small gods",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 136,
+    "Title": "Well of lost plots",
+    "Author": "Jasper fforde",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 137,
+    "Title": "Prospero's children",
+    "Author": "Jan Seigel",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 138,
+    "Title": "Study in scarlet",
+    "Author": "Sir Arthur Conan Doyle",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 139,
+    "Title": "Sign of the four",
+    "Author": "Sir Arthur Conan Doyle",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 140,
+    "Title": "Adventures of Sherlock Holmes",
+    "Author": "Sir Arthur Conan Doyle",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 141,
+    "Title": "Memoirs of Sherlock Holmes",
+    "Author": "Sir Arthur Conan Doyle",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 142,
+    "Title": "Return of Sherlock Holmes",
+    "Author": "Sir Arthur Conan Doyle",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 143,
+    "Title": "Valley of fear",
+    "Author": "Sir Arthur Conan Doyle",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 144,
+    "Title": "His last bow",
+    "Author": "Sir Arthur Conan Doyle",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 145,
+    "Title": "Casebook of Sherlock Holmes",
+    "Author": "Sir Arthur Conan Doyle",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 146,
+    "Title": "Monstrous regiment of women",
+    "Author": "Laurie R. King",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 147,
+    "Title": "Sourcery",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 148,
+    "Title": "Equal rites",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 149,
+    "Title": "Wyrd sisters",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 150,
+    "Title": "Witches abroad",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 151,
+    "Title": "I am the clay",
+    "Author": "Chaim Potok",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 152,
+    "Title": "Perseus spur",
+    "Author": "Julian May",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 153,
+    "Title": "Game",
+    "Author": "Laurie R. King",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 154,
+    "Title": "Orion arm",
+    "Author": "Julian May",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 155,
+    "Title": "Sagittarius whorl",
+    "Author": "Julian May",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 156,
+    "Title": "Night fall",
+    "Author": "Joan Aiken",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 157,
+    "Title": "Pride and prejudice",
+    "Author": "Jane Austen",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 158,
+    "Title": "Super-state",
+    "Author": "Brian Aldiss",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 159,
+    "Title": "Eliza's daughter",
+    "Author": "Joan Aiken",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 160,
+    "Title": "Komarr",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 161,
+    "Title": "Blind assassin",
+    "Author": "Margaret Atwood",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 162,
+    "Title": "Railway children",
+    "Author": "E Nesbit",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 163,
+    "Title": "Cordelia's honor",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 164,
+    "Title": "DeKok and the death of a clown",
+    "Author": "A.C. Baantjer",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 165,
+    "Title": "Not quite a lady",
+    "Author": "Loretta Chase",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 166,
+    "Title": "Light fantastic",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 167,
+    "Title": "Catcher in the rye",
+    "Author": "J.D. Salinger",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 168,
+    "Title": "Mort",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 169,
+    "Title": "Food taster",
+    "Author": "Peter Elbling",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 170,
+    "Title": "Queen of spades (and other stories)",
+    "Author": "Alexander Pushkin",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 171,
+    "Title": "Portnoy's complaint",
+    "Author": "Philip Roth",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 172,
+    "Title": "Guards! Guards!",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 173,
+    "Title": "Clouds of witness",
+    "Author": "Dorothy L Sayers",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 174,
+    "Title": "Disintegration machine",
+    "Author": "Sir Arthur Conan Doyle",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 175,
+    "Title": "Dragon tamers",
+    "Author": "E Nesbit",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 176,
+    "Title": "True story of a vampire and more",
+    "Author": "Eric Stenbock",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 177,
+    "Title": "When the world screamed",
+    "Author": "Sir Arthur Conan Doyle",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 178,
+    "Title": "Northanger abbey",
+    "Author": "Jane Austen",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 179,
+    "Title": "Murder must advertise",
+    "Author": "Dorothy L Sayers",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 180,
+    "Title": "Corinthian",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 181,
+    "Title": "Monsignor Quixote",
+    "Author": "Graham Greene",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 182,
+    "Title": "Lords and ladies",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 183,
+    "Title": "Civil contract",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 184,
+    "Title": "Life of Pi",
+    "Author": "Yann Martel",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 185,
+    "Title": "Curious incident of the dog in the night-time",
+    "Author": "Mark Haddon",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 186,
+    "Title": "Colour of magic",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 187,
+    "Title": "Flashman",
+    "Author": "George Macdonald Fraser",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 188,
+    "Title": "Drunken forest",
+    "Author": "Gerald Durrell",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 189,
+    "Title": "Men at arms",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 190,
+    "Title": "Amsterdam",
+    "Author": "Ian McEwan",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 191,
+    "Title": "Let sleeping vets lie",
+    "Author": "James Herriot",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 192,
+    "Title": "Feet of clay",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 193,
+    "Title": "Jingo",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 194,
+    "Title": "God of small things",
+    "Author": "Arundhati Roy",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 195,
+    "Title": "The color purple",
+    "Author": "Alice Walker",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 196,
+    "Title": "Handmaid's tale",
+    "Author": "Margaret Atwood",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 197,
+    "Title": "Wicked",
+    "Author": "Gregory Maguire",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 198,
+    "Title": "Short history of tractors in Ukranian",
+    "Author": "Marina Lewycka",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 199,
+    "Title": "Fifth elephant",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 200,
+    "Title": "Night watch",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 201,
+    "Title": "Strong poison",
+    "Author": "Dorothy L Sayers",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 202,
+    "Title": "Thud!",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 203,
+    "Title": "Gaudy night",
+    "Author": "Dorothy L Sayers",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 204,
+    "Title": "Grapes of wrath",
+    "Author": "John Steinbeck",
+    "ReadDate": "2007-01-01"
+  },
+  {
+    "#": 205,
+    "Title": "My 'dam life",
+    "Author": "Sean Condon",
+    "ReadDate": "2008-03-04"
+  },
+  {
+    "#": 206,
+    "Title": "Things I overheard while talking to myself",
+    "Author": "Alan Alda",
+    "ReadDate": "2008-03-06"
+  },
+  {
+    "#": 207,
+    "Title": "Breakfast of champions",
+    "Author": "Kurt Vonnegut",
+    "ReadDate": "2008-03-07"
+  },
+  {
+    "#": 208,
+    "Title": "Run with the wind",
+    "Author": "Tom McCaughren",
+    "ReadDate": "2008-03-07"
+  },
+  {
+    "#": 209,
+    "Title": "Exile's honor",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2008-03-08"
+  },
+  {
+    "#": 210,
+    "Title": "Exile's valor",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2008-03-09"
+  },
+  {
+    "#": 211,
+    "Title": "Arrows of the queen",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2008-03-12"
+  },
+  {
+    "#": 212,
+    "Title": "Magic's pawn",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2008-03-13"
+  },
+  {
+    "#": 213,
+    "Title": "Howl's moving castle",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2008-03-16"
+  },
+  {
+    "#": 214,
+    "Title": "Run to earth",
+    "Author": "Tom McCaughren",
+    "ReadDate": "2008-03-17"
+  },
+  {
+    "#": 215,
+    "Title": "Run swift, run free",
+    "Author": "Tom McCaughren",
+    "ReadDate": "2008-03-18"
+  },
+  {
+    "#": 216,
+    "Title": "Run to the ark",
+    "Author": "Tom McCaughren",
+    "ReadDate": "2008-03-19"
+  },
+  {
+    "#": 217,
+    "Title": "Terrier",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-03-20"
+  },
+  {
+    "#": 218,
+    "Title": "Alanna: the first adventure",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-03-21"
+  },
+  {
+    "#": 219,
+    "Title": "In the hand of the Goddess",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-03-24"
+  },
+  {
+    "#": 220,
+    "Title": "Woman who rides like a man",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-03-25"
+  },
+  {
+    "#": 221,
+    "Title": "Lioness rampant",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-03-25"
+  },
+  {
+    "#": 222,
+    "Title": "Wild magic",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-03-25"
+  },
+  {
+    "#": 223,
+    "Title": "Wolf-speaker",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-03-26"
+  },
+  {
+    "#": 224,
+    "Title": "Emperor mage",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-03-26"
+  },
+  {
+    "#": 225,
+    "Title": "Realms of the gods",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-03-27"
+  },
+  {
+    "#": 226,
+    "Title": "Beekeeper's apprentice",
+    "Author": "Laurie R. King",
+    "ReadDate": "2008-03-28"
+  },
+  {
+    "#": 227,
+    "Title": "Five on a secret trail",
+    "Author": "Enid Blyton",
+    "ReadDate": "2008-03-29"
+  },
+  {
+    "#": 228,
+    "Title": "Moor",
+    "Author": "Laurie R. King",
+    "ReadDate": "2008-03-30"
+  },
+  {
+    "#": 229,
+    "Title": "Magic's promise",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2008-03-31"
+  },
+  {
+    "#": 230,
+    "Title": "Cairo Jim and the lagoon of tidal magnificence",
+    "Author": "Geoffrey McSkimming",
+    "ReadDate": "2008-04-02"
+  },
+  {
+    "#": 231,
+    "Title": "Falling free",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2008-04-04"
+  },
+  {
+    "#": 232,
+    "Title": "Ronia the robber's daughter",
+    "Author": "Astrid Lindgren",
+    "ReadDate": "2008-04-05"
+  },
+  {
+    "#": 233,
+    "Title": "Daddy-long-legs",
+    "Author": "Jean Webster",
+    "ReadDate": "2008-04-11"
+  },
+  {
+    "#": 234,
+    "Title": "Ultramarine",
+    "Author": "Jenny Nimmo",
+    "ReadDate": "2008-04-11"
+  },
+  {
+    "#": 235,
+    "Title": "Rainbow and Mr Zed",
+    "Author": "Jenny Nimmo",
+    "ReadDate": "2008-04-11"
+  },
+  {
+    "#": 236,
+    "Title": "Wizard of Earthsea",
+    "Author": "Ursula Le Guin",
+    "ReadDate": "2008-04-13"
+  },
+  {
+    "#": 237,
+    "Title": "Tombs of Atuan",
+    "Author": "Ursula Le Guin",
+    "ReadDate": "2008-04-15"
+  },
+  {
+    "#": 238,
+    "Title": "Farthest shore",
+    "Author": "Ursula Le Guin",
+    "ReadDate": "2008-04-16"
+  },
+  {
+    "#": 239,
+    "Title": "Tehanu",
+    "Author": "Ursula Le Guin",
+    "ReadDate": "2008-04-18"
+  },
+  {
+    "#": 240,
+    "Title": "Children of Green Knowe",
+    "Author": "Lucy M Boston",
+    "ReadDate": "2008-04-19"
+  },
+  {
+    "#": 241,
+    "Title": "Chimneys of Green Knowe",
+    "Author": "Lucy M Boston",
+    "ReadDate": "2008-04-19"
+  },
+  {
+    "#": 242,
+    "Title": "Sheep-pig",
+    "Author": "Dick King-Smith",
+    "ReadDate": "2008-05-01"
+  },
+  {
+    "#": 243,
+    "Title": "Genius squad",
+    "Author": "Catherine Jinks",
+    "ReadDate": "2008-05-06"
+  },
+  {
+    "#": 244,
+    "Title": "Mastering law studies and law exam techniques",
+    "Author": "Richard Krever",
+    "ReadDate": "2008-05-07"
+  },
+  {
+    "#": 245,
+    "Title": "Curse of Chalion",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2008-05-11"
+  },
+  {
+    "#": 246,
+    "Title": "Law student survival guide : 9 steps to law study success",
+    "Author": "Claire Macken",
+    "ReadDate": "2008-05-13"
+  },
+  {
+    "#": 247,
+    "Title": "Sharing knife: legacy",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2008-05-20"
+  },
+  {
+    "#": 248,
+    "Title": "Sharing knife: beguilement",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2008-05-20"
+  },
+  {
+    "#": 249,
+    "Title": "Mantras and misdemeanours: an accidental love story",
+    "Author": "Vanessa Walker",
+    "ReadDate": "2008-05-29"
+  },
+  {
+    "#": 250,
+    "Title": "Puck of pook's hill",
+    "Author": "Rudyard Kipling",
+    "ReadDate": "2008-06-04"
+  },
+  {
+    "#": 251,
+    "Title": "Harper's magazine - June 2008",
+    "Author": "Various",
+    "Editors": true,
+    "ReadDate": "2008-06-08"
+  },
+  {
+    "#": 252,
+    "Title": "Pippi longstocking",
+    "Author": "Astrid Lindgren",
+    "ReadDate": "2008-06-09"
+  },
+  {
+    "#": 253,
+    "Title": "Paladin of souls",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2008-06-11"
+  },
+  {
+    "#": 254,
+    "Title": "Hunting party",
+    "Author": "Elizabeth Moon",
+    "ReadDate": "2008-06-20"
+  },
+  {
+    "#": 255,
+    "Title": "Sporting chance",
+    "Author": "Elizabeth Moon",
+    "ReadDate": "2008-06-20"
+  },
+  {
+    "#": 256,
+    "Title": "Winning colors",
+    "Author": "Elizabeth Moon",
+    "ReadDate": "2008-06-21"
+  },
+  {
+    "#": 257,
+    "Title": "Game of thrones",
+    "Author": "George R.R. Martin",
+    "ReadDate": "2008-06-28"
+  },
+  {
+    "#": 258,
+    "Title": "Clash of kings",
+    "Author": "George R.R. Martin",
+    "ReadDate": "2008-06-29"
+  },
+  {
+    "#": 259,
+    "Title": "Storm of swords",
+    "Author": "George R.R. Martin",
+    "ReadDate": "2008-06-30"
+  },
+  {
+    "#": 260,
+    "Title": "Female eunuch",
+    "Author": "Germaine Greer",
+    "ReadDate": "2008-07-05"
+  },
+  {
+    "#": 261,
+    "Title": "Tenth planet",
+    "Author": "Edmund Cooper",
+    "ReadDate": "2008-07-08"
+  },
+  {
+    "#": 262,
+    "Title": "Arrow's flight",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2008-07-10"
+  },
+  {
+    "#": 263,
+    "Title": "Arrow's fall",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2008-07-10"
+  },
+  {
+    "#": 264,
+    "Title": "Snow spider",
+    "Author": "Jenny Nimmo",
+    "ReadDate": "2008-07-11"
+  },
+  {
+    "#": 265,
+    "Title": "Emlyn's moon",
+    "Author": "Jenny Nimmo",
+    "ReadDate": "2008-07-11"
+  },
+  {
+    "#": 266,
+    "Title": "Secret garden",
+    "Author": "Frances Hodgson Burnett",
+    "ReadDate": "2008-07-12"
+  },
+  {
+    "#": 267,
+    "Title": "Harper's magazine - July 2008",
+    "Author": "Various",
+    "Editors": true,
+    "ReadDate": "2008-07-13"
+  },
+  {
+    "#": 268,
+    "Title": "Castle in the air",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2008-07-14"
+  },
+  {
+    "#": 269,
+    "Title": "Witchbank",
+    "Author": "Catherine Jinks",
+    "ReadDate": "2008-07-15"
+  },
+  {
+    "#": 270,
+    "Title": "By the sword",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2008-07-15"
+  },
+  {
+    "#": 271,
+    "Title": "Hexwood",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2008-07-16"
+  },
+  {
+    "#": 272,
+    "Title": "Eye to eye",
+    "Author": "Catherine Jinks",
+    "ReadDate": "2008-07-16"
+  },
+  {
+    "#": 273,
+    "Title": "Howl's moving castle",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2008-07-18"
+  },
+  {
+    "#": 274,
+    "Title": "Take a thief",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2008-07-19"
+  },
+  {
+    "#": 275,
+    "Title": "Downward to the earth",
+    "Author": "Robert Silverberg",
+    "ReadDate": "2008-07-20"
+  },
+  {
+    "#": 276,
+    "Title": "Something wicked this way comes",
+    "Author": "Ray Bradbury",
+    "ReadDate": "2008-07-21"
+  },
+  {
+    "#": 277,
+    "Title": "Dragonclaw",
+    "Author": "Kate Forsyth",
+    "ReadDate": "2008-07-23"
+  },
+  {
+    "#": 278,
+    "Title": "Pool of two moons",
+    "Author": "Kate Forsyth",
+    "ReadDate": "2008-07-23"
+  },
+  {
+    "#": 279,
+    "Title": "Castle of wizardry",
+    "Author": "David Eddings",
+    "ReadDate": "2008-07-24"
+  },
+  {
+    "#": 280,
+    "Title": "Enchanter's end game",
+    "Author": "David Eddings",
+    "ReadDate": "2008-07-24"
+  },
+  {
+    "#": 281,
+    "Title": "Ditta's tree",
+    "Author": "Jean Hughes",
+    "ReadDate": "2008-08-05"
+  },
+  {
+    "#": 282,
+    "Title": "Alchemist's key",
+    "Author": "Traci Harding",
+    "ReadDate": "2008-08-06"
+  },
+  {
+    "#": 283,
+    "Title": "Justice hall",
+    "Author": "Laurie R. King",
+    "ReadDate": "2008-08-07"
+  },
+  {
+    "#": 284,
+    "Title": "Threshold",
+    "Author": "Sara Douglass",
+    "ReadDate": "2008-08-09"
+  },
+  {
+    "#": 285,
+    "Title": "Komarr",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2008-08-13"
+  },
+  {
+    "#": 286,
+    "Title": "Pawn of prophecy",
+    "Author": "David Eddings",
+    "ReadDate": "2008-08-13"
+  },
+  {
+    "#": 287,
+    "Title": "Queen of sorcery",
+    "Author": "David Eddings",
+    "ReadDate": "2008-08-15"
+  },
+  {
+    "#": 288,
+    "Title": "Magician's gambit",
+    "Author": "David Eddings",
+    "ReadDate": "2008-08-15"
+  },
+  {
+    "#": 289,
+    "Title": "Guardians of the west",
+    "Author": "David Eddings",
+    "ReadDate": "2008-08-15"
+  },
+  {
+    "#": 290,
+    "Title": "King of the Murgos",
+    "Author": "David Eddings",
+    "ReadDate": "2008-08-15"
+  },
+  {
+    "#": 291,
+    "Title": "Demon lord of Karanda",
+    "Author": "David Eddings",
+    "ReadDate": "2008-08-15"
+  },
+  {
+    "#": 292,
+    "Title": "Sorceress of Darshiva",
+    "Author": "David Eddings",
+    "ReadDate": "2008-08-15"
+  },
+  {
+    "#": 293,
+    "Title": "Seeress of Kell",
+    "Author": "David Eddings",
+    "ReadDate": "2008-08-15"
+  },
+  {
+    "#": 294,
+    "Title": "Ancient future",
+    "Author": "Traci Harding",
+    "ReadDate": "2008-08-17"
+  },
+  {
+    "#": 295,
+    "Title": "Echo in time: Atlantis",
+    "Author": "Traci Harding",
+    "ReadDate": "2008-08-21"
+  },
+  {
+    "#": 296,
+    "Title": "Weatherstone eleven",
+    "Author": "Rebecca Lisle",
+    "ReadDate": "2008-08-21"
+  },
+  {
+    "#": 297,
+    "Title": "Masters of reality: the gathering",
+    "Author": "Traci Harding",
+    "ReadDate": "2008-08-22"
+  },
+  {
+    "#": 298,
+    "Title": "Doctor who: the Sensorites",
+    "Author": "Nigel Robinson",
+    "ReadDate": "2008-08-23"
+  },
+  {
+    "#": 299,
+    "Title": "Photo finish",
+    "Author": "Ngaio Marsh",
+    "ReadDate": "2008-09-05"
+  },
+  {
+    "#": 300,
+    "Title": "Magic in the weaving",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-09-13"
+  },
+  {
+    "#": 301,
+    "Title": "Power in the storm",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-09-13"
+  },
+  {
+    "#": 302,
+    "Title": "Fire in the forging",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-09-14"
+  },
+  {
+    "#": 303,
+    "Title": "Healing in the vine",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-09-14"
+  },
+  {
+    "#": 304,
+    "Title": "Magic steps",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-09-17"
+  },
+  {
+    "#": 305,
+    "Title": "Will of the empress",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-09-17"
+  },
+  {
+    "#": 306,
+    "Title": "Shards of honor",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2008-09-20"
+  },
+  {
+    "#": 307,
+    "Title": "Sharing knife: legacy",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2008-09-24"
+  },
+  {
+    "#": 308,
+    "Title": "Sharing knife: beguilement",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2008-09-27"
+  },
+  {
+    "#": 309,
+    "Title": "On Basilisk Station",
+    "Author": "David Weber",
+    "ReadDate": "2008-09-28"
+  },
+  {
+    "#": 310,
+    "Title": "Warrior's apprentice",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2008-10-01"
+  },
+  {
+    "#": 311,
+    "Title": "Magicians of Caprona",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2008-10-02"
+  },
+  {
+    "#": 312,
+    "Title": "All creatures great and small",
+    "Author": "James Herriot",
+    "ReadDate": "2008-10-03"
+  },
+  {
+    "#": 313,
+    "Title": "Icarus hunt",
+    "Author": "Timothy Zahn",
+    "ReadDate": "2008-10-04"
+  },
+  {
+    "#": 314,
+    "Title": "Honor of the queen",
+    "Author": "David Weber",
+    "ReadDate": "2008-10-04"
+  },
+  {
+    "#": 315,
+    "Title": "A man lay dead",
+    "Author": "Ngaio Marsh",
+    "ReadDate": "2008-10-05"
+  },
+  {
+    "#": 316,
+    "Title": "BFG",
+    "Author": "Roald Dahl",
+    "ReadDate": "2008-10-06"
+  },
+  {
+    "#": 317,
+    "Title": "Trickster's choice",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-10-09"
+  },
+  {
+    "#": 318,
+    "Title": "Trickster's queen",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-10-10"
+  },
+  {
+    "#": 319,
+    "Title": "Convenient marriage",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2008-10-16"
+  },
+  {
+    "#": 320,
+    "Title": "Corinthian",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2008-10-16"
+  },
+  {
+    "#": 321,
+    "Title": "Hallowed hunt",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2008-10-16"
+  },
+  {
+    "#": 322,
+    "Title": "Lives of Christopher Chant",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2008-10-16"
+  },
+  {
+    "#": 323,
+    "Title": "Mansfield park",
+    "Author": "Jane Austen",
+    "ReadDate": "2008-10-21"
+  },
+  {
+    "#": 324,
+    "Title": "Stig of the dump",
+    "Author": "Clive King",
+    "ReadDate": "2008-10-23"
+  },
+  {
+    "#": 325,
+    "Title": "Uncommon reader",
+    "Author": "Alan Bennett",
+    "ReadDate": "2008-10-24"
+  },
+  {
+    "#": 326,
+    "Title": "Silverthorn",
+    "Author": "Raymond E Feist",
+    "ReadDate": "2008-10-25"
+  },
+  {
+    "#": 327,
+    "Title": "Enchanter",
+    "Author": "Sara Douglass",
+    "ReadDate": "2008-11-01"
+  },
+  {
+    "#": 328,
+    "Title": "Wrinkle in time",
+    "Author": "Madeleine L'Engle",
+    "ReadDate": "2008-11-13"
+  },
+  {
+    "#": 329,
+    "Title": "Squire",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-11-13"
+  },
+  {
+    "#": 330,
+    "Title": "Lady knight",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-11-13"
+  },
+  {
+    "#": 331,
+    "Title": "Making money",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2008-11-22"
+  },
+  {
+    "#": 332,
+    "Title": "King of the desert, captive bride",
+    "Author": "Jane Porter",
+    "ReadDate": "2008-11-23"
+  },
+  {
+    "#": 333,
+    "Title": "Dictator and the hammock",
+    "Author": "Daniel Pennac",
+    "ReadDate": "2008-11-24"
+  },
+  {
+    "#": 334,
+    "Title": "Cotillion",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2008-11-25"
+  },
+  {
+    "#": 335,
+    "Title": "Damned whores and god's police",
+    "Author": "Anne Summers",
+    "ReadDate": "2008-11-25"
+  },
+  {
+    "#": 336,
+    "Title": "Monarch of the glen",
+    "Author": "Compton Mackenzie",
+    "ReadDate": "2008-11-27"
+  },
+  {
+    "#": 337,
+    "Title": "Secret diary of Adrian Mole, aged 13¾",
+    "Author": "Sue Townsend",
+    "ReadDate": "2008-11-27"
+  },
+  {
+    "#": 338,
+    "Title": "Chocolate war",
+    "Author": "Robert Cormier",
+    "ReadDate": "2008-11-27"
+  },
+  {
+    "#": 339,
+    "Title": "Locked out: felon disenfranchisement and American democracy",
+    "Author": ["Jeff Manza","Christopher Uggen"],
+    "ReadDate": "2008-11-28"
+  },
+  {
+    "#": 340,
+    "Title": "Guards! Guards!",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2008-12-01"
+  },
+  {
+    "#": 341,
+    "Title": "Gaudy night",
+    "Author": "Dorothy L Sayers",
+    "ReadDate": "2008-12-01"
+  },
+  {
+    "#": 342,
+    "Title": "Men at arms",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2008-12-03"
+  },
+  {
+    "#": 343,
+    "Title": "Busman's honeymoon",
+    "Author": "Dorothy L Sayers",
+    "ReadDate": "2008-12-03"
+  },
+  {
+    "#": 344,
+    "Title": "Paladin of souls",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2008-12-05"
+  },
+  {
+    "#": 345,
+    "Title": "Letter of Mary",
+    "Author": "Laurie R. King",
+    "ReadDate": "2008-12-06"
+  },
+  {
+    "#": 346,
+    "Title": "Curse of Chalion",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2008-12-08"
+  },
+  {
+    "#": 347,
+    "Title": "Spirit ring",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2008-12-09"
+  },
+  {
+    "#": 348,
+    "Title": "Year of the griffin",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2008-12-18"
+  },
+  {
+    "#": 349,
+    "Title": "Charmed life",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2008-12-18"
+  },
+  {
+    "#": 350,
+    "Title": "Melting stones",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2008-12-18"
+  },
+  {
+    "#": 351,
+    "Title": "Merlin conspiracy",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2008-12-19"
+  },
+  {
+    "#": 352,
+    "Title": "Tales of Beedle the bard",
+    "Author": "J.K. Rowling",
+    "ReadDate": "2008-12-22"
+  },
+  {
+    "#": 353,
+    "Title": "Twisted citadel",
+    "Author": "Sara Douglass",
+    "ReadDate": "2008-12-24"
+  },
+  {
+    "#": 354,
+    "Title": "All things bright and beautiful",
+    "Author": "James Herriot",
+    "ReadDate": "2008-12-25"
+  },
+  {
+    "#": 355,
+    "Title": "Twilight",
+    "Author": "Stephenie Meyer",
+    "ReadDate": "2008-12-25"
+  },
+  {
+    "#": 356,
+    "Title": "Gateway to the stars",
+    "Author": "John Carnell",
+    "Editors": true,
+    "ReadDate": "2008-12-27"
+  },
+  {
+    "#": 357,
+    "Title": "Tomorrow's universe",
+    "Author": "H.J. Campbell",
+    "Editors": true,
+    "ReadDate": "2008-12-27"
+  },
+  {
+    "#": 358,
+    "Title": "Imagination unlimited",
+    "Author": ["Everett Bleiler","T.E. Dikty"],
+    "Editors": true,
+    "ReadDate": "2008-12-27"
+  },
+  {
+    "#": 359,
+    "Title": "Galaxy reader of science fiction",
+    "Author": "H.L. Gold",
+    "Editors": true,
+    "ReadDate": "2008-12-29"
+  },
+  {
+    "#": 360,
+    "Title": "Grass",
+    "Author": "Sheri S. Tepper",
+    "ReadDate": "2009-01-02"
+  },
+  {
+    "#": 361,
+    "Title": "Sense and sensibility",
+    "Author": "Jane Austen",
+    "ReadDate": "2009-01-03"
+  },
+  {
+    "#": 362,
+    "Title": "Sharing knife: passage",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2009-01-05"
+  },
+  {
+    "#": 363,
+    "Title": "Maid Marian: a novel",
+    "Author": "Elsa Watson",
+    "ReadDate": "2009-01-06"
+  },
+  {
+    "#": 364,
+    "Title": "April lady",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2009-01-08"
+  },
+  {
+    "#": 365,
+    "Title": "Devil's cub",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2009-01-08"
+  },
+  {
+    "#": 366,
+    "Title": "Sharing knife: beguilement",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2009-01-12"
+  },
+  {
+    "#": 367,
+    "Title": "Sharing knife: legacy",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2009-01-14"
+  },
+  {
+    "#": 368,
+    "Title": "Winds of fate",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2009-01-20"
+  },
+  {
+    "#": 369,
+    "Title": "Winds of change",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2009-01-20"
+  },
+  {
+    "#": 370,
+    "Title": "Storm warning",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2009-01-21"
+  },
+  {
+    "#": 371,
+    "Title": "Storm rising",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2009-01-21"
+  },
+  {
+    "#": 372,
+    "Title": "Storm breaking",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2009-01-22"
+  },
+  {
+    "#": 373,
+    "Title": "Owlflight",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2009-01-22"
+  },
+  {
+    "#": 374,
+    "Title": "Owlsight",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2009-01-22"
+  },
+  {
+    "#": 375,
+    "Title": "Town like Alice",
+    "Author": "Nevil Shute",
+    "ReadDate": "2009-01-23"
+  },
+  {
+    "#": 376,
+    "Title": "Owlknight",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2009-01-23"
+  },
+  {
+    "#": 377,
+    "Title": "Magic's price",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2009-01-27"
+  },
+  {
+    "#": 378,
+    "Title": "Lawyer and the libertine",
+    "Author": "Ian Callinan",
+    "ReadDate": "2009-01-29"
+  },
+  {
+    "#": 379,
+    "Title": "All things wise and wonderful",
+    "Author": "James Herriot",
+    "ReadDate": "2009-02-01"
+  },
+  {
+    "#": 380,
+    "Title": "Lorna Doone",
+    "Author": "R.D. Blackmore",
+    "ReadDate": "2009-02-04"
+  },
+  {
+    "#": 381,
+    "Title": "Cold comfort farm",
+    "Author": "Stella Gibbons",
+    "ReadDate": "2009-02-06"
+  },
+  {
+    "#": 382,
+    "Title": "Halfmen of O",
+    "Author": "Maurice Gee",
+    "ReadDate": "2009-02-18"
+  },
+  {
+    "#": 383,
+    "Title": "Evatt: politics and justice",
+    "Author": "Kylie Tennant",
+    "ReadDate": "2009-02-21"
+  },
+  {
+    "#": 384,
+    "Title": "Pelican brief",
+    "Author": "John Grisham",
+    "ReadDate": "2009-02-22"
+  },
+  {
+    "#": 385,
+    "Title": "Phantom tollbooth",
+    "Author": "Norton Juster",
+    "ReadDate": "2009-02-23"
+  },
+  {
+    "#": 386,
+    "Title": "Sharing knife: passage",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2009-03-04"
+  },
+  {
+    "#": 387,
+    "Title": "Ella enchanted",
+    "Author": "Gail Carson Levine",
+    "ReadDate": "2009-03-21"
+  },
+  {
+    "#": 388,
+    "Title": "Crooked house",
+    "Author": "Agatha Christie",
+    "ReadDate": "2009-03-21"
+  },
+  {
+    "#": 389,
+    "Title": "Sheepfarmer's daugher",
+    "Author": "Elizabeth Moon",
+    "ReadDate": "2009-03-28"
+  },
+  {
+    "#": 390,
+    "Title": "Harry Potter and the deathly hallows",
+    "Author": "J.K. Rowling",
+    "ReadDate": "2009-03-30"
+  },
+  {
+    "#": 391,
+    "Title": "Shoes of the fisherman",
+    "Author": "Morris West",
+    "ReadDate": "2009-03-31"
+  },
+  {
+    "#": 392,
+    "Title": "Primary inversion",
+    "Author": "Catherine Asaro",
+    "ReadDate": "2009-04-12"
+  },
+  {
+    "#": 393,
+    "Title": "Sharing knife: legacy",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2009-04-12"
+  },
+  {
+    "#": 394,
+    "Title": "Hobbit (The)",
+    "Author": "J.R.R. Tolkien",
+    "ReadDate": "2009-04-13"
+  },
+  {
+    "#": 395,
+    "Title": "Dark lord of Derkholm",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2009-04-16"
+  },
+  {
+    "#": 396,
+    "Title": "Year of the griffin",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2009-04-16"
+  },
+  {
+    "#": 397,
+    "Title": "Homeward bounders",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2009-04-17"
+  },
+  {
+    "#": 398,
+    "Title": "Howl's moving castle",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2009-04-18"
+  },
+  {
+    "#": 399,
+    "Title": "Castle in the air",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2009-04-19"
+  },
+  {
+    "#": 400,
+    "Title": "Cotillion",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2009-04-19"
+  },
+  {
+    "#": 401,
+    "Title": "Gaudy night",
+    "Author": "Dorothy L Sayers",
+    "ReadDate": "2009-04-21"
+  },
+  {
+    "#": 402,
+    "Title": "Devil's cub",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2009-04-23"
+  },
+  {
+    "#": 403,
+    "Title": "Why didn't they ask Evans?",
+    "Author": "Agatha Christie",
+    "ReadDate": "2009-05-04"
+  },
+  {
+    "#": 404,
+    "Title": "Harper's magazine - November 2006",
+    "Author": "Various",
+    "Editors": true,
+    "ReadDate": "2009-05-05"
+  },
+  {
+    "#": 405,
+    "Title": "Walk in wolf wood",
+    "Author": "Mary Stewart",
+    "ReadDate": "2009-05-07"
+  },
+  {
+    "#": 406,
+    "Title": "Howl's moving castle",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2009-05-08"
+  },
+  {
+    "#": 407,
+    "Title": "Twilight",
+    "Author": "Stephenie Meyer",
+    "ReadDate": "2009-05-12"
+  },
+  {
+    "#": 408,
+    "Title": "Double star",
+    "Author": "Robert A. Heinlein",
+    "ReadDate": "2009-05-14"
+  },
+  {
+    "#": 409,
+    "Title": "Paladin of souls",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2009-05-19"
+  },
+  {
+    "#": 410,
+    "Title": "Convenient marriage",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2009-05-21"
+  },
+  {
+    "#": 411,
+    "Title": "April lady",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2009-05-21"
+  },
+  {
+    "#": 412,
+    "Title": "Goodnight mister Tom",
+    "Author": "Michelle Magorian",
+    "ReadDate": "2009-05-22"
+  },
+  {
+    "#": 413,
+    "Title": "Scatterlings",
+    "Author": "Isobelle Carmody",
+    "ReadDate": "2009-05-29"
+  },
+  {
+    "#": 414,
+    "Title": "Pagan's scribe",
+    "Author": "Catherine Jinks",
+    "ReadDate": "2009-05-29"
+  },
+  {
+    "#": 415,
+    "Title": "Amulet of samarkand",
+    "Author": "Jonathan Stroud",
+    "ReadDate": "2009-05-29"
+  },
+  {
+    "#": 416,
+    "Title": "Golem's eye",
+    "Author": "Jonathan Stroud",
+    "ReadDate": "2009-05-30"
+  },
+  {
+    "#": 417,
+    "Title": "Ptolemy's gate",
+    "Author": "Jonathan Stroud",
+    "ReadDate": "2009-05-30"
+  },
+  {
+    "#": 418,
+    "Title": "Airs above the ground",
+    "Author": "Mary Stewart",
+    "ReadDate": "2009-06-01"
+  },
+  {
+    "#": 419,
+    "Title": "I found my horn",
+    "Author": "Jasper Rees",
+    "ReadDate": "2009-06-23"
+  },
+  {
+    "#": 420,
+    "Title": "These old shades",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2009-06-23"
+  },
+  {
+    "#": 421,
+    "Title": "Gun seller",
+    "Author": "Hugh Laurie",
+    "ReadDate": "2009-06-25"
+  },
+  {
+    "#": 422,
+    "Title": "Justice game",
+    "Author": "Geoffrey Robertson",
+    "ReadDate": "2009-06-25"
+  },
+  {
+    "#": 423,
+    "Title": "Castle of adventure",
+    "Author": "Enid Blyton",
+    "ReadDate": "2009-06-26"
+  },
+  {
+    "#": 424,
+    "Title": "Heidi",
+    "Author": "Johanna Spyri",
+    "ReadDate": "2009-07-05"
+  },
+  {
+    "#": 425,
+    "Title": "Sharing knife: horizon",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2009-07-06"
+  },
+  {
+    "#": 426,
+    "Title": "Alice in wonderland",
+    "Author": "Lewis Carroll",
+    "ReadDate": "2009-07-06"
+  },
+  {
+    "#": 427,
+    "Title": "Bloodhound",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2009-07-06"
+  },
+  {
+    "#": 428,
+    "Title": "Longitude",
+    "Author": "Dava Sobel",
+    "ReadDate": "2009-07-08"
+  },
+  {
+    "#": 429,
+    "Title": "Steps up the chimney",
+    "Author": "William Corbett",
+    "ReadDate": "2009-07-09"
+  },
+  {
+    "#": 430,
+    "Title": "Door in the tree",
+    "Author": "William Corbett",
+    "ReadDate": "2009-07-09"
+  },
+  {
+    "#": 431,
+    "Title": "Tunnel behind the waterfall",
+    "Author": "William Corbett",
+    "ReadDate": "2009-07-09"
+  },
+  {
+    "#": 432,
+    "Title": "Bridge in the clouds",
+    "Author": "William Corbett",
+    "ReadDate": "2009-07-09"
+  },
+  {
+    "#": 433,
+    "Title": "Curse of Chalion",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2009-07-17"
+  },
+  {
+    "#": 434,
+    "Title": "Eyre affair",
+    "Author": "Jasper fforde",
+    "ReadDate": "2009-07-19"
+  },
+  {
+    "#": 435,
+    "Title": "Spaceship medic",
+    "Author": "Harry Harrison",
+    "ReadDate": "2009-07-22"
+  },
+  {
+    "#": 436,
+    "Title": "One day in the life of Ivan Denisovich",
+    "Author": "Alexander Solzhenitsyn",
+    "ReadDate": "2009-07-24"
+  },
+  {
+    "#": 437,
+    "Title": "Black horses for the king",
+    "Author": "Anne McCaffrey",
+    "ReadDate": "2009-08-04"
+  },
+  {
+    "#": 438,
+    "Title": "Game of kings",
+    "Author": "Dorothy Dunnet",
+    "ReadDate": "2009-08-09"
+  },
+  {
+    "#": 439,
+    "Title": "Citizen of the galaxy",
+    "Author": "Robert A. Heinlein",
+    "ReadDate": "2009-08-11"
+  },
+  {
+    "#": 440,
+    "Title": "Valley of adventure",
+    "Author": "Enid Blyton",
+    "ReadDate": "2009-08-14"
+  },
+  {
+    "#": 441,
+    "Title": "By the pricking of my thumbs",
+    "Author": "Agatha Christie",
+    "ReadDate": "2009-08-14"
+  },
+  {
+    "#": 442,
+    "Title": "Death comes as the end",
+    "Author": "Agatha Christie",
+    "ReadDate": "2009-08-16"
+  },
+  {
+    "#": 443,
+    "Title": "Death of a perfect wife",
+    "Author": "M.C. Beaton",
+    "ReadDate": "2009-08-17"
+  },
+  {
+    "#": 444,
+    "Title": "Da Vinci code",
+    "Author": "Dan Brown",
+    "ReadDate": "2009-08-18"
+  },
+  {
+    "#": 445,
+    "Title": "Harper's magazine - December 2006",
+    "Author": "Various",
+    "Editors": true,
+    "ReadDate": "2009-08-19"
+  },
+  {
+    "#": 446,
+    "Title": "Faro's daughter",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2009-08-31"
+  },
+  {
+    "#": 447,
+    "Title": "Mirror crack'd from side to side",
+    "Author": "Agatha Christie",
+    "ReadDate": "2009-09-01"
+  },
+  {
+    "#": 448,
+    "Title": "Feet of clay",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2009-09-04"
+  },
+  {
+    "#": 449,
+    "Title": "Jingo",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2009-09-05"
+  },
+  {
+    "#": 450,
+    "Title": "Fifth elephant, The",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2009-09-08"
+  },
+  {
+    "#": 451,
+    "Title": "Graveyard book",
+    "Author": "Neil Gaiman",
+    "ReadDate": "2009-09-09"
+  },
+  {
+    "#": 452,
+    "Title": "Jane Austen's guide to dating",
+    "Author": "Lauren Henderson",
+    "ReadDate": "2009-09-12"
+  },
+  {
+    "#": 453,
+    "Title": "To the manor born",
+    "Author": "Peter Spence",
+    "ReadDate": "2009-09-15"
+  },
+  {
+    "#": 454,
+    "Title": "Jane Eyre",
+    "Author": "Charlotte Brontë",
+    "ReadDate": "2009-09-20"
+  },
+  {
+    "#": 455,
+    "Title": "Don't tell mum I work on the rigs, she thinks I'm a piano player in a whorehouse",
+    "Author": "Paul Carter",
+    "ReadDate": "2009-09-23"
+  },
+  {
+    "#": 456,
+    "Title": "Death in the clouds",
+    "Author": "Agatha Christie",
+    "ReadDate": "2009-09-27"
+  },
+  {
+    "#": 457,
+    "Title": "Evil under the sun",
+    "Author": "Agatha Christie",
+    "ReadDate": "2009-09-27"
+  },
+  {
+    "#": 458,
+    "Title": "Hickory dickory dock",
+    "Author": "Agatha Christie",
+    "ReadDate": "2009-09-30"
+  },
+  {
+    "#": 459,
+    "Title": "Sharing knife: beguilement",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2009-10-05"
+  },
+  {
+    "#": 460,
+    "Title": "Moving finger",
+    "Author": "Agatha Christie",
+    "ReadDate": "2009-10-06"
+  },
+  {
+    "#": 461,
+    "Title": "Sharing knife: passage",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2009-10-10"
+  },
+  {
+    "#": 462,
+    "Title": "Mrs. McGinty's dead",
+    "Author": "Agatha Christie",
+    "ReadDate": "2009-10-13"
+  },
+  {
+    "#": 463,
+    "Title": "Shards of honor",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2009-10-15"
+  },
+  {
+    "#": 464,
+    "Title": "Harper's magazine - January 2007",
+    "Author": "Various",
+    "Editors": true,
+    "ReadDate": "2009-10-15"
+  },
+  {
+    "#": 465,
+    "Title": "Paladin of souls",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2009-10-22"
+  },
+  {
+    "#": 466,
+    "Title": "Haunting of Bellamy 4",
+    "Author": "Monica Dickens",
+    "ReadDate": "2009-10-25"
+  },
+  {
+    "#": 467,
+    "Title": "Northanger abbey",
+    "Author": "Jane Austen",
+    "ReadDate": "2009-10-28"
+  },
+  {
+    "#": 468,
+    "Title": "Game, The",
+    "Author": "Laurie R. King",
+    "ReadDate": "2009-10-31"
+  },
+  {
+    "#": 469,
+    "Title": "Devil's cub",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2009-11-01"
+  },
+  {
+    "#": 470,
+    "Title": "Murder at the vicarage",
+    "Author": "Agatha Christie",
+    "ReadDate": "2009-11-02"
+  },
+  {
+    "#": 471,
+    "Title": "Murder in Mesopotamia",
+    "Author": "Agatha Christie",
+    "ReadDate": "2009-11-03"
+  },
+  {
+    "#": 472,
+    "Title": "Vor game",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2009-11-03"
+  },
+  {
+    "#": 473,
+    "Title": "Murder in the mews",
+    "Author": "Agatha Christie",
+    "ReadDate": "2009-11-04"
+  },
+  {
+    "#": 474,
+    "Title": "Parker Pyne investigates",
+    "Author": "Agatha Christie",
+    "ReadDate": "2009-11-04"
+  },
+  {
+    "#": 475,
+    "Title": "Howl's moving castle",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2009-11-06"
+  },
+  {
+    "#": 476,
+    "Title": "Beezus and Ramona",
+    "Author": "Beverly Cleary",
+    "ReadDate": "2009-11-06"
+  },
+  {
+    "#": 477,
+    "Title": "Henry and Beezus",
+    "Author": "Beverly Cleary",
+    "ReadDate": "2009-11-06"
+  },
+  {
+    "#": 478,
+    "Title": "Ramona the pest",
+    "Author": "Beverly Cleary",
+    "ReadDate": "2009-11-06"
+  },
+  {
+    "#": 479,
+    "Title": "Ramona the brave",
+    "Author": "Beverly Cleary",
+    "ReadDate": "2009-11-06"
+  },
+  {
+    "#": 480,
+    "Title": "Ramona forever",
+    "Author": "Beverly Cleary",
+    "ReadDate": "2009-11-06"
+  },
+  {
+    "#": 481,
+    "Title": "Crooked snake",
+    "Author": "Patricia Wrightson",
+    "ReadDate": "2009-11-07"
+  },
+  {
+    "#": 482,
+    "Title": "Dogsbody",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2009-11-09"
+  },
+  {
+    "#": 483,
+    "Title": "Boundary riders",
+    "Author": "Joan Phipson",
+    "ReadDate": "2009-11-09"
+  },
+  {
+    "#": 484,
+    "Title": "Dark lord of Derkholm",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2009-11-10"
+  },
+  {
+    "#": 485,
+    "Title": "Spark: igniting the creative fire that lives within us all",
+    "Author": ["John U. Bacon","Lyn Heward"],
+    "ReadDate": "2009-11-11"
+  },
+  {
+    "#": 486,
+    "Title": "Year of the griffin",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2009-11-12"
+  },
+  {
+    "#": 487,
+    "Title": "Sudden wild magic",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2009-11-16"
+  },
+  {
+    "#": 488,
+    "Title": "Night watch",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2009-11-17"
+  },
+  {
+    "#": 489,
+    "Title": "Thud!",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2009-11-19"
+  },
+  {
+    "#": 490,
+    "Title": "Harper's magazine - February 2007",
+    "Author": "Various",
+    "Editors": true,
+    "ReadDate": "2009-11-21"
+  },
+  {
+    "#": 491,
+    "Title": "Beekeeper's apprentice",
+    "Author": "Laurie R. King",
+    "ReadDate": "2009-11-22"
+  },
+  {
+    "#": 492,
+    "Title": "Lion, the witch and the wardrobe.",
+    "Author": "C.S. Lewis",
+    "ReadDate": "2009-11-25"
+  },
+  {
+    "#": 493,
+    "Title": "Prince Caspian",
+    "Author": "C.S. Lewis",
+    "ReadDate": "2009-11-25"
+  },
+  {
+    "#": 494,
+    "Title": "Voyage of the Dawn Treader",
+    "Author": "C.S. Lewis",
+    "ReadDate": "2009-11-26"
+  },
+  {
+    "#": 495,
+    "Title": "Silver chair",
+    "Author": "C.S. Lewis",
+    "ReadDate": "2009-11-28"
+  },
+  {
+    "#": 496,
+    "Title": "Horse and his boy",
+    "Author": "C.S. Lewis",
+    "ReadDate": "2009-11-29"
+  },
+  {
+    "#": 497,
+    "Title": "Magician's nephew",
+    "Author": "C.S. Lewis",
+    "ReadDate": "2009-12-01"
+  },
+  {
+    "#": 498,
+    "Title": "Last battle",
+    "Author": "C.S. Lewis",
+    "ReadDate": "2009-12-05"
+  },
+  {
+    "#": 499,
+    "Title": "Curse of Chalion",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2009-12-08"
+  },
+  {
+    "#": 500,
+    "Title": "Guards! Guards!",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2009-12-10"
+  },
+  {
+    "#": 501,
+    "Title": "Men at arms",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2009-12-12"
+  },
+  {
+    "#": 502,
+    "Title": "Spycatcher: the candid autobiography of a senior intelligence officer",
+    "Author": "Peter Wright",
+    "ReadDate": "2009-12-26"
+  },
+  {
+    "#": 503,
+    "Title": "Pride and prejudice and zombies",
+    "Author": ["Jane Austen","Seth Grahame-Smith"],
+    "ReadDate": "2009-12-27"
+  },
+  {
+    "#": 504,
+    "Title": "Our woman in Kabul",
+    "Author": "Irris Makler",
+    "ReadDate": "2009-12-27"
+  },
+  {
+    "#": 505,
+    "Title": "Lady and the lawyer",
+    "Author": "Colin Roderick",
+    "ReadDate": "2010-01-02"
+  },
+  {
+    "#": 506,
+    "Title": "Dreamweaver's dilemma",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-01-12"
+  },
+  {
+    "#": 507,
+    "Title": "Cetaganda",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-01-15"
+  },
+  {
+    "#": 508,
+    "Title": "Convenient marriage",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2010-01-17"
+  },
+  {
+    "#": 509,
+    "Title": "American gods",
+    "Author": "Neil Gaiman",
+    "ReadDate": "2010-01-21"
+  },
+  {
+    "#": 510,
+    "Title": "Cotillion",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2010-01-22"
+  },
+  {
+    "#": 511,
+    "Title": "Corinthian",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2010-01-22"
+  },
+  {
+    "#": 512,
+    "Title": "Six suspects",
+    "Author": "Vikas Swarup",
+    "ReadDate": "2010-01-24"
+  },
+  {
+    "#": 513,
+    "Title": "Charlie and the chocolate factory",
+    "Author": "Roald Dahl",
+    "ReadDate": "2010-01-25"
+  },
+  {
+    "#": 514,
+    "Title": "Charlie and the great glass elevator",
+    "Author": "Roald Dahl",
+    "ReadDate": "2010-01-25"
+  },
+  {
+    "#": 515,
+    "Title": "Harper's magazine - January 2010",
+    "Author": "Various",
+    "Editors": true,
+    "ReadDate": "2010-01-26"
+  },
+  {
+    "#": 516,
+    "Title": "Sharing knife: horizon",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-01-29"
+  },
+  {
+    "#": 517,
+    "Title": "Justice hall",
+    "Author": "Laurie R. King",
+    "ReadDate": "2010-02-02"
+  },
+  {
+    "#": 518,
+    "Title": "Feet of clay",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2010-02-04"
+  },
+  {
+    "#": 519,
+    "Title": "Pride and prejudice",
+    "Author": "Jane Austen",
+    "ReadDate": "2010-02-07"
+  },
+  {
+    "#": 520,
+    "Title": "Pinstriped prison",
+    "Author": "Lisa Pryor",
+    "ReadDate": "2010-02-07"
+  },
+  {
+    "#": 521,
+    "Title": "Castle in the air",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2010-02-10"
+  },
+  {
+    "#": 522,
+    "Title": "Komarr",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-02-15"
+  },
+  {
+    "#": 523,
+    "Title": "Civil campaign",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-02-18"
+  },
+  {
+    "#": 524,
+    "Title": "Ethan of Athos",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-02-19"
+  },
+  {
+    "#": 525,
+    "Title": "Hexwood",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2010-02-20"
+  },
+  {
+    "#": 526,
+    "Title": "Princess and the captain",
+    "Author": "Anne-Laure Bondoux",
+    "ReadDate": "2010-03-05"
+  },
+  {
+    "#": 527,
+    "Title": "Inkheart",
+    "Author": "Cornelia Funke",
+    "ReadDate": "2010-03-06"
+  },
+  {
+    "#": 528,
+    "Title": "Dragon boy",
+    "Author": "Dick King-Smith",
+    "ReadDate": "2010-03-12"
+  },
+  {
+    "#": 529,
+    "Title": "Mirror dance",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-04-10"
+  },
+  {
+    "#": 530,
+    "Title": "Princess bride",
+    "Author": "William Goldman",
+    "ReadDate": "2010-04-22"
+  },
+  {
+    "#": 531,
+    "Title": "First among sequels",
+    "Author": "Jasper fforde",
+    "ReadDate": "2010-04-24"
+  },
+  {
+    "#": 532,
+    "Title": "Sharing knife: beguilement",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-04-24"
+  },
+  {
+    "#": 533,
+    "Title": "Sharing knife: legacy",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-04-26"
+  },
+  {
+    "#": 534,
+    "Title": "Ten little n####rs",
+    "Author": "Agatha Christie",
+    "ReadDate": "2010-04-26"
+  },
+  {
+    "#": 535,
+    "Title": "Sharing knife: passage",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-04-27"
+  },
+  {
+    "#": 536,
+    "Title": "Sharing knife: horizon",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-04-28"
+  },
+  {
+    "#": 537,
+    "Title": "Dogsbody",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2010-05-02"
+  },
+  {
+    "#": 538,
+    "Title": "Blunt instrument",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2010-05-11"
+  },
+  {
+    "#": 539,
+    "Title": "Howl's moving castle",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2010-05-18"
+  },
+  {
+    "#": 540,
+    "Title": "House of many ways",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2010-05-19"
+  },
+  {
+    "#": 541,
+    "Title": "Isobel on the way to the corner shop",
+    "Author": "Amy Witting",
+    "ReadDate": "2010-05-21"
+  },
+  {
+    "#": 542,
+    "Title": "Pawn of prophecy",
+    "Author": "David Eddings",
+    "ReadDate": "2010-05-30"
+  },
+  {
+    "#": 543,
+    "Title": "Queen of sorcery",
+    "Author": "David Eddings",
+    "ReadDate": "2010-05-30"
+  },
+  {
+    "#": 544,
+    "Title": "Magician's gambit",
+    "Author": "David Eddings",
+    "ReadDate": "2010-06-01"
+  },
+  {
+    "#": 545,
+    "Title": "Castle of wizardy",
+    "Author": "David Eddings",
+    "ReadDate": "2010-06-02"
+  },
+  {
+    "#": 546,
+    "Title": "Enchanters' end game",
+    "Author": "David Eddings",
+    "ReadDate": "2010-06-02"
+  },
+  {
+    "#": 547,
+    "Title": "Hallowed hunt",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-06-03"
+  },
+  {
+    "#": 548,
+    "Title": "People might hear you",
+    "Author": "Robin Klein",
+    "ReadDate": "2010-06-10"
+  },
+  {
+    "#": 549,
+    "Title": "Realms of the gods",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2010-06-10"
+  },
+  {
+    "#": 550,
+    "Title": "Death in the stocks",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2010-06-21"
+  },
+  {
+    "#": 551,
+    "Title": "Alanna: the first adventure",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2010-06-21"
+  },
+  {
+    "#": 552,
+    "Title": "In the hand of the Goddess",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2010-06-21"
+  },
+  {
+    "#": 553,
+    "Title": "Woman who rides like a man",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2010-06-21"
+  },
+  {
+    "#": 554,
+    "Title": "Inspector Ghote trusts the heart",
+    "Author": "H.R.F. Keating",
+    "ReadDate": "2010-06-25"
+  },
+  {
+    "#": 555,
+    "Title": "Lioness rampant",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2010-06-27"
+  },
+  {
+    "#": 556,
+    "Title": "First test",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2010-06-27"
+  },
+  {
+    "#": 557,
+    "Title": "Page",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2010-06-28"
+  },
+  {
+    "#": 558,
+    "Title": "Squire",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2010-06-28"
+  },
+  {
+    "#": 559,
+    "Title": "Lady knight",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2010-06-28"
+  },
+  {
+    "#": 560,
+    "Title": "Almost a lady",
+    "Author": "Sonya Birmingham",
+    "ReadDate": "2010-06-28"
+  },
+  {
+    "#": 561,
+    "Title": "Paladin of souls",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-07-12"
+  },
+  {
+    "#": 562,
+    "Title": "Guardians of the West",
+    "Author": "David Eddings",
+    "ReadDate": "2010-07-15"
+  },
+  {
+    "#": 563,
+    "Title": "King of the Murgos",
+    "Author": "David Eddings",
+    "ReadDate": "2010-07-15"
+  },
+  {
+    "#": 564,
+    "Title": "Demon Lord of Karanda",
+    "Author": "David Eddings",
+    "ReadDate": "2010-07-15"
+  },
+  {
+    "#": 565,
+    "Title": "Harper's magazine - February 2010",
+    "Author": "Various",
+    "Editors": true,
+    "ReadDate": "2010-07-19"
+  },
+  {
+    "#": 566,
+    "Title": "Harper's magazine - March 2007",
+    "Author": "Various",
+    "Editors": true,
+    "ReadDate": "2010-07-19"
+  },
+  {
+    "#": 567,
+    "Title": "Harper's magazine - July 2010",
+    "Author": "Various",
+    "Editors": true,
+    "ReadDate": "2010-07-19"
+  },
+  {
+    "#": 568,
+    "Title": "Harper's magazine - March 2010",
+    "Author": "Various",
+    "Editors": true,
+    "ReadDate": "2010-07-20"
+  },
+  {
+    "#": 569,
+    "Title": "Un lun dun",
+    "Author": "China Miéville",
+    "ReadDate": "2010-07-24"
+  },
+  {
+    "#": 570,
+    "Title": "Sorceress of Darshiva",
+    "Author": "David Eddings",
+    "ReadDate": "2010-07-25"
+  },
+  {
+    "#": 571,
+    "Title": "Seeress of Kell",
+    "Author": "David Eddings",
+    "ReadDate": "2010-07-25"
+  },
+  {
+    "#": 572,
+    "Title": "Reformed vampire support group",
+    "Author": "Catherine Jinks",
+    "ReadDate": "2010-07-28"
+  },
+  {
+    "#": 573,
+    "Title": "Curse of Chalion",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-08-24"
+  },
+  {
+    "#": 574,
+    "Title": "Dark winter",
+    "Author": "Dave Luckett",
+    "ReadDate": "2010-08-29"
+  },
+  {
+    "#": 575,
+    "Title": "Dark journey",
+    "Author": "Dave Luckett",
+    "ReadDate": "2010-08-29"
+  },
+  {
+    "#": 576,
+    "Title": "Soulless",
+    "Author": "Gail Carriger",
+    "ReadDate": "2010-09-01"
+  },
+  {
+    "#": 577,
+    "Title": "Changeless",
+    "Author": "Gail Carriger",
+    "ReadDate": "2010-09-02"
+  },
+  {
+    "#": 578,
+    "Title": "Blameless",
+    "Author": "Gail Carriger",
+    "ReadDate": "2010-09-02"
+  },
+  {
+    "#": 579,
+    "Title": "Cotillion",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2010-09-04"
+  },
+  {
+    "#": 580,
+    "Title": "Ethan of Athos",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-09-15"
+  },
+  {
+    "#": 581,
+    "Title": "Memory",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-09-18"
+  },
+  {
+    "#": 582,
+    "Title": "Komarr",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-09-19"
+  },
+  {
+    "#": 583,
+    "Title": "Civil campaign",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-09-21"
+  },
+  {
+    "#": 584,
+    "Title": "Jingo",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2010-09-23"
+  },
+  {
+    "#": 585,
+    "Title": "Fifth elephant, The",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2010-09-23"
+  },
+  {
+    "#": 586,
+    "Title": "Soulless",
+    "Author": "Gail Carriger",
+    "ReadDate": "2010-09-25"
+  },
+  {
+    "#": 587,
+    "Title": "Exile's honor",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2010-09-28"
+  },
+  {
+    "#": 588,
+    "Title": "Convenient marriage",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2010-09-29"
+  },
+  {
+    "#": 589,
+    "Title": "Jane Eyre",
+    "Author": "Charlotte Brontë",
+    "ReadDate": "2010-10-05"
+  },
+  {
+    "#": 590,
+    "Title": "Ancient future",
+    "Author": "Traci Harding",
+    "ReadDate": "2010-10-16"
+  },
+  {
+    "#": 591,
+    "Title": "Echo in time: Atlantis",
+    "Author": "Traci Harding",
+    "ReadDate": "2010-10-18"
+  },
+  {
+    "#": 592,
+    "Title": "Shards of honor",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-10-28"
+  },
+  {
+    "#": 593,
+    "Title": "Cross bones",
+    "Author": "Kathy Reichs",
+    "ReadDate": "2010-10-29"
+  },
+  {
+    "#": 594,
+    "Title": "Barrayar",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-11-03"
+  },
+  {
+    "#": 595,
+    "Title": "Horse whisperer",
+    "Author": "Nicholas Evans",
+    "ReadDate": "2010-11-04"
+  },
+  {
+    "#": 596,
+    "Title": "Monstrous regiment of women",
+    "Author": "Laurie R. King",
+    "ReadDate": "2010-11-17"
+  },
+  {
+    "#": 597,
+    "Title": "Cryoburn",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2010-11-21"
+  },
+  {
+    "#": 598,
+    "Title": "Year of the griffin",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2010-11-22"
+  },
+  {
+    "#": 599,
+    "Title": "Evil genius",
+    "Author": "Catherine Jinks",
+    "ReadDate": "2010-11-24"
+  },
+  {
+    "#": 600,
+    "Title": "No wind of blame",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2010-11-25"
+  },
+  {
+    "#": 601,
+    "Title": "Postern of fate",
+    "Author": "Agatha Christie",
+    "ReadDate": "2010-11-25"
+  },
+  {
+    "#": 602,
+    "Title": "Absent in the spring",
+    "Author": ["Agatha Christie","Mary Westmacott"],
+    "ReadDate": "2010-11-25"
+  },
+  {
+    "#": 603,
+    "Title": "Wolves of Willoughby Chase",
+    "Author": "Joan Aiken",
+    "ReadDate": "2010-11-25"
+  },
+  {
+    "#": 604,
+    "Title": "Changeless",
+    "Author": "Gail Carriger",
+    "ReadDate": "2010-11-25"
+  },
+  {
+    "#": 605,
+    "Title": "Blameless",
+    "Author": "Gail Carriger",
+    "ReadDate": "2010-11-25"
+  },
+  {
+    "#": 606,
+    "Title": "Iron wolf",
+    "Author": "Richard Adams",
+    "ReadDate": "2010-11-27"
+  },
+  {
+    "#": 607,
+    "Title": "Black hearts in Battersea",
+    "Author": "Joan Aiken",
+    "ReadDate": "2010-12-01"
+  },
+  {
+    "#": 608,
+    "Title": "Peter Duck",
+    "Author": "Arthur Ransome",
+    "ReadDate": "2010-12-01"
+  },
+  {
+    "#": 609,
+    "Title": "Pigeon post",
+    "Author": "Arthur Ransome",
+    "ReadDate": "2010-12-02"
+  },
+  {
+    "#": 610,
+    "Title": "Great northern?",
+    "Author": "Arthur Ransome",
+    "ReadDate": "2010-12-04"
+  },
+  {
+    "#": 611,
+    "Title": "Picts and the martyrs",
+    "Author": "Arthur Ransome",
+    "ReadDate": "2010-12-05"
+  },
+  {
+    "#": 612,
+    "Title": "We didn't mean to go to sea",
+    "Author": "Arthur Ransome",
+    "ReadDate": "2010-12-06"
+  },
+  {
+    "#": 613,
+    "Title": "Arrows of the queen",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2010-12-06"
+  },
+  {
+    "#": 614,
+    "Title": "Arrow's flight",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2010-12-07"
+  },
+  {
+    "#": 615,
+    "Title": "Arrow's fall",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2010-12-07"
+  },
+  {
+    "#": 616,
+    "Title": "Over sea, under stone",
+    "Author": "Susan Cooper",
+    "ReadDate": "2010-12-07"
+  },
+  {
+    "#": 617,
+    "Title": "Dark is rising",
+    "Author": "Susan Cooper",
+    "ReadDate": "2010-12-09"
+  },
+  {
+    "#": 618,
+    "Title": "Greenwitch",
+    "Author": "Susan Cooper",
+    "ReadDate": "2010-12-09"
+  },
+  {
+    "#": 619,
+    "Title": "Grey king",
+    "Author": "Susan Cooper",
+    "ReadDate": "2010-12-10"
+  },
+  {
+    "#": 620,
+    "Title": "Silver on the tree",
+    "Author": "Susan Cooper",
+    "ReadDate": "2010-12-11"
+  },
+  {
+    "#": 621,
+    "Title": "Slan",
+    "Author": "A.E. van Vogt",
+    "ReadDate": "2010-12-11"
+  },
+  {
+    "#": 622,
+    "Title": "Weapon shops of Isher",
+    "Author": "A.E. van Vogt",
+    "ReadDate": "2010-12-12"
+  },
+  {
+    "#": 623,
+    "Title": "Weapon makers",
+    "Author": "A.E. van Vogt",
+    "ReadDate": "2010-12-12"
+  },
+  {
+    "#": 624,
+    "Title": "Trickster's choice",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2010-12-13"
+  },
+  {
+    "#": 625,
+    "Title": "Trickster's queen",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2010-12-13"
+  },
+  {
+    "#": 626,
+    "Title": "Hexwood",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2010-12-14"
+  },
+  {
+    "#": 627,
+    "Title": "Amulet of samarkand",
+    "Author": "Jonathan Stroud",
+    "ReadDate": "2010-12-14"
+  },
+  {
+    "#": 628,
+    "Title": "O Jerusalem",
+    "Author": "Laurie R. King",
+    "ReadDate": "2010-12-17"
+  },
+  {
+    "#": 629,
+    "Title": "Esio trot",
+    "Author": "Roald Dahl",
+    "ReadDate": "2010-12-26"
+  },
+  {
+    "#": 630,
+    "Title": "Lives of Christopher Chant",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2010-12-26"
+  },
+  {
+    "#": 631,
+    "Title": "Dark lord of Derkholm",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2011-01-04"
+  },
+  {
+    "#": 632,
+    "Title": "Arsonist's guide to writers' homes in New England",
+    "Author": "Brock Clarke",
+    "ReadDate": "2011-01-15"
+  },
+  {
+    "#": 633,
+    "Title": "Kraken",
+    "Author": "China Miéville",
+    "ReadDate": "2011-01-17"
+  },
+  {
+    "#": 634,
+    "Title": "Sharing knife: beguilement",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2011-02-20"
+  },
+  {
+    "#": 635,
+    "Title": "Sharing knife: legacy",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2011-02-24"
+  },
+  {
+    "#": 636,
+    "Title": "Sharing knife: passage",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2011-02-26"
+  },
+  {
+    "#": 637,
+    "Title": "Sharing knife: horizon",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2011-03-05"
+  },
+  {
+    "#": 638,
+    "Title": "Citizen of the galaxy",
+    "Author": "Robert A. Heinlein",
+    "ReadDate": "2011-03-06"
+  },
+  {
+    "#": 639,
+    "Title": "Feed",
+    "Author": "Mira Grant",
+    "ReadDate": "2011-03-09"
+  },
+  {
+    "#": 640,
+    "Title": "Harper's magazine - April 2010",
+    "Author": "Various",
+    "Editors": true,
+    "ReadDate": "2011-03-16"
+  },
+  {
+    "#": 641,
+    "Title": "Knife of never letting go",
+    "Author": "Patrick Ness",
+    "ReadDate": "2011-03-22"
+  },
+  {
+    "#": 642,
+    "Title": "Ask and the answer",
+    "Author": "Patrick Ness",
+    "ReadDate": "2011-03-23"
+  },
+  {
+    "#": 643,
+    "Title": "Monsters of men",
+    "Author": "Patrick Ness",
+    "ReadDate": "2011-03-23"
+  },
+  {
+    "#": 644,
+    "Title": "Girl with the dragon tattoo",
+    "Author": "Stieg Larsson",
+    "ReadDate": "2011-03-25"
+  },
+  {
+    "#": 645,
+    "Title": "Lathe of heaven",
+    "Author": "Ursula Le Guin",
+    "ReadDate": "2011-03-27"
+  },
+  {
+    "#": 646,
+    "Title": "Homeward bounders",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2011-04-04"
+  },
+  {
+    "#": 647,
+    "Title": "Across the universe",
+    "Author": "Beth Revis",
+    "ReadDate": "2011-04-07"
+  },
+  {
+    "#": 648,
+    "Title": "Last dragonslayer",
+    "Author": "Jasper fforde",
+    "ReadDate": "2011-04-08"
+  },
+  {
+    "#": 649,
+    "Title": "Two against the odds",
+    "Author": "Joan Kilby",
+    "ReadDate": "2011-04-09"
+  },
+  {
+    "#": 650,
+    "Title": "Myrren's gift",
+    "Author": "Fiona McIntosh",
+    "ReadDate": "2011-04-09"
+  },
+  {
+    "#": 651,
+    "Title": "Witch week",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2011-04-10"
+  },
+  {
+    "#": 652,
+    "Title": "Finnikin of the rock",
+    "Author": "Melina Marchetta",
+    "ReadDate": "2011-04-10"
+  },
+  {
+    "#": 653,
+    "Title": "King's dragon",
+    "Author": "Kate Elliott",
+    "ReadDate": "2011-04-17"
+  },
+  {
+    "#": 654,
+    "Title": "So long a letter",
+    "Author": "Mariama Ba",
+    "ReadDate": "2011-04-18"
+  },
+  {
+    "#": 655,
+    "Title": "Tortall and other lands",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2011-04-24"
+  },
+  {
+    "#": 656,
+    "Title": "Power of three",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2011-04-25"
+  },
+  {
+    "#": 657,
+    "Title": "Infinity gate",
+    "Author": "Sara Douglass",
+    "ReadDate": "2011-04-26"
+  },
+  {
+    "#": 658,
+    "Title": "Ruby in the smoke",
+    "Author": "Philip Pullman",
+    "ReadDate": "2011-04-30"
+  },
+  {
+    "#": 659,
+    "Title": "Shadow in the north",
+    "Author": "Philip Pullman",
+    "ReadDate": "2011-04-30"
+  },
+  {
+    "#": 660,
+    "Title": "Monstrous regiment",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2011-05-19"
+  },
+  {
+    "#": 661,
+    "Title": "Charity girl",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2011-05-21"
+  },
+  {
+    "#": 662,
+    "Title": "Master and commander",
+    "Author": "Patrick O'Brien",
+    "ReadDate": "2011-06-13"
+  },
+  {
+    "#": 663,
+    "Title": "Beauty",
+    "Author": "Robin McKinley",
+    "ReadDate": "2011-06-15"
+  },
+  {
+    "#": 664,
+    "Title": "Leviathan",
+    "Author": "Scott Westerfeld",
+    "ReadDate": "2011-06-16"
+  },
+  {
+    "#": 665,
+    "Title": "Prince of dogs",
+    "Author": "Kate Elliott",
+    "ReadDate": "2011-06-25"
+  },
+  {
+    "#": 666,
+    "Title": "Burning stone",
+    "Author": "Kate Elliott",
+    "ReadDate": "2011-06-30"
+  },
+  {
+    "#": 667,
+    "Title": "Child of flame",
+    "Author": "Kate Elliott",
+    "ReadDate": "2011-07-01"
+  },
+  {
+    "#": 668,
+    "Title": "Gathering storm",
+    "Author": "Kate Elliott",
+    "ReadDate": "2011-07-02"
+  },
+  {
+    "#": 669,
+    "Title": "In the ruins",
+    "Author": "Kate Elliott",
+    "ReadDate": "2011-07-03"
+  },
+  {
+    "#": 670,
+    "Title": "Crown of stars",
+    "Author": "Kate Elliott",
+    "ReadDate": "2011-07-04"
+  },
+  {
+    "#": 671,
+    "Title": "Bartimaeus: the ring of Solomon",
+    "Author": "Jonathan Stroud",
+    "ReadDate": "2011-07-09"
+  },
+  {
+    "#": 672,
+    "Title": "Dealing with dragons",
+    "Author": "Patricia C. Wrede",
+    "ReadDate": "2011-08-07"
+  },
+  {
+    "#": 673,
+    "Title": "Reluctant widow",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2011-08-08"
+  },
+  {
+    "#": 674,
+    "Title": "Grand Sophy",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2011-08-08"
+  },
+  {
+    "#": 675,
+    "Title": "Gardens of the moon",
+    "Author": "Steven Erikson",
+    "ReadDate": "2011-08-23"
+  },
+  {
+    "#": 676,
+    "Title": "Jane Eyre",
+    "Author": "Charlotte Brontë",
+    "ReadDate": "2011-08-28"
+  },
+  {
+    "#": 677,
+    "Title": "Venetia",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2011-08-28"
+  },
+  {
+    "#": 678,
+    "Title": "Shades of grey",
+    "Author": "Jasper fforde",
+    "ReadDate": "2011-09-11"
+  },
+  {
+    "#": 679,
+    "Title": "Moab is my washpot",
+    "Author": "Stephen Fry",
+    "ReadDate": "2011-09-23"
+  },
+  {
+    "#": 680,
+    "Title": "Curse of Chalion",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2011-09-26"
+  },
+  {
+    "#": 681,
+    "Title": "Wee free men",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2011-09-28"
+  },
+  {
+    "#": 682,
+    "Title": "Friday's child",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2011-09-28"
+  },
+  {
+    "#": 683,
+    "Title": "Hat full of sky",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2011-09-29"
+  },
+  {
+    "#": 684,
+    "Title": "Wintersmith",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2011-10-02"
+  },
+  {
+    "#": 685,
+    "Title": "I shall wear midnight",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2011-10-02"
+  },
+  {
+    "#": 686,
+    "Title": "How to live safely in a science fictional universe",
+    "Author": "Charles Yu",
+    "ReadDate": "2011-10-03"
+  },
+  {
+    "#": 687,
+    "Title": "Castle in the air",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2011-10-15"
+  },
+  {
+    "#": 688,
+    "Title": "Guards! Guards!",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2011-10-18"
+  },
+  {
+    "#": 689,
+    "Title": "Men at arms",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2011-10-19"
+  },
+  {
+    "#": 690,
+    "Title": "Feet of clay",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2011-10-25"
+  },
+  {
+    "#": 691,
+    "Title": "Jingo",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2011-11-03"
+  },
+  {
+    "#": 692,
+    "Title": "Fifth elephant, The",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2011-11-04"
+  },
+  {
+    "#": 693,
+    "Title": "Night watch",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2011-11-04"
+  },
+  {
+    "#": 694,
+    "Title": "Thud!",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2011-11-05"
+  },
+  {
+    "#": 695,
+    "Title": "Cold magic",
+    "Author": "Kate Elliott",
+    "ReadDate": "2011-11-05"
+  },
+  {
+    "#": 696,
+    "Title": "Dogsbody",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2011-11-09"
+  },
+  {
+    "#": 697,
+    "Title": "Tiger in the well",
+    "Author": "Philip Pullman",
+    "ReadDate": "2011-11-09"
+  },
+  {
+    "#": 698,
+    "Title": "Tin princess",
+    "Author": "Philip Pullman",
+    "ReadDate": "2011-11-10"
+  },
+  {
+    "#": 699,
+    "Title": "National Velvet",
+    "Author": "Enid Bagnold",
+    "ReadDate": "2011-11-12"
+  },
+  {
+    "#": 700,
+    "Title": "My book of pony stories",
+    "Author": "Gillian Baxter",
+    "ReadDate": "2011-11-12"
+  },
+  {
+    "#": 701,
+    "Title": "Icarus hunt",
+    "Author": "Timothy Zahn",
+    "ReadDate": "2011-11-13"
+  },
+  {
+    "#": 702,
+    "Title": "Haroun and the sea of stories",
+    "Author": "Salman Rushdie",
+    "ReadDate": "2011-11-14"
+  },
+  {
+    "#": 703,
+    "Title": "Snuff",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2011-11-15"
+  },
+  {
+    "#": 704,
+    "Title": "Deathworld",
+    "Author": "Harry Harrison",
+    "ReadDate": "2011-11-23"
+  },
+  {
+    "#": 705,
+    "Title": "Heartless",
+    "Author": "Gail Carriger",
+    "ReadDate": "2011-11-24"
+  },
+  {
+    "#": 706,
+    "Title": "Tales of Beedle the bard",
+    "Author": "J.K. Rowling",
+    "ReadDate": "2011-12-11"
+  },
+  {
+    "#": 707,
+    "Title": "Matilda",
+    "Author": "Roald Dahl",
+    "ReadDate": "2011-12-20"
+  },
+  {
+    "#": 708,
+    "Title": "Death comes to Pemberley",
+    "Author": "P.D. James",
+    "ReadDate": "2011-12-25"
+  },
+  {
+    "#": 709,
+    "Title": "Discovery of witches",
+    "Author": "Deborah Harkness",
+    "ReadDate": "2011-12-26"
+  },
+  {
+    "#": 710,
+    "Title": "Cousin Kate",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2011-12-28"
+  },
+  {
+    "#": 711,
+    "Title": "The house of silk",
+    "Author": "Anthony Horowitz",
+    "ReadDate": "2011-12-28"
+  },
+  {
+    "#": 712,
+    "Title": "Birds, beasts and relatives",
+    "Author": "Gerald Durrell",
+    "ReadDate": "2011-12-31"
+  },
+  {
+    "#": 713,
+    "Title": "I wanted a pony",
+    "Author": "Diana Pullein-Thompson",
+    "ReadDate": "2012-01-04"
+  },
+  {
+    "#": 714,
+    "Title": "Sophie is seven",
+    "Author": "Dick King-Smith",
+    "ReadDate": "2012-01-20"
+  },
+  {
+    "#": 715,
+    "Title": "Soulless",
+    "Author": "Gail Carriger",
+    "ReadDate": "2012-01-21"
+  },
+  {
+    "#": 716,
+    "Title": "These old shades",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2012-01-21"
+  },
+  {
+    "#": 717,
+    "Title": "Devil's cub",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2012-01-22"
+  },
+  {
+    "#": 718,
+    "Title": "Friday's child",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2012-01-22"
+  },
+  {
+    "#": 719,
+    "Title": "Sophie's snail",
+    "Author": "Dick King-Smith",
+    "ReadDate": "2012-01-23"
+  },
+  {
+    "#": 720,
+    "Title": "Water horse",
+    "Author": "Dick King-Smith",
+    "ReadDate": "2012-01-23"
+  },
+  {
+    "#": 721,
+    "Title": "Treasure islands: tax havens and the men who stole the world",
+    "Author": "Nicholas Shaxson",
+    "ReadDate": "2012-01-24"
+  },
+  {
+    "#": 722,
+    "Title": "City and the city",
+    "Author": "China Miéville",
+    "ReadDate": "2012-01-25"
+  },
+  {
+    "#": 723,
+    "Title": "Catalogue of the universe",
+    "Author": "Margaret Mahy",
+    "ReadDate": "2012-01-30"
+  },
+  {
+    "#": 724,
+    "Title": "They came to Baghdad",
+    "Author": "Agatha Christie",
+    "ReadDate": "2012-01-30"
+  },
+  {
+    "#": 725,
+    "Title": "Oathbound",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2012-01-30"
+  },
+  {
+    "#": 726,
+    "Title": "Oathbreakers",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2012-01-30"
+  },
+  {
+    "#": 727,
+    "Title": "Wonderful story of Henry Sugar",
+    "Author": "Roald Dahl",
+    "ReadDate": "2012-01-30"
+  },
+  {
+    "#": 728,
+    "Title": "Venetia",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2012-01-30"
+  },
+  {
+    "#": 729,
+    "Title": "RT, Margaret and the rats of NIMH",
+    "Author": "Jane Leslie Conly",
+    "ReadDate": "2012-01-30"
+  },
+  {
+    "#": 730,
+    "Title": "Shards of honor",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2012-01-30"
+  },
+  {
+    "#": 731,
+    "Title": "Magic's pawn",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2012-01-30"
+  },
+  {
+    "#": 732,
+    "Title": "Magic's promise",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2012-01-30"
+  },
+  {
+    "#": 733,
+    "Title": "Magic's price",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2012-01-30"
+  },
+  {
+    "#": 734,
+    "Title": "Timeless",
+    "Author": "Gail Carriger",
+    "ReadDate": "2012-03-03"
+  },
+  {
+    "#": 735,
+    "Title": "Sylvester",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2012-03-03"
+  },
+  {
+    "#": 736,
+    "Title": "Mastiff",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2012-04-07"
+  },
+  {
+    "#": 737,
+    "Title": "Warrior woman",
+    "Author": "Marion Zimmer Bradley",
+    "ReadDate": "2012-04-08"
+  },
+  {
+    "#": 738,
+    "Title": "Bloody chamber",
+    "Author": "Angela Carter",
+    "ReadDate": "2012-04-09"
+  },
+  {
+    "#": 739,
+    "Title": "Alanna: the first adventure",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2012-04-14"
+  },
+  {
+    "#": 740,
+    "Title": "Paladin of souls",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2012-04-14"
+  },
+  {
+    "#": 741,
+    "Title": "Cinder",
+    "Author": "Marissa Meyer",
+    "ReadDate": "2012-04-14"
+  },
+  {
+    "#": 742,
+    "Title": "In the hand of the Goddess",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2012-04-15"
+  },
+  {
+    "#": 743,
+    "Title": "Fanny and the monsters",
+    "Author": "Penelope Lively",
+    "ReadDate": "2012-04-16"
+  },
+  {
+    "#": 744,
+    "Title": "Woman who rides like a man",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2012-04-17"
+  },
+  {
+    "#": 745,
+    "Title": "Lioness rampant",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2012-04-18"
+  },
+  {
+    "#": 746,
+    "Title": "Wild magic",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2012-04-19"
+  },
+  {
+    "#": 747,
+    "Title": "Wolf-speaker",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2012-04-20"
+  },
+  {
+    "#": 748,
+    "Title": "Sudden wild magic",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2012-04-21"
+  },
+  {
+    "#": 749,
+    "Title": "Dark lord of Derkholm",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2012-04-22"
+  },
+  {
+    "#": 750,
+    "Title": "Hexwood",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2012-04-23"
+  },
+  {
+    "#": 751,
+    "Title": "Spycatcher trial",
+    "Author": "Malcolm Turnbull",
+    "ReadDate": "2012-04-24"
+  },
+  {
+    "#": 752,
+    "Title": "Spindle's end",
+    "Author": "Robin McKinley",
+    "ReadDate": "2012-04-25"
+  },
+  {
+    "#": 753,
+    "Title": "Tale of time city",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2012-04-26"
+  },
+  {
+    "#": 754,
+    "Title": "Arabella",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2012-05-15"
+  },
+  {
+    "#": 755,
+    "Title": "Persuasion",
+    "Author": "Jane Austen",
+    "ReadDate": "2012-05-15"
+  },
+  {
+    "#": 756,
+    "Title": "Power and majesty",
+    "Author": "Tansy Rayner Roberts",
+    "ReadDate": "2012-05-26"
+  },
+  {
+    "#": 757,
+    "Title": "Shattered city",
+    "Author": "Tansy Rayner Roberts",
+    "ReadDate": "2012-05-27"
+  },
+  {
+    "#": 758,
+    "Title": "Reign of beasts",
+    "Author": "Tansy Rayner Roberts",
+    "ReadDate": "2012-05-27"
+  },
+  {
+    "#": 759,
+    "Title": "Northanger abbey",
+    "Author": "Jane Austen",
+    "ReadDate": "2012-06-01"
+  },
+  {
+    "#": 760,
+    "Title": "Solid mandala",
+    "Author": "Patrick White",
+    "ReadDate": "2012-06-09"
+  },
+  {
+    "#": 761,
+    "Title": "Thud!",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2012-06-11"
+  },
+  {
+    "#": 762,
+    "Title": "Possession",
+    "Author": "A.S. Byatt",
+    "ReadDate": "2012-06-19"
+  },
+  {
+    "#": 763,
+    "Title": "Getting of wisdom",
+    "Author": "Henry Handel Richardson",
+    "ReadDate": "2012-06-23"
+  },
+  {
+    "#": 764,
+    "Title": "Magicians",
+    "Author": "Lev Grossman",
+    "ReadDate": "2012-06-23"
+  },
+  {
+    "#": 765,
+    "Title": "Double star",
+    "Author": "Robert A. Heinlein",
+    "ReadDate": "2012-06-24"
+  },
+  {
+    "#": 766,
+    "Title": "Number the stars",
+    "Author": "Lois Lowry",
+    "ReadDate": "2012-06-24"
+  },
+  {
+    "#": 767,
+    "Title": "Harper's magazine - March 2011",
+    "Author": "Various",
+    "Editors": true,
+    "ReadDate": "2012-06-24"
+  },
+  {
+    "#": 768,
+    "Title": "Magician king",
+    "Author": "Lev Grossman",
+    "ReadDate": "2012-06-30"
+  },
+  {
+    "#": 769,
+    "Title": "Name of the wind",
+    "Author": "Patrick Rothfuss",
+    "ReadDate": "2012-07-06"
+  },
+  {
+    "#": 770,
+    "Title": "Tower of ravens",
+    "Author": "Kate Forsyth",
+    "ReadDate": "2012-07-21"
+  },
+  {
+    "#": 771,
+    "Title": "Shining city",
+    "Author": "Kate Forsyth",
+    "ReadDate": "2012-07-22"
+  },
+  {
+    "#": 772,
+    "Title": "Secret history",
+    "Author": "Donna Tartt",
+    "ReadDate": "2012-08-02"
+  },
+  {
+    "#": 773,
+    "Title": "Year of the griffin",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2012-08-08"
+  },
+  {
+    "#": 774,
+    "Title": "Messiah",
+    "Author": "Gore Vidal",
+    "ReadDate": "2012-08-27"
+  },
+  {
+    "#": 775,
+    "Title": "Grand Sophy",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2012-09-05"
+  },
+  {
+    "#": 776,
+    "Title": "These old shades",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2012-09-08"
+  },
+  {
+    "#": 777,
+    "Title": "Hunger games",
+    "Author": "Suzanne Collins",
+    "ReadDate": "2012-09-13"
+  },
+  {
+    "#": 778,
+    "Title": "Pagan's scribe",
+    "Author": "Catherine Jinks",
+    "ReadDate": "2012-09-13"
+  },
+  {
+    "#": 779,
+    "Title": "How to be a woman",
+    "Author": "Caitlin Moran",
+    "ReadDate": "2012-09-14"
+  },
+  {
+    "#": 780,
+    "Title": "Blue sword",
+    "Author": "Robin McKinley",
+    "ReadDate": "2012-09-15"
+  },
+  {
+    "#": 781,
+    "Title": "Fuzzy nation",
+    "Author": "John Scalzi",
+    "ReadDate": "2012-09-16"
+  },
+  {
+    "#": 782,
+    "Title": "Pride and platypus: Mr Darcy's dreadful secret",
+    "Author": "Vera Nazarian",
+    "ReadDate": "2012-09-16"
+  },
+  {
+    "#": 783,
+    "Title": "Corinthian",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2012-09-22"
+  },
+  {
+    "#": 784,
+    "Title": "Kushiel's dart",
+    "Author": "Jaqueline Carey",
+    "ReadDate": "2012-09-23"
+  },
+  {
+    "#": 785,
+    "Title": "Decline and fall",
+    "Author": "Evelyn Waugh",
+    "ReadDate": "2012-09-30"
+  },
+  {
+    "#": 786,
+    "Title": "Prosper the commonwealth",
+    "Author": "Robert Randolph Garran",
+    "ReadDate": "2012-10-01"
+  },
+  {
+    "#": 787,
+    "Title": "Vile bodies",
+    "Author": "Evelyn Waugh",
+    "ReadDate": "2012-10-06"
+  },
+  {
+    "#": 788,
+    "Title": "Shatterglass",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2012-10-06"
+  },
+  {
+    "#": 789,
+    "Title": "Street magic",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2012-10-06"
+  },
+  {
+    "#": 790,
+    "Title": "City and the stars",
+    "Author": "Arthur C. Clarke",
+    "ReadDate": "2012-10-13"
+  },
+  {
+    "#": 791,
+    "Title": "Heart of stars",
+    "Author": "Kate Forsyth",
+    "ReadDate": "2012-10-20"
+  },
+  {
+    "#": 792,
+    "Title": "Ragnarok: the end of the gods",
+    "Author": "A.S. Byatt",
+    "ReadDate": "2012-10-20"
+  },
+  {
+    "#": 793,
+    "Title": "Making money",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2012-10-21"
+  },
+  {
+    "#": 794,
+    "Title": "Hyperion",
+    "Author": "Dan Simmons",
+    "ReadDate": "2012-10-21"
+  },
+  {
+    "#": 795,
+    "Title": "Truth",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2012-10-21"
+  },
+  {
+    "#": 796,
+    "Title": "Little black book of stories",
+    "Author": "A.S. Byatt",
+    "ReadDate": "2012-10-28"
+  },
+  {
+    "#": 797,
+    "Title": "Reader",
+    "Author": "Bernhard Schlink",
+    "ReadDate": "2012-10-28"
+  },
+  {
+    "#": 798,
+    "Title": "Secret of chimneys",
+    "Author": "Agatha Christie",
+    "ReadDate": "2012-10-28"
+  },
+  {
+    "#": 799,
+    "Title": "Cold fire",
+    "Author": "Kate Elliott",
+    "ReadDate": "2012-11-02"
+  },
+  {
+    "#": 800,
+    "Title": "Charmed life",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2012-11-02"
+  },
+  {
+    "#": 801,
+    "Title": "Fall of hyperion",
+    "Author": "Dan Simmons",
+    "ReadDate": "2012-11-17"
+  },
+  {
+    "#": 802,
+    "Title": "Neverending story",
+    "Author": "Michael Ende",
+    "ReadDate": "2012-11-17"
+  },
+  {
+    "#": 803,
+    "Title": "Carrion comfort",
+    "Author": "Dan Simmons",
+    "ReadDate": "2012-11-20"
+  },
+  {
+    "#": 804,
+    "Title": "Witch bank",
+    "Author": "Catherine Jinks",
+    "ReadDate": "2012-11-24"
+  },
+  {
+    "#": 805,
+    "Title": "Magicians of Caprona",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2012-11-24"
+  },
+  {
+    "#": 806,
+    "Title": "Magnus powermouse",
+    "Author": "Dick King-Smith",
+    "ReadDate": "2012-11-24"
+  },
+  {
+    "#": 807,
+    "Title": "Catching fire",
+    "Author": "Suzanne Collins",
+    "ReadDate": "2012-11-25"
+  },
+  {
+    "#": 808,
+    "Title": "Mocking jay",
+    "Author": "Suzanne Collins",
+    "ReadDate": "2012-11-25"
+  },
+  {
+    "#": 809,
+    "Title": "Game, The",
+    "Author": "A.S. Byatt",
+    "ReadDate": "2012-12-01"
+  },
+  {
+    "#": 810,
+    "Title": "Cotillion",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2012-12-01"
+  },
+  {
+    "#": 811,
+    "Title": "Doctor who and the mutants",
+    "Author": "Terrence Dicks",
+    "ReadDate": "2012-12-01"
+  },
+  {
+    "#": 812,
+    "Title": "Redshirts",
+    "Author": "John Scalzi",
+    "ReadDate": "2012-12-02"
+  },
+  {
+    "#": 813,
+    "Title": "Rivers of London",
+    "Author": "Ben Aaronovitch",
+    "ReadDate": "2012-12-09"
+  },
+  {
+    "#": 814,
+    "Title": "Moon over Soho",
+    "Author": "Ben Aaronovitch",
+    "ReadDate": "2012-12-09"
+  },
+  {
+    "#": 815,
+    "Title": "Whispers underground",
+    "Author": "Ben Aaronovitch",
+    "ReadDate": "2012-12-09"
+  },
+  {
+    "#": 816,
+    "Title": "Fourth bear",
+    "Author": "Jasper fforde",
+    "ReadDate": "2012-12-16"
+  },
+  {
+    "#": 817,
+    "Title": "Eyre affair",
+    "Author": "Jasper fforde",
+    "ReadDate": "2012-12-16"
+  },
+  {
+    "#": 818,
+    "Title": "Fifty shades of grey",
+    "Author": "E.L. James",
+    "ReadDate": "2012-12-16"
+  },
+  {
+    "#": 819,
+    "Title": "Night birds on Nantucket",
+    "Author": "Joan Aiken",
+    "ReadDate": "2012-12-24"
+  },
+  {
+    "#": 820,
+    "Title": "Restoration",
+    "Author": "Rose Tremain",
+    "ReadDate": "2012-12-29"
+  },
+  {
+    "#": 821,
+    "Title": "Radical tory: Garfield Barwick's reflections and recollections",
+    "Author": "Garfield Barwick",
+    "ReadDate": "2013-01-01"
+  },
+  {
+    "#": 822,
+    "Title": "Old man's war",
+    "Author": "John Scalzi",
+    "ReadDate": "2013-01-06"
+  },
+  {
+    "#": 823,
+    "Title": "Trustee from the toolroom",
+    "Author": "Nevil Shute",
+    "ReadDate": "2013-01-13"
+  },
+  {
+    "#": 824,
+    "Title": "Moor",
+    "Author": "Laurie R. King",
+    "ReadDate": "2013-02-19"
+  },
+  {
+    "#": 825,
+    "Title": "Sweetness in the bottom of the pie",
+    "Author": "Alan Bradley",
+    "ReadDate": "2013-02-19"
+  },
+  {
+    "#": 826,
+    "Title": "Sense of an ending",
+    "Author": "Julian Barnes",
+    "ReadDate": "2013-02-23"
+  },
+  {
+    "#": 827,
+    "Title": "Beekeeper's apprentice",
+    "Author": "Laurie R. King",
+    "ReadDate": "2013-02-23"
+  },
+  {
+    "#": 828,
+    "Title": "Wolfsangel",
+    "Author": "M.D. Lachlan",
+    "ReadDate": "2013-02-27"
+  },
+  {
+    "#": 829,
+    "Title": "Code of the Woosters",
+    "Author": "P.G. Wodehouse",
+    "ReadDate": "2013-02-27"
+  },
+  {
+    "#": 830,
+    "Title": "1984",
+    "Author": "George Orwell",
+    "ReadDate": "2013-03-13"
+  },
+  {
+    "#": 831,
+    "Title": "Barrayar",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2013-03-16"
+  },
+  {
+    "#": 832,
+    "Title": "Magician's nephew",
+    "Author": "C.S. Lewis",
+    "ReadDate": "2013-04-01"
+  },
+  {
+    "#": 833,
+    "Title": "Blameless",
+    "Author": "Gail Carriger",
+    "ReadDate": "2013-04-04"
+  },
+  {
+    "#": 834,
+    "Title": "Heartless",
+    "Author": "Gail Carriger",
+    "ReadDate": "2013-04-07"
+  },
+  {
+    "#": 835,
+    "Title": "Timeless",
+    "Author": "Gail Carriger",
+    "ReadDate": "2013-04-09"
+  },
+  {
+    "#": 836,
+    "Title": "Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "ReadDate": "2013-04-12"
+  },
+  {
+    "#": 837,
+    "Title": "Good wives",
+    "Author": "Margaret Forster",
+    "ReadDate": "2013-04-15"
+  },
+  {
+    "#": 838,
+    "Title": "Flaubert's parrot",
+    "Author": "Julian Barnes",
+    "ReadDate": "2013-04-24"
+  },
+  {
+    "#": 839,
+    "Title": "Spirit gate",
+    "Author": "Kate Elliott",
+    "ReadDate": "2013-04-25"
+  },
+  {
+    "#": 840,
+    "Title": "Shadow gate",
+    "Author": "Kate Elliott",
+    "ReadDate": "2013-04-27"
+  },
+  {
+    "#": 841,
+    "Title": "Traitors' gate",
+    "Author": "Kate Elliott",
+    "ReadDate": "2013-04-29"
+  },
+  {
+    "#": 842,
+    "Title": "Guards! Guards!",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2013-05-03"
+  },
+  {
+    "#": 843,
+    "Title": "Men at arms",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2013-05-05"
+  },
+  {
+    "#": 844,
+    "Title": "Cloud atlas",
+    "Author": "David Mitchell",
+    "ReadDate": "2013-05-08"
+  },
+  {
+    "#": 845,
+    "Title": "Bell jar",
+    "Author": "Sylvia Plath",
+    "ReadDate": "2013-06-09"
+  },
+  {
+    "#": 846,
+    "Title": "Bitter greens",
+    "Author": "Kate Forsyth",
+    "ReadDate": "2013-07-01"
+  },
+  {
+    "#": 847,
+    "Title": "Beatrice and Virgil",
+    "Author": "Yann Martel",
+    "ReadDate": "2013-08-01"
+  },
+  {
+    "#": 848,
+    "Title": "People of the book",
+    "Author": "Geraldine Brooks",
+    "ReadDate": "2013-09-01"
+  },
+  {
+    "#": 849,
+    "Title": "Throne of the crescent moon",
+    "Author": "Saladin Ahmed",
+    "ReadDate": "2013-10-01"
+  },
+  {
+    "#": 850,
+    "Title": "Space demons",
+    "Author": "Gillian Rubenstein",
+    "ReadDate": "2013-10-01"
+  },
+  {
+    "#": 851,
+    "Title": "Thrones, dominations",
+    "Author": ["Dorothy L Sayers","Jill Paton Walsh"],
+    "ReadDate": "2013-10-10"
+  },
+  {
+    "#": 852,
+    "Title": "Komarr",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2013-10-12"
+  },
+  {
+    "#": 853,
+    "Title": "Justice hall",
+    "Author": "Laurie R. King",
+    "ReadDate": "2013-11-01"
+  },
+  {
+    "#": 854,
+    "Title": "Hundred thousand kingdoms",
+    "Author": "N. K. Jemesin",
+    "ReadDate": "2013-12-01"
+  },
+  {
+    "#": 855,
+    "Title": "Battle magic",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2013-12-15"
+  },
+  {
+    "#": 856,
+    "Title": "Anathem",
+    "Author": "Neal Stephenson",
+    "ReadDate": "2014-01-01"
+  },
+  {
+    "#": 857,
+    "Title": "Adventures of the muddle-headed wombat",
+    "Author": "Ruth Park",
+    "ReadDate": "2014-01-02"
+  },
+  {
+    "#": 858,
+    "Title": "Cold steel",
+    "Author": "Kate Elliott",
+    "ReadDate": "2014-01-04"
+  },
+  {
+    "#": 859,
+    "Title": "Never let me go",
+    "Author": "Kazuo Ishiguro",
+    "ReadDate": "2014-01-05"
+  },
+  {
+    "#": 860,
+    "Title": "Road, The",
+    "Author": "Cormac McCarthy",
+    "ReadDate": "2014-01-07"
+  },
+  {
+    "#": 861,
+    "Title": "The broken kingdoms",
+    "Author": "N. K. Jemesin",
+    "ReadDate": "2014-01-12"
+  },
+  {
+    "#": 862,
+    "Title": "Star to steer her by",
+    "Author": "Shades of Mauve",
+    "ReadDate": "2014-02-01"
+  },
+  {
+    "#": 863,
+    "Title": "Warrior's apprentice",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2014-02-02"
+  },
+  {
+    "#": 864,
+    "Title": "Shipping news",
+    "Author": "E Annie Proulx",
+    "ReadDate": "2014-02-09"
+  },
+  {
+    "#": 865,
+    "Title": "Snow crash",
+    "Author": "Neal Stephenson",
+    "ReadDate": "2014-02-28"
+  },
+  {
+    "#": 866,
+    "Title": "Howl's moving castle",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2014-03-15"
+  },
+  {
+    "#": 867,
+    "Title": "Busman's honeymoon",
+    "Author": "Dorothy L Sayers",
+    "ReadDate": "2014-04-01"
+  },
+  {
+    "#": 868,
+    "Title": "Deadline",
+    "Author": "Mira Grant",
+    "ReadDate": "2014-04-03"
+  },
+  {
+    "#": 869,
+    "Title": "Lies of Locke Lamora",
+    "Author": "Scott Lynch",
+    "ReadDate": "2014-04-05"
+  },
+  {
+    "#": 870,
+    "Title": "Player of games",
+    "Author": "Iain M Banks",
+    "ReadDate": "2014-04-07"
+  },
+  {
+    "#": 871,
+    "Title": "Long earth",
+    "Author": ["Terry Pratchett","Stephen Baxter"],
+    "ReadDate": "2014-04-09"
+  },
+  {
+    "#": 872,
+    "Title": "Squire",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-04-11"
+  },
+  {
+    "#": 873,
+    "Title": "First test",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-04-13"
+  },
+  {
+    "#": 874,
+    "Title": "Page",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-04-15"
+  },
+  {
+    "#": 875,
+    "Title": "Lady knight",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-04-17"
+  },
+  {
+    "#": 876,
+    "Title": "Broken homes",
+    "Author": "Ben Aaronovitch",
+    "ReadDate": "2014-04-19"
+  },
+  {
+    "#": 877,
+    "Title": "Keep chickens! Tending small flocks in cities, suburbs and other small spaces",
+    "Author": "Barbara Kilarski",
+    "ReadDate": "2014-04-23"
+  },
+  {
+    "#": 878,
+    "Title": "On Basilisk Station",
+    "Author": "David Weber",
+    "ReadDate": "2014-05-15"
+  },
+  {
+    "#": 879,
+    "Title": "Honor of the queen",
+    "Author": "David Weber",
+    "ReadDate": "2014-05-17"
+  },
+  {
+    "#": 880,
+    "Title": "Short victorious war",
+    "Author": "David Weber",
+    "ReadDate": "2014-05-19"
+  },
+  {
+    "#": 881,
+    "Title": "Field of dishonor",
+    "Author": "David Weber",
+    "ReadDate": "2014-05-21"
+  },
+  {
+    "#": 882,
+    "Title": "Flag in exile",
+    "Author": "David Weber",
+    "ReadDate": "2014-05-23"
+  },
+  {
+    "#": 883,
+    "Title": "Honor among enemies",
+    "Author": "David Weber",
+    "ReadDate": "2014-05-25"
+  },
+  {
+    "#": 884,
+    "Title": "In enemy hands",
+    "Author": "David Weber",
+    "ReadDate": "2014-05-27"
+  },
+  {
+    "#": 885,
+    "Title": "Echoes of honor",
+    "Author": "David Weber",
+    "ReadDate": "2014-05-29"
+  },
+  {
+    "#": 886,
+    "Title": "Ashes of victory",
+    "Author": "David Weber",
+    "ReadDate": "2014-05-31"
+  },
+  {
+    "#": 887,
+    "Title": "War of honor",
+    "Author": "David Weber",
+    "ReadDate": "2014-06-02"
+  },
+  {
+    "#": 888,
+    "Title": "At all costs",
+    "Author": "David Weber",
+    "ReadDate": "2014-06-04"
+  },
+  {
+    "#": 889,
+    "Title": "Mission of honor",
+    "Author": "David Weber",
+    "ReadDate": "2014-06-06"
+  },
+  {
+    "#": 890,
+    "Title": "Rising thunder",
+    "Author": "David Weber",
+    "ReadDate": "2014-06-08"
+  },
+  {
+    "#": 891,
+    "Title": "More than honor",
+    "Author": "David Weber",
+    "ReadDate": "2014-06-15"
+  },
+  {
+    "#": 892,
+    "Title": "Cold steel",
+    "Author": "Kate Elliott",
+    "ReadDate": "2014-07-15"
+  },
+  {
+    "#": 893,
+    "Title": "Among others",
+    "Author": "Jo Walton",
+    "ReadDate": "2014-09-16"
+  },
+  {
+    "#": 894,
+    "Title": "Crystal cave",
+    "Author": "Mary Stewart",
+    "ReadDate": "2014-09-18"
+  },
+  {
+    "#": 895,
+    "Title": "Hollow hills",
+    "Author": "Mary Stewart",
+    "ReadDate": "2014-09-19"
+  },
+  {
+    "#": 896,
+    "Title": "Girl in the cellar",
+    "Author": "Patricia Wentworth",
+    "ReadDate": "2014-09-20"
+  },
+  {
+    "#": 897,
+    "Title": "Chinese shawl",
+    "Author": "Patricia Wentworth",
+    "ReadDate": "2014-09-21"
+  },
+  {
+    "#": 898,
+    "Title": "Man in the queue",
+    "Author": "Josephine Tey",
+    "ReadDate": "2014-09-22"
+  },
+  {
+    "#": 899,
+    "Title": "Miss Pym disposes",
+    "Author": "Josephine Tey",
+    "ReadDate": "2014-09-23"
+  },
+  {
+    "#": 900,
+    "Title": "Fangirl",
+    "Author": "Rainbow Rowell",
+    "ReadDate": "2014-09-24"
+  },
+  {
+    "#": 901,
+    "Title": "Ancillary justice",
+    "Author": "Ann Leckie",
+    "ReadDate": "2014-09-27"
+  },
+  {
+    "#": 902,
+    "Title": "I, Claudius",
+    "Author": "Robert Graves",
+    "ReadDate": "2014-09-28"
+  },
+  {
+    "#": 903,
+    "Title": "Invisible cities",
+    "Author": "Italo Calvino",
+    "ReadDate": "2014-09-30"
+  },
+  {
+    "#": 904,
+    "Title": "Monstrous regiment",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2014-11-15"
+  },
+  {
+    "#": 905,
+    "Title": "Last enchantment",
+    "Author": "Mary Stewart",
+    "ReadDate": "2014-12-27"
+  },
+  {
+    "#": 906,
+    "Title": "Wicked day",
+    "Author": "Mary Stewart",
+    "ReadDate": "2014-12-28"
+  },
+  {
+    "#": 907,
+    "Title": "Porcupine",
+    "Author": "Julian Barnes",
+    "ReadDate": "2014-12-29"
+  },
+  {
+    "#": 908,
+    "Title": "Raising steam",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2014-12-29"
+  },
+  {
+    "#": 909,
+    "Title": "Magic in the weaving",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-12-29"
+  },
+  {
+    "#": 910,
+    "Title": "Power in the storm",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-12-29"
+  },
+  {
+    "#": 911,
+    "Title": "Fire in the forging",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-12-29"
+  },
+  {
+    "#": 912,
+    "Title": "Healing in the vine",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-12-30"
+  },
+  {
+    "#": 913,
+    "Title": "Magic steps",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-12-30"
+  },
+  {
+    "#": 914,
+    "Title": "Street magic",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-12-30"
+  },
+  {
+    "#": 915,
+    "Title": "Cold fire",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-12-30"
+  },
+  {
+    "#": 916,
+    "Title": "Shatterglass",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-12-30"
+  },
+  {
+    "#": 917,
+    "Title": "Melting stones",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-12-30"
+  },
+  {
+    "#": 918,
+    "Title": "Terrier",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-12-30"
+  },
+  {
+    "#": 919,
+    "Title": "Bloodhound",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-12-31"
+  },
+  {
+    "#": 920,
+    "Title": "Mastiff",
+    "Author": "Tamora Pierce",
+    "ReadDate": "2014-12-31"
+  },
+  {
+    "#": 921,
+    "Title": "Pawn of prophecy",
+    "Author": "David Eddings",
+    "ReadDate": "2015-01-01"
+  },
+  {
+    "#": 922,
+    "Title": "Queen of sorcery",
+    "Author": "David Eddings",
+    "ReadDate": "2015-01-02"
+  },
+  {
+    "#": 923,
+    "Title": "Magician's gambit",
+    "Author": "David Eddings",
+    "ReadDate": "2015-01-03"
+  },
+  {
+    "#": 924,
+    "Title": "Castle of wizardry",
+    "Author": "David Eddings",
+    "ReadDate": "2015-01-04"
+  },
+  {
+    "#": 925,
+    "Title": "Enchanter's end game",
+    "Author": "David Eddings",
+    "ReadDate": "2015-01-05"
+  },
+  {
+    "#": 926,
+    "Title": "Guardians of the west",
+    "Author": "David Eddings",
+    "ReadDate": "2015-01-06"
+  },
+  {
+    "#": 927,
+    "Title": "King of the Murgos",
+    "Author": "David Eddings",
+    "ReadDate": "2015-01-07"
+  },
+  {
+    "#": 928,
+    "Title": "Demon lord of Karanda",
+    "Author": "David Eddings",
+    "ReadDate": "2015-01-08"
+  },
+  {
+    "#": 929,
+    "Title": "Sorceress of Darshiva",
+    "Author": "David Eddings",
+    "ReadDate": "2015-01-09"
+  },
+  {
+    "#": 930,
+    "Title": "Seeress of Kell",
+    "Author": "David Eddings",
+    "ReadDate": "2015-01-10"
+  },
+  {
+    "#": 931,
+    "Title": "Arrows of the queen",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2015-01-12"
+  },
+  {
+    "#": 932,
+    "Title": "Arrow's flight",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2015-01-14"
+  },
+  {
+    "#": 933,
+    "Title": "Arrow's fall",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2015-01-16"
+  },
+  {
+    "#": 934,
+    "Title": "Winds of fate",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2015-01-18"
+  },
+  {
+    "#": 935,
+    "Title": "Winds of change",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2015-01-20"
+  },
+  {
+    "#": 936,
+    "Title": "Winds of fury",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2015-01-22"
+  },
+  {
+    "#": 937,
+    "Title": "Storm warning",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2015-01-24"
+  },
+  {
+    "#": 938,
+    "Title": "Storm rising",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2015-01-25"
+  },
+  {
+    "#": 939,
+    "Title": "Storm breaking",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2015-01-26"
+  },
+  {
+    "#": 940,
+    "Title": "Fellowship of the ring",
+    "Author": "J.R.R. Tolkien",
+    "ReadDate": "2015-02-15"
+  },
+  {
+    "#": 941,
+    "Title": "Hyperbole and a half",
+    "Author": "Allie Brosh",
+    "ReadDate": "2015-03-28"
+  },
+  {
+    "#": 942,
+    "Title": "Cotillion",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2015-04-01"
+  },
+  {
+    "#": 943,
+    "Title": "Terms of enlistment",
+    "Author": "Marko Kloos",
+    "ReadDate": "2015-04-16"
+  },
+  {
+    "#": 944,
+    "Title": "Diamond throne",
+    "Author": "David Eddings",
+    "ReadDate": "2016-01-01"
+  },
+  {
+    "#": 945,
+    "Title": "Ruby crown",
+    "Author": "David Eddings",
+    "ReadDate": "2016-01-01"
+  },
+  {
+    "#": 946,
+    "Title": "Sapphire rose",
+    "Author": "David Eddings",
+    "ReadDate": "2016-01-01"
+  },
+  {
+    "#": 947,
+    "Title": "Magician's guild",
+    "Author": "Trudi Canavan",
+    "ReadDate": "2016-01-01"
+  },
+  {
+    "#": 948,
+    "Title": "Novice",
+    "Author": "Trudi Canavan",
+    "ReadDate": "2016-01-01"
+  },
+  {
+    "#": 949,
+    "Title": "High Lord",
+    "Author": "Trudi Canavan",
+    "ReadDate": "2016-01-01"
+  },
+  {
+    "#": 950,
+    "Title": "Unspeakable Things",
+    "Author": "Laurie Penny",
+    "ReadDate": "2017-01-02"
+  },
+  {
+    "#": 951,
+    "Title": "Cocaine blues",
+    "Author": "Kerry Greenwood",
+    "ReadDate": "2017-01-26"
+  },
+  {
+    "#": 952,
+    "Title": "An accident of stars",
+    "Author": "Foz Meadows",
+    "ReadDate": "2017-01-26"
+  },
+  {
+    "#": 953,
+    "Title": "Leviathan wakes",
+    "Author": "James S. A. Corey",
+    "ReadDate": "2017-01-27"
+  },
+  {
+    "#": 954,
+    "Title": "Hundred thousand kingdoms",
+    "Author": "N. K. Jemesin",
+    "ReadDate": "2017-03-31"
+  },
+  {
+    "#": 955,
+    "Title": "The broken kingdoms",
+    "Author": "N. K. Jemesin",
+    "ReadDate": "2017-04-01"
+  },
+  {
+    "#": 956,
+    "Title": "Kingdom of the gods",
+    "Author": "N. K. Jemesin",
+    "ReadDate": "2017-04-03"
+  },
+  {
+    "#": 957,
+    "Title": "Children of Green Knowe",
+    "Author": "Lucy M. Boston",
+    "ReadDate": "2017-05-19"
+  },
+  {
+    "#": 958,
+    "Title": "Charmed life",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2017-05-20"
+  },
+  {
+    "#": 959,
+    "Title": "Demon headmaster",
+    "Author": "Gillian Cross",
+    "ReadDate": "2017-05-31"
+  },
+  {
+    "#": 960,
+    "Title": "April lady",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2017-07-07"
+  },
+  {
+    "#": 961,
+    "Title": "Venetia",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2017-07-08"
+  },
+  {
+    "#": 962,
+    "Title": "Caliban's war",
+    "Author": "James S. A. Corey",
+    "ReadDate": "2017-07-12"
+  },
+  {
+    "#": 963,
+    "Title": "Sylvester",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2017-07-12"
+  },
+  {
+    "#": 964,
+    "Title": "A tyranny of queens",
+    "Author": "Foz Meadows",
+    "ReadDate": "2017-07-20"
+  },
+  {
+    "#": 965,
+    "Title": "The Stinking Great Lie",
+    "Author": "Catherine Jinks",
+    "ReadDate": "2017-08-16"
+  },
+  {
+    "#": 966,
+    "Title": "Rosemary and rue",
+    "Author": "Seanan McGuire",
+    "ReadDate": "2017-08-16"
+  },
+  {
+    "#": 967,
+    "Title": "Throne of Glass",
+    "Author": "Sarah J Maas",
+    "ReadDate": "2017-08-19"
+  },
+  {
+    "#": 968,
+    "Title": "Cibola burn",
+    "Author": "James S. A. Corey",
+    "ReadDate": "2017-10-28"
+  },
+  {
+    "#": 969,
+    "Title": "Charity Girl",
+    "Author": "Georgette Heyer",
+    "ReadDate": "2017-11-07"
+  },
+  {
+    "#": 970,
+    "Title": "The Hanging Tree",
+    "Author": "Ben Aaronovitch",
+    "ReadDate": "2017-11-09"
+  },
+  {
+    "#": 971,
+    "Title": "Dead Beat",
+    "Author": "Jim Butcher",
+    "ReadDate": "2017-11-10"
+  },
+  {
+    "#": 972,
+    "Title": "Proven Guilty",
+    "Author": "Jim Butcher",
+    "ReadDate": "2017-11-12"
+  },
+  {
+    "#": 973,
+    "Title": "Nemesis Games",
+    "Author": "James S. A. Corey",
+    "ReadDate": "2017-11-17"
+  },
+  {
+    "#": 974,
+    "Title": "The Stone Sky",
+    "Author": "N. K. Jemesin",
+    "ReadDate": "2018-01-26"
+  },
+  {
+    "#": 975,
+    "Title": "The Republic Of Thieves",
+    "Author": "Scott Lynch",
+    "ReadDate": "2018-01-29"
+  },
+  {
+    "#": 976,
+    "Title": "Babylon's Ashes",
+    "Author": "James S. A. Corey",
+    "ReadDate": "2018-01-29"
+  },
+  {
+    "#": 977,
+    "Title": "Goblin Emperor",
+    "Author": "Katherine Addison",
+    "ReadDate": "2018-03-04"
+  },
+  {
+    "#": 978,
+    "Title": "Power And Majesty",
+    "Author": "Tansy Rayner Roberts",
+    "ReadDate": "2018-04-07"
+  },
+  {
+    "#": 979,
+    "Title": "The Shattered City",
+    "Author": "Tansy Rayner Roberts",
+    "ReadDate": "2018-04-08"
+  },
+  {
+    "#": 980,
+    "Title": "Caliban's War",
+    "Author": "James S. A. Corey",
+    "ReadDate": "2018-04-08"
+  },
+  {
+    "#": 981,
+    "Title": "Reign Of Beasts",
+    "Author": "Tansy Rayner Roberts",
+    "ReadDate": "2018-04-09"
+  },
+  {
+    "#": 982,
+    "Title": "By The Sword",
+    "Author": "Mercedes Lackey",
+    "ReadDate": "2018-06-18"
+  },
+  {
+    "#": 983,
+    "Title": "Court Of Fives",
+    "Author": "Kate Elliott",
+    "ReadDate": "2018-07-18"
+  },
+  {
+    "#": 984,
+    "Title": "Moon Called",
+    "Author": "Patricia Briggs",
+    "ReadDate": "2018-08-26"
+  },
+  {
+    "#": 985,
+    "Title": "Grass",
+    "Author": "Sheri S Tepper",
+    "ReadDate": "2018-09-23"
+  },
+  {
+    "#": 986,
+    "Title": "The Tea Master And The Detective",
+    "Author": "Aliette de Bodard",
+    "ReadDate": "2018-09-26"
+  },
+  {
+    "#": 987,
+    "Title": "The Flowers Of Vashnoi",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2018-09-26"
+  },
+  {
+    "#": 988,
+    "Title": "All Systems Red (Murderbot 1)",
+    "Author": "Martha Wells",
+    "ReadDate": "2018-10-02"
+  },
+  {
+    "#": 989,
+    "Title": "Artificial Condition (Murderbot 2)",
+    "Author": "Martha Wells",
+    "ReadDate": "2018-10-03"
+  },
+  {
+    "#": 990,
+    "Title": "Rogue Protocol (Murderbot 3)",
+    "Author": "Martha Wells",
+    "ReadDate": "2018-10-03"
+  },
+  {
+    "#": 991,
+    "Title": "Exit Strategy (Murderbot 4)",
+    "Author": "Martha Wells",
+    "ReadDate": "2018-10-03"
+  },
+  {
+    "#": 992,
+    "Title": "So You Want To Be A Wizard?",
+    "Author": "Diane Duane",
+    "ReadDate": "2018-10-03"
+  },
+  {
+    "#": 993,
+    "Title": "The Wonder Engine",
+    "Author": "Ursula Vernon",
+    "ReadDate": "2018-10-04"
+  },
+  {
+    "#": 994,
+    "Title": "Clockwork Boys",
+    "Author": "Ursula Vernon",
+    "ReadDate": "2018-10-04"
+  },
+  {
+    "#": 995,
+    "Title": "The Duchess Deal",
+    "Author": "Tessa Dare",
+    "ReadDate": "2018-10-09"
+  },
+  {
+    "#": 996,
+    "Title": "Tsumiko And The Enslaved Fox",
+    "Author": "Forthright",
+    "ReadDate": "2018-10-17"
+  },
+  {
+    "#": 997,
+    "Title": "Tea and sympathetic magic",
+    "Author": "Tansy Rayner Roberts",
+    "ReadDate": "2018-12-08"
+  },
+  {
+    "#": 998,
+    "Title": "Swordheart",
+    "Author": "Ursula Vernon",
+    "ReadDate": "2018-12-08"
+  },
+  {
+    "#": 999,
+    "Title": "The seventh bride",
+    "Author": "Ursula Vernon",
+    "ReadDate": "2018-12-08"
+  },
+  {
+    "#": 1000,
+    "Title": "The governess affair",
+    "Author": "Courtney Milan",
+    "ReadDate": "2018-12-08"
+  },
+  {
+    "#": 1001,
+    "Title": "In the vanishers' palace",
+    "Author": "Aliette de Bodard",
+    "ReadDate": "2018-12-09"
+  },
+  {
+    "#": 1002,
+    "Title": "The Duchess war",
+    "Author": "Courtney Milan",
+    "ReadDate": "2018-12-09"
+  },
+  {
+    "#": 1003,
+    "Title": "A kiss for midwinter",
+    "Author": "Courtney Milan",
+    "ReadDate": "2018-12-09"
+  },
+  {
+    "#": 1004,
+    "Title": "The heiress effect",
+    "Author": "Courtney Milan",
+    "ReadDate": "2018-12-09"
+  },
+  {
+    "#": 1005,
+    "Title": "The countess conspiracy",
+    "Author": "Courtney Milan",
+    "ReadDate": "2018-12-10"
+  },
+  {
+    "#": 1006,
+    "Title": "The suffragette scandal",
+    "Author": "Courtney Milan",
+    "ReadDate": "2018-12-12"
+  },
+  {
+    "#": 1007,
+    "Title": "Talk sweetly to me",
+    "Author": "Courtney Milan",
+    "ReadDate": "2018-12-12"
+  },
+  {
+    "#": 1008,
+    "Title": "The Game Bird",
+    "Author": "Aiden R. Walsh",
+    "ReadDate": "2018-12-25"
+  },
+  {
+    "#": 1009,
+    "Title": "The city of brass",
+    "Author": "S.A. Chakraborty",
+    "ReadDate": "2019-01-03"
+  },
+  {
+    "#": 1010,
+    "Title": "Kimiko and the accidental proposal",
+    "Author": "Forthright",
+    "ReadDate": "2019-01-08"
+  },
+  {
+    "#": 1011,
+    "Title": "Blood bound",
+    "Author": "Patricia Briggs",
+    "ReadDate": "2019-01-10"
+  },
+  {
+    "#": 1012,
+    "Title": "Iron kissed",
+    "Author": "Patricia Briggs",
+    "ReadDate": "2019-01-11"
+  },
+  {
+    "#": 1013,
+    "Title": "Bone crossed",
+    "Author": "Patricia Briggs",
+    "ReadDate": "2019-01-11"
+  },
+  {
+    "#": 1014,
+    "Title": "The poisoned blade",
+    "Author": "Kate Elliott",
+    "ReadDate": "2019-01-11"
+  },
+  {
+    "#": 1015,
+    "Title": "Doctor Who and the seeds of doom",
+    "Author": "Philip Hinchcliffe",
+    "ReadDate": "2019-01-13"
+  },
+  {
+    "#": 1016,
+    "Title": "Spellwright",
+    "Author": "Blake Charlton",
+    "ReadDate": "2019-01-13"
+  },
+  {
+    "#": 1017,
+    "Title": "The bone season",
+    "Author": "Samantha Shannon",
+    "ReadDate": "2019-01-14"
+  },
+  {
+    "#": 1018,
+    "Title": "The kingdom of copper",
+    "Author": "S.A. Chakraborty",
+    "ReadDate": "2019-02-10"
+  },
+  {
+    "#": 1019,
+    "Title": "An arranged marriage",
+    "Author": "Jo Beverly",
+    "ReadDate": "2019-03-28"
+  },
+  {
+    "#": 1020,
+    "Title": "An unwilling bride",
+    "Author": "Jo Beverly",
+    "ReadDate": "2019-03-28"
+  },
+  {
+    "#": 1021,
+    "Title": "A right honourable gentleman",
+    "Author": "Courtney Milan",
+    "ReadDate": "2019-03-28"
+  },
+  {
+    "#": 1022,
+    "Title": "Secrets of a summer night",
+    "Author": "Lisa Kleypas",
+    "ReadDate": "2019-03-28"
+  },
+  {
+    "#": 1023,
+    "Title": "It happened one autumn",
+    "Author": "Lisa Kleypas",
+    "ReadDate": "2019-03-29"
+  },
+  {
+    "#": 1024,
+    "Title": "The Devil in Winter",
+    "Author": "Lisa Kleypas",
+    "ReadDate": "2019-03-29"
+  },
+  {
+    "#": 1025,
+    "Title": "Scandal in Spring",
+    "Author": "Lisa Kleypas",
+    "ReadDate": "2019-03-29"
+  },
+  {
+    "#": 1026,
+    "Title": "Knife Children",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2019-03-29"
+  },
+  {
+    "#": 1027,
+    "Title": "The Governess Affair",
+    "Author": "Courtney Milan",
+    "ReadDate": "2019-03-30"
+  },
+  {
+    "#": 1028,
+    "Title": "The Duchess War",
+    "Author": "Courtney Milan",
+    "ReadDate": "2019-03-30"
+  },
+  {
+    "#": 1029,
+    "Title": "The Heiress Effect",
+    "Author": "Courtney Milan",
+    "ReadDate": "2019-03-31"
+  },
+  {
+    "#": 1030,
+    "Title": "The countess conspiracy",
+    "Author": "Courtney Milan",
+    "ReadDate": "2019-03-31"
+  },
+  {
+    "#": 1031,
+    "Title": "The Suffragette Scandal",
+    "Author": "Courtney Milan",
+    "ReadDate": "2019-04-02"
+  },
+  {
+    "#": 1032,
+    "Title": "Swordheart",
+    "Author": "Ursula Vernon",
+    "ReadDate": "2019-06-04"
+  },
+  {
+    "#": 1033,
+    "Title": "The Clockwork Boys",
+    "Author": "Ursula Vernon",
+    "ReadDate": "2019-06-04"
+  },
+  {
+    "#": 1034,
+    "Title": "The Wonder Engine",
+    "Author": "Ursula Vernon",
+    "ReadDate": "2019-06-06"
+  },
+  {
+    "#": 1035,
+    "Title": "Dragonclaw",
+    "Author": "Kate Forsyth",
+    "ReadDate": "2019-06-09"
+  },
+  {
+    "#": 1036,
+    "Title": "The Lady's Guide to Celestial Mechanics",
+    "Author": "Olivia Waite",
+    "ReadDate": "2019-11-17"
+  },
+  {
+    "#": 1037,
+    "Title": "A Gentleman's Guide to Vice and Virtue",
+    "Author": "Mackenzi Lee",
+    "ReadDate": "2020-01-10"
+  },
+  {
+    "#": 1038,
+    "Title": "Murder Most Unladylike",
+    "Author": "Robin Stevens",
+    "ReadDate": "2020-02-05"
+  },
+  {
+    "#": 1039,
+    "Title": "After the Wedding",
+    "Author": "Courtney Milan",
+    "ReadDate": "2020-02-25"
+  },
+  {
+    "#": 1040,
+    "Title": "Uprooted",
+    "Author": "Naomi Novik",
+    "ReadDate": "2020-03-13"
+  },
+  {
+    "#": 1041,
+    "Title": "The Devil in Winter",
+    "Author": "Lisa Kleypas",
+    "ReadDate": "2020-03-14"
+  },
+  {
+    "#": 1042,
+    "Title": "Snowspelled",
+    "Author": "Stephanie Burgis",
+    "ReadDate": "2020-03-15"
+  },
+  {
+    "#": 1043,
+    "Title": "Paladin's Grace",
+    "Author": "Ursula Vernon",
+    "ReadDate": "2020-03-19"
+  },
+  {
+    "#": 1044,
+    "Title": "Dragon called",
+    "Author": ["Kara Lockharte","Cassie Alexander"],
+    "ReadDate": "2020-05-19"
+  },
+  {
+    "#": 1045,
+    "Title": "Dragon destined",
+    "Author": ["Kara Lockharte","Cassie Alexander"],
+    "ReadDate": "2020-05-19"
+  },
+  {
+    "#": 1046,
+    "Title": "Minor mage",
+    "Author": "Ursula Vernon",
+    "ReadDate": "2020-06-03"
+  },
+  {
+    "#": 1047,
+    "Title": "Dragon fated",
+    "Author": ["Kara Lockharte","Cassie Alexander"],
+    "ReadDate": "2020-06-03"
+  },
+  {
+    "#": 1048,
+    "Title": "A kiss for midwinter",
+    "Author": "Courtney Milan",
+    "ReadDate": "2020-08-10"
+  },
+  {
+    "#": 1049,
+    "Title": "The heiress effect",
+    "Author": "Courtney Milan",
+    "ReadDate": "2020-08-13"
+  },
+  {
+    "#": 1050,
+    "Title": "The countess conspiracy",
+    "Author": "Courtney Milan",
+    "ReadDate": "2020-08-16"
+  },
+  {
+    "#": 1051,
+    "Title": "Talk sweetly to me",
+    "Author": "Courtney Milan",
+    "ReadDate": "2020-08-16"
+  },
+  {
+    "#": 1052,
+    "Title": "Aurora Rising",
+    "Author": ["Amie Kaufman","Jay Kristoff"],
+    "ReadDate": "2020-08-23"
+  },
+  {
+    "#": 1053,
+    "Title": "Gideon the ninth",
+    "Author": "Tamsyn Muir",
+    "ReadDate": "2020-08-31"
+  },
+  {
+    "#": 1054,
+    "Title": "Harrow the ninth",
+    "Author": "Tamsyn Muir",
+    "ReadDate": "2020-09-01"
+  },
+  {
+    "#": 1055,
+    "Title": "All Systems Red (Murderbot 1)",
+    "Author": "Martha Wells",
+    "ReadDate": "2020-09-03"
+  },
+  {
+    "#": 1056,
+    "Title": "Artificial Condition (Murderbot 2)",
+    "Author": "Martha Wells",
+    "ReadDate": "2020-09-03"
+  },
+  {
+    "#": 1057,
+    "Title": "Aurora burning",
+    "Author": ["Amie Kaufman","Jay Kristoff"],
+    "ReadDate": "2020-09-05"
+  },
+  {
+    "#": 1058,
+    "Title": "Empire of gold",
+    "Author": "S.A. Chakraborty",
+    "ReadDate": "2020-09-15"
+  },
+  {
+    "#": 1059,
+    "Title": "The angel of the crows",
+    "Author": "Katherine Addison",
+    "ReadDate": "2020-09-17"
+  },
+  {
+    "#": 1060,
+    "Title": "Legendborn",
+    "Author": "Tracy Deonn",
+    "ReadDate": "2020-09-29"
+  },
+  {
+    "#": 1061,
+    "Title": "Dragon mated",
+    "Author": ["Kara Lockharte","Cassie Alexander"],
+    "ReadDate": "2020-10-15"
+  },
+  {
+    "#": 1062,
+    "Title": "The Duke Who Didn't",
+    "Author": "Courtney Milan",
+    "ReadDate": "2020-12-16"
+  },
+  {
+    "#": 1063,
+    "Title": "Axiom's end",
+    "Author": "Lindsay Ellis",
+    "ReadDate": "2020-12-25"
+  },
+  {
+    "#": 1064,
+    "Title": "Cinderella is dead",
+    "Author": "Kalynn Bayron",
+    "ReadDate": "2021-01-05"
+  },
+  {
+    "#": 1065,
+    "Title": "American hippo",
+    "Author": "Sarah Gailey",
+    "ReadDate": "2021-01-12"
+  },
+  {
+    "#": 1066,
+    "Title": "Network effect",
+    "Author": "Martha Wells",
+    "ReadDate": "2021-05-04"
+  },
+  {
+    "#": 1067,
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "ReadDate": "2021-08-15"
+  },
+  {
+    "#": 1068,
+    "Title": "The blue sword",
+    "Author": "Robin McKinley",
+    "ReadDate": "2021-08-22"
+  },
+  {
+    "#": 1069,
+    "Title": "The Sheep-Pig",
+    "Author": "Dick King-Smith",
+    "ReadDate": "2021-08-31"
+  },
+  {
+    "#": 1070,
+    "Title": "Year of the griffin",
+    "Author": "Diana Wynne Jones",
+    "ReadDate": "2021-09-02"
+  },
+  {
+    "#": 1071,
+    "Title": "The ancient future",
+    "Author": "Traci Harding",
+    "ReadDate": "2021-09-14"
+  },
+  {
+    "#": 1072,
+    "Title": "A deadly education",
+    "Author": "Naomi Novik",
+    "ReadDate": "2021-09-17"
+  },
+  {
+    "#": 1073,
+    "Title": "The witness for the dead",
+    "Author": "Katherine Addison",
+    "ReadDate": "2021-09-21"
+  },
+  {
+    "#": 1074,
+    "Title": "The councillor",
+    "Author": "E.J. Beaton",
+    "ReadDate": "2021-09-30"
+  },
+  {
+    "#": 1075,
+    "Title": "Aurora's end",
+    "Author": ["Amie Kaufman","Jay Kristoff"],
+    "ReadDate": "2021-12-18"
+  },
+  {
+    "#": 1076,
+    "Title": "Shadow and bone",
+    "Author": "Leigh Bardugo",
+    "ReadDate": "2021-12-19"
+  },
+  {
+    "#": 1077,
+    "Title": "Siege and storm",
+    "Author": "Leigh Bardugo",
+    "ReadDate": "2021-12-19"
+  },
+  {
+    "#": 1078,
+    "Title": "Ruin and rising",
+    "Author": "Leigh Bardugo",
+    "ReadDate": "2021-12-19"
+  },
+  {
+    "#": 1079,
+    "Title": "The Last Graduate",
+    "Author": "Naomi Novik",
+    "ReadDate": "2022-01-15"
+  },
+  {
+    "#": 1080,
+    "Title": "The hero and the crown",
+    "Author": "Robin McKinley",
+    "ReadDate": "2022-01-26"
+  },
+  {
+    "#": 1081,
+    "Title": "Truth of the divine",
+    "Author": "Lindsay Ellis",
+    "ReadDate": "2022-01-26"
+  },
+  {
+    "#": 1082,
+    "Title": "The lord of the rings ",
+    "Author": "J.R.R. Tolkien",
+    "ReadDate": "2022-02-01"
+  },
+  {
+    "#": 1083,
+    "Title": "The Lion, the Witch and the Wardrobe",
+    "Author": "C.S. Lewis",
+    "ReadDate": "2022-03-03"
+  },
+  {
+    "#": 1084,
+    "Title": "Prince Caspian ",
+    "Author": "C.S. Lewis",
+    "ReadDate": "2022-04-01"
+  },
+  {
+    "#": 1085,
+    "Title": "The Viscount who loved me",
+    "Author": "Julia Quinn",
+    "ReadDate": "2022-04-02"
+  },
+  {
+    "#": 1086,
+    "Title": "Tsumiko and the enslaved fox",
+    "Author": "Forthright",
+    "ReadDate": "2022-04-05"
+  },
+  {
+    "#": 1087,
+    "Title": "Iron Widow",
+    "Author": "Xiran Jay Zhao",
+    "ReadDate": "2022-04-24"
+  },
+  {
+    "#": 1088,
+    "Title": "The voyage of the Dawn Treader ",
+    "Author": "C.S. Lewis",
+    "ReadDate": "2022-05-01"
+  },
+  {
+    "#": 1089,
+    "Title": "The silver chair",
+    "Author": "C.S. Lewis",
+    "ReadDate": "2022-06-01"
+  },
+  {
+    "#": 1090,
+    "Title": "The blood trials",
+    "Author": "N.E. Davenport ",
+    "ReadDate": "2022-06-16"
+  },
+  {
+    "#": 1091,
+    "Title": "Into the drowning deep",
+    "Author": "Mira Grant ",
+    "ReadDate": "2022-06-24"
+  },
+  {
+    "#": 1092,
+    "Title": "The last battle",
+    "Author": "C.S. Lewis",
+    "ReadDate": "2022-09-01"
+  },
+  {
+    "#": 1093,
+    "Title": "Nona the ninth",
+    "Author": "Tamsyn Muir",
+    "ReadDate": "2022-09-20"
+  },
+  {
+    "#": 1094,
+    "Title": "Gideon the ninth",
+    "Author": "Tamsyn Muir",
+    "ReadDate": "2022-09-20"
+  },
+  {
+    "#": 1095,
+    "Title": "Harrow the ninth",
+    "Author": "Tamsyn Muir",
+    "ReadDate": "2022-09-23"
+  },
+  {
+    "#": 1096,
+    "Title": "Sabriel",
+    "Author": "Garth Nix",
+    "ReadDate": "2022-10-02"
+  },
+  {
+    "#": 1097,
+    "Title": "Lirael",
+    "Author": "Garth Nix",
+    "ReadDate": "2022-10-03"
+  },
+  {
+    "#": 1098,
+    "Title": "Abhorsen",
+    "Author": "Garth Nix",
+    "ReadDate": "2022-10-04"
+  },
+  {
+    "#": 1099,
+    "Title": "Clariel",
+    "Author": "Garth Nix",
+    "ReadDate": "2022-10-11"
+  },
+  {
+    "#": 1100,
+    "Title": "Goldenhand",
+    "Author": "Garth Nix",
+    "ReadDate": "2022-10-12"
+  },
+  {
+    "#": 1101,
+    "Title": "Hunt the stars",
+    "Author": "Jessie Mihalik",
+    "ReadDate": "2022-10-14"
+  },
+  {
+    "#": 1102,
+    "Title": "Worn: a people's history of clothing",
+    "Author": "Sofi Thanhauser",
+    "ReadDate": "2022-10-24"
+  },
+  {
+    "#": 1103,
+    "Title": "The Golden Enclaves",
+    "Author": "Naomi Novik",
+    "ReadDate": "2022-10-27"
+  },
+  {
+    "#": 1104,
+    "Title": "Bloodmarked",
+    "Author": "Tracy Deonn",
+    "ReadDate": "2022-11-26"
+  },
+  {
+    "#": 1105,
+    "Title": "A study in honor",
+    "Author": "Claire O'Dell",
+    "ReadDate": "2023-03-31"
+  },
+  {
+    "#": 1106,
+    "Title": "Monstrous regiment",
+    "Author": "Terry Pratchett",
+    "ReadDate": "2023-04-19"
+  },
+  {
+    "#": 1107,
+    "Title": "Station Eternity",
+    "Author": "Mur Lafferty",
+    "ReadDate": "2023-04-24"
+  },
+  {
+    "#": 1108,
+    "Title": "Bea Wolf",
+    "Author": "Zach Weinersmith",
+    "ReadDate": "2023-06-03"
+  },
+  {
+    "#": 1109,
+    "Title": "Captain Vorpatril's Alliance",
+    "Author": "Lois McMaster Bujold",
+    "ReadDate": "2023-07-01"
+  }
+ ]

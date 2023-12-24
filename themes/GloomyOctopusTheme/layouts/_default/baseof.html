@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<head>
+  <!-- HEAD AND META -->
+  {{ partial "10_head.html" . }}
+  <!-- SCRIPTS (TOP) --> 
+  {{ partial "20_scripts-top.html" . }}
+</head>
+
+<body class="has-navbar-fixed-top">
+
+  <!-- HORIZONTAL NAVBAR -->
+  {{ partial "30_navbar.html" . }}
+
+  <!-- LAYOUT CONTAINER: MAIN CONTENT BOX -->
+  <div class="container py-4 is-size-5 is-fluid">
+
+    {{ block "main" . }}{{ end }}
+  
+  </div>
+  <!-- END LAYOUT CONTAINER: MAIN CONTENT BOX -->
+
+  <!-- FOOTER -->
+  {{ partial "50_footer.html" . }}
+  
+  <!-- SCRIPTS (BOTTOM) -->
+  {{ partial "55_scripts-bottom.html" . }}
+
+  </body>
+</html>

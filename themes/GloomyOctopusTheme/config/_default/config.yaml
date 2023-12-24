@@ -1,0 +1,117 @@
+# all the config for this theme
+# commented to hell and back because I can't remember what things do
+
+build:
+  useResourceCacheWhen: fallback
+    # mostly don't use cache for css
+copyright: "&copy; {Year}"
+enableEmoji: false 
+  # Enable Emoji emoticons support for page content (default: false)
+enableGitInfo: true
+  # enables date and stuff from a git repo
+enableInlineShortcodes: true #default: false
+  # Enable inline shortcode support
+frontmatter:
+  # Sets what date to use for content - looks through from top to bottom
+  # also has settings for expiryDate and publishDate
+  date:
+  - :filename 
+    # Takes the date from the title of the file e.g. 2018-02-22-mypage.md
+  - date
+  - publishDate
+  - lastmod
+  lastmod:
+  - :git 
+    # Git author date for the last revision of this content file. This will only be set 
+    # if --enableGitInfo is set or enableGitInfo = true is set in site config.
+  - lastmod
+  - :filename
+  - date
+  - publishDate
+imaging:
+  # DEFAULT IMAGE PROCESSING OPTIONS
+  anchor: Smart
+  bgColor: '#FFFFFF'
+  hint: photo
+  quality: 75 # default: 75
+    # sets quality of converted JPEG and WebP from 0 (low & small) to 100 (high & large) 
+  resampleFilter: Box
+  exif:
+    # EXIF DATA AVAILABILITY
+    disableDate: false 
+    disableLatLong: true # default: false
+    excludeFields: "" 
+    includeFields: ""
+    # regex matching the Exif tags to include/exclude from .Tags collection
+    # to include all available tags, set to ".*"
+    # if neithe include/exclude is set, Hugo excludes: ColorSpace, Contrast, Exif, Exposure[M|P|B], 
+    # Flash, GPS, JPEG, Metering, Resolution, Saturation, Sensing, Sharp, and WhiteBalance.
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+  # files to exclude from rendering from content, data, and i18n directories
+  # docs recommend using modules, but since they can't write decent modules docs, I will not be doing that
+  # see https://gohugo.io/getting-started/configuration/#ignore-content-and-data-files-when-rendering
+markup:
+  # markup render settings - largely presuming goldmark as default
+  # has various other settings I'm happy to leave as defaults (asciidocExt, goldmark:parser, highlight)
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions: 
+      # docs: https://github.com/yuin/goldmark/#built-in-extensions
+      definitionList: true 
+        # permits this style of markdown formatting: https://michelf.ca/projects/php-markdown/extra/#def-list
+      footnote: true
+        # Markdown footnote style: https://michelf.ca/projects/php-markdown/extra/#footnotes
+      linkify: false #default: true
+        # linkify recognises links in markdown without having to delimit them with < > and automatically parses as 
+        # an <a href=""></a> -- docs: https://github.github.com/gfm/#autolinks-extension-
+      strikethrough: true 
+        # Strikethrough parsing for text wrapped in one or two tildes (~)
+      table: true 
+        # Markdown text-based table formatting : https://github.github.com/gfm/#tables-extension-
+      taskList: true 
+        # tasklist renders a list with checkboxes where list item starts with "[ ] " or "[x] "
+      typographer: true 
+        # substitutes punctuations with typographic entities
+    renderer:
+      hardWraps: false 
+        # By default, Goldmark ignores newlines within a paragraph. Set to true to render newlines as <br> elements.
+      unsafe: true 
+        # By default, Goldmark does not render raw HTMLs and potentially dangerous links
+      xhtml: false
+  highlight:
+    # code formatting in web pages - https://gohugo.io/functions/highlight/
+    codeFences: true 
+      # this is where you can use inline backticks ("it's `code`") or block backticks (```javascript\njavascriptcode\n```)
+      # if something breaks, it might be because themes seem to set codeFences as "false"??
+    lineNos: true # default: false 
+      # configure line numbers as true
+    lineNumbersInTable: true 
+      #table (copy/paste friendly), inline 
+    lineNoStart: 199 # default: 1
+      # start the line number count at arbitrary number
+    style: solarized-light # default=monokai
+      # css formatting of code | options: https://xyproto.github.io/splash/docs/index.html
+    tabWidth: 2
+  tableOfContents:
+    # renders table of contents -- Goldmark only
+    endLevel: 6 
+      # how many h levels to show in contents
+    ordered: false 
+      # ol or ul
+    startLevel: 1
+      # what h level to start contents at
+# minify:
+  # settings on what to include and exclude from minification process
+  # https://gohugo.io/getting-started/configuration/#configure-minify
+paginate: 10
+  # elements per page in pagination
+# paginatePath:
+  # default: page | the path element used during pagination (https://example.com/page/2)
+removePathAccents: true #default: false
+  # removes non-spacing marks from composite characters in content paths 
+  # e.g. content/post/hügó.md --> https://example.org/post/hugo/
+# sectionPagesMenu: main
+  # required for using site.Menus.main
+  # but site.Menus has really limited custom parameters so I'm not using it
+timeout: 80000
+  # timeout for rendering files

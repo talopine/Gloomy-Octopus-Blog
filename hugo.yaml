@@ -1,0 +1,110 @@
+# SET THEME OR NOTHING WILL WORK
+theme: 'GloomyOctopusTheme'
+timeout: 80000
+
+# SPECIFIC SITE CONFIGURATION ELEMENTS
+title: 'Gloomy Octopus'
+baseURL: "https://gloomyoctopus.xyz/" 
+  # The absolute URL (protocol, host, path, and trailing slash) of your published site (e.g., https://www.example.org/docs/).
+copyright: "&copy; Marian 2018 -- {Year}"
+languageCode: 'en'
+
+# STYLES FOR IMAGES AND CODE FORMATTING
+imaging:
+  bgColor: '#fefae0' # This is $m_cornsilk btw
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions: 
+      # docs: https://github.com/yuin/goldmark/#built-in-extensions
+      definitionList: true 
+        # permits this style of markdown formatting: https://michelf.ca/projects/php-markdown/extra/#def-list
+      footnote: true
+        # Markdown footnote style: https://michelf.ca/projects/php-markdown/extra/#footnotes
+      linkify: false #default: true
+        # linkify recognises links in markdown without having to delimit them with < > and automatically parses as 
+        # an <a href=""></a> -- docs: https://github.github.com/gfm/#autolinks-extension-
+      strikethrough: true 
+        # Strikethrough parsing for text wrapped in one or two tildes (~)
+      table: true 
+        # Markdown text-based table formatting : https://github.github.com/gfm/#tables-extension-
+      taskList: true 
+        # tasklist renders a list with checkboxes where list item starts with "[ ] " or "[x] "
+      typographer: true 
+        # substitutes punctuations with typographic entities
+    renderer:
+      hardWraps: false 
+        # By default, Goldmark ignores newlines within a paragraph. Set to true to render newlines as <br> elements.
+      unsafe: true 
+        # By default, Goldmark does not render raw HTMLs and potentially dangerous links
+      xhtml: false
+  highlight:
+    # code formatting in web pages - https://gohugo.io/functions/highlight/
+    codeFences: true 
+      # this is where you can use inline backticks ("it's `code`") or block backticks (```javascript\njavascriptcode\n```)
+      # if something breaks, it might be because themes seem to set codeFences as "false"??
+    lineNos: true # default: false 
+      # configure line numbers as true
+    lineNumbersInTable: true 
+      #table (copy/paste friendly), inline 
+    lineNoStart: 199 # default: 1
+      # start the line number count at arbitrary number
+    style: solarized-light # css formatting of code | options: https://xyproto.github.io/splash/docs/index.html
+      # css formatting of code | options: https://xyproto.github.io/splash/docs/index.html
+    tabWidth: 2
+  tableOfContents:
+    # renders table of contents -- Goldmark only
+    endLevel: 6 
+      # how many h levels to show in contents
+    ordered: false 
+      # ol or ul
+    startLevel: 1
+      # what h level to start contents at
+
+# TAXONOMIES
+taxonomies:
+  # Custom taxonomies -- you need to include the default taxonomies (tags, categories) too if you want to keep them.
+  # You need to provide both the plural and singular labels for each taxonomy --> singular key: "plural value"
+  tag: "tags"
+  page: "pages"
+  post: "posts"
+  gala: "galas"
+permalinks:
+  # style of permalinks for content https://gohugo.io/content-management/urls/#permalinks
+  posts: "/p/:year/:slug"
+  pages: "/:slug"
+  tags: "/:title" # this is to omit the taxonomy segment of the URL in "tags"
+  galas: "/:title"
+
+params:
+  description: "This is my blog about crafts"
+  mainSections:
+    - posts
+    - pages
+    - galas
+# SPECIFIC SIDEBAR MENU PARAMETERS
+  menu_default_icon: "/ionicons/bug-outline.svg"
+  nav_menu_sidebar:
+    - name: "Home"
+      url: "/"
+      icon: "/ionicons/home-outline.svg"
+      weight: 10
+# SPECIFIC HORIZONTAL NAV BAR MENU PARAMETERS
+  nav_menu_navbar:
+    - name: "Virtual Crafts Evening"
+      url: "/virtual-crafts-evening/"
+      weight: 30
+      icon: "/ionicons/bicycle-outline.svg"
+    - name: "Galas"
+      url: "/galas/"
+      weight: 40
+  social_media:
+    # social media account links
+    - name: "Instagram"
+      url: https://www.instagram.com/gloomy_octopus
+      icon: "/ionicons/logo-instagram.svg"
+      weight: 10
+    - name: "Bitbucket"
+      url: https://bitbucket
+      icon: "/ionicons/logo-bitbucket.svg"
+      weight: 20

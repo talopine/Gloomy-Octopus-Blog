@@ -1,0 +1,49 @@
+.custom-render-heading {
+  opacity: 0;
+  transition: opacity .4s ease-in;
+}
+
+:is(h1,h2,h3,h4,h5,h6):hover .custom-render-heading,.custom-render-heading:focus {
+  opacity: 1;
+}
+
+// highlight on link
+
+@keyframes highlight {  
+  0% { opacity: 0.8; }
+  25% {opacity: 0.6; }
+  80% {opacity: 0;}
+  100% { opacity: 0; } 
+}
+
+.custom-render-heading-target {
+  position: relative;
+  z-index: 1; // the z-index needs to be set, otherwise I think it's too strong for the ::after element
+
+  &::after {
+    position: absolute;
+    z-index: -1;
+    content: '';
+    border-radius:10px;
+    opacity: 0;
+  }
+
+  &:target,
+  &:focus {
+    &::after {
+      animation: highlight 4s;
+    }
+  }
+}
+
+.custom-render-heading-target {
+  scroll-margin-top: 3em; // this makes the window go higher than the a href target point
+}
+
+.custom-render-heading-target::after {
+  top: -5px;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  background: linear-gradient(90deg, rgba($link,0.4), rgba($link, 0.6) 5%, rgba(255,0,0,0) 70.71%);
+}

@@ -1,0 +1,6 @@
+<h{{ .Level }} id="{{ .Anchor | safeURL }}" class="custom-render-heading-target">
+  {{ .Text | safeHTML }}
+  <a href="#{{ .Anchor | safeURL }}" title="Link to section: {{ .Text | safeHTML }}" aria-label="Link to section: {{ .Text | safeHTML }}">
+    <img src="/icons/ionicons/link-outline.svg" class="icon custom-render-heading is-small">
+  </a>
+</h{{ .Level }}>

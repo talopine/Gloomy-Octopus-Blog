@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+{{ if .IsHome }}
+  {{ partial "70_blog-welcome.html" . }}
+{{ end }}
+
+<div class="flex is-flex-wrap-wrap is-align-items-start is-justify-content-space-evenly columns pt-2">
+  {{ $pages := .RegularPages }}
+  {{ if .IsHome }}
+    {{ $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{ end }}
+
+  {{ range $pages }}
+    <!-- blog card -->
+    {{ partial "71_list-page-card.html" . }}
+  {{ end }}
+</div>
+<div class="block"></div>
+
+{{ end }}

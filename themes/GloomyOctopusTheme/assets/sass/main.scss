@@ -1,0 +1,15 @@
+@charset "utf-8";
+@import "fonts";  // declare local and remote fonts
+@import "bulma-setup"; // theme variables in bulma framework
+@import "node_modules/bulma/bulma.sass"; // bulma framework (from npm, so updateable)
+@import "node_modules/@creativebulma/bulma-divider/dist/bulma-divider"; // bulma divider
+@import "node_modules/@creativebulma/bulma-badge/dist/bulma-badge"; // bulma badge
+@import "vendors/vendors";
+@import "list-page-cards";
+@import "table-of-contents";
+@import "bulma-override";
+@import "booklist";
+
+figure img {
+  border-radius: 10px;
+}

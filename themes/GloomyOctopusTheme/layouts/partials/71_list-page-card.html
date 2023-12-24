@@ -1,0 +1,22 @@
+<!-- blog card -->
+<div class="column-width-setting list-page-card">
+  <div class="date-ribbon"><a href="{{ .Permalink }}">{{ .Date.Format "2 January 2006" }}</a></div>
+  <div class="list-page-card-image">
+    {{ $default_file := resources.GetMatch "image.jpg" }} <!-- returns the first file matching the headerImage string: local > global > default -->
+    {{ $global_file := resources.GetMatch .Params.headerImage | default $default_file }}
+    {{ $local_file := .Resources.GetMatch .Params.headerImage | default $global_file }}
+    {{ $image := $local_file.Fill "800x600 Top q95" }}
+    <a href="{{ .Permalink }}"><img src="{{ $image.Permalink }}"></a>
+  </div>
+  <div class="columns is-mobile">
+    <p class="column list-page-card-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </p>
+    <div class="modified-tags column is-one-quarter">
+    {{ range (.GetTerms "tags") }}
+      <span class="modified-tag"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></span>
+    {{ end }}
+    </div>
+  </div>
+</div> 
+<!-- end blog card -->

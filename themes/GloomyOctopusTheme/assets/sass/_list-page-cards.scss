@@ -1,0 +1,143 @@
+// sets the width of the cards in the main index layout so they aren't too wide but scale with the window
+// it's less than 50%, 33% etc because of padding or something
+
+.column-width-setting {width: 100%;}
+@media screen and (min-width: 769px) {.column-width-setting {width: 47%;}}
+@media screen and (min-width: 1024px) {.column-width-setting {width: 31%;}}
+@media screen and (min-width: 1216px) {.column-width-setting {width: 31%;}}
+@media screen and (min-width: 1408px) {.column-width-setting {width: 24%;}}
+
+// concise version of bulma-ribbon
+// https://github.com/Wikiki/bulma-ribbon/
+.date-ribbon {
+  background-color: $primary;
+  color: white;
+  border: transparent;
+  border-right: none;
+  font-size: $size-medium;
+  text-align: center;
+  white-space: nowrap;
+  font-weight: 400;
+  z-index: 2;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  margin: 0;
+  a {
+    color: white;
+  }
+}
+
+// adapted bulma tags
+.modified-tags {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 1rem;
+  }
+
+.modified-tag {
+  border-radius: 290486px;
+  background-color: $light;
+  align-items: center;
+  display: inline-flex;
+  height: 2em;
+  line-height: 1.5;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  white-space: nowrap;
+  margin-bottom: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+// list page card formatting
+// largely adapted from the bulma card component
+
+.list-page-card {
+  position: relative;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  background-color: white;
+  box-shadow: 0 0.75em 1em -0.125em rgba(10, 10, 10, 0.3);
+  max-width: 100%;
+  border-radius: 10px;
+  border-style: none;
+
+  .list-page-card-title {
+    font-family: $family-sans-serif;
+    font-size: 1.5rem;
+    background-color: transparent;
+    padding: 1rem 1rem 1rem 1.5rem; // top right bottom left
+    margin-left: 0.5rem;
+  }
+
+  .date-ribbon {
+    position: absolute;
+    top: 0.5em;
+    right: 0;
+  }
+
+  .modified-tags {
+    flex-direction: column;
+    align-items: end;
+    align-content: end;
+    justify-content: center;
+    padding: 0 1rem 0 0; // top right bottom left
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 0.5rem;
+  }
+}
+
+.list-page-card-image {
+  display: block;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  overflow: hidden;
+  img {
+    height: auto;
+    width: 100%;
+  }
+}
+
+//// SINGLE PAGE CSS
+
+.single-page-header {
+  position: relative;
+  width: 100%;
+  display:flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-top: 2rem;
+  padding-left: 2rem;
+  .single-page-title {
+    font-family: $family-sans-serif;
+    font-weight: normal;
+    color: $primary;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+  } 
+  .header-left {
+  }
+  .header-right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+  }
+  .date-ribbon {
+    position: relative;
+    height: fit-content;
+    margin-top: 0;
+  }
+  .modified-tags {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    .modified-tag {
+      margin: 0 0.5rem 0.5rem 0;
+    }
+  }
+}

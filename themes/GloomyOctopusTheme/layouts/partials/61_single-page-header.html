@@ -1,0 +1,17 @@
+<!-- blog header, date and tags -->
+<div class="single-page-header">
+  <div class="header-left">
+    <div class="title single-page-title">
+      {{ .Title }}
+    </div>
+    <div class="modified-tags">
+      {{ range (.GetTerms "tags") }}
+        <span class="modified-tag "><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></span>
+      {{ end }}
+    </div>  
+  </div>
+  <div class="header-right">
+    <div class="date-ribbon">{{ .Date.Format "2 January 2006" }}</div>
+  </div>
+</div>
+<!--  end -->

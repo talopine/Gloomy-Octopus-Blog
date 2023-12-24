@@ -1,0 +1,24 @@
+# Generated files by hugo
+/public/
+/resources/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Temporary lock file while building
+/.hugo_build.lock
+
+# Files
+.DS_Store
+.ruby-version
+npm-debug.log
+.editorconfig
+
+# Folders
+.idea/
+.jekyll-cache/
+.sass-cache
+_gh_pages
+_site
+node_modules
+/node_modules/
+/bin/

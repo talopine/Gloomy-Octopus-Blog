@@ -1,0 +1,38 @@
+// Set your brand colors
+$m_dark-olive-green: #4d611b;
+$m_kombu-green: #283618;
+$m_cornsilk: #fefae0;
+$m_earth-yellow: #dda15e;
+$m_liver-dogs: #bc6c25;
+$m_highlight-orange: #c44900;
+$m_light-grey: #c3b0ad;
+$m_dark-grey: #53534f;
+$m_off-black: rgb(34, 34, 34);
+
+// Update Bulma's global variables
+$family-sans-serif: "Oswald Regular", sans-serif;
+$family-serif: "EB Garamond Regular", serif;
+$code-family: "Comic Sans Mono", monospace;
+$family-primary: $family-serif;
+$light: $m_cornsilk;
+$grey-dark: $m_off-black;
+$grey-light: $m_light-grey;
+$primary: $m_dark-olive-green;
+$link: $m_highlight-orange;
+
+// Update some of Bulma's component variables
+$body-background-color: $m_cornsilk;
+$control-border-width: 2px;
+$input-border-color: transparent;
+$input-shadow: none;
+$container-max-width: 1344px;
+
+// this is because <pre> tags don't wrap and break the responsive format
+// also I don't use <pre> tags anyway so I don't care.
+pre {
+  white-space: pre-wrap!important;
+};
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: $family-sans-serif;
+}

@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<div class="list-page-card">
+  <!-- blog header, date and tags -->
+  {{ partial "61_single-page-header" . }}
+  <div class="card-content" style="padding-left: 2rem;">
+    <div class="content is-family-serif">
+      {{ .Content }}    <!-- page content -->
+    </div>
+    <!-- table of contents -->
+    {{ if ne (plainify .TableOfContents) "" }}
+      {{ .Scratch.Set "contentOfTableOfContents" .TableOfContents }}
+      {{ partial "63_table-of-contents.html" . }}
+    {{ end }}
+  </div>
+  {{ partial "65_post-footer.html" . }}
+</div>
+
+{{ end }}

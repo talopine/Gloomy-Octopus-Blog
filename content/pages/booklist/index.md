@@ -1,7 +1,6 @@
 ---
 title: "Book list"
-date: "2023-04-23"
-lastmod: "2023-06-06"
+date: "2024-01-08"
 slug: "booklist"
 layout: "booklist"
 tags:

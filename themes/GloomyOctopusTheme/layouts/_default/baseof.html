@@ -15,11 +15,6 @@
   <!-- LAYOUT CONTAINER: MAIN CONTENT BOX -->
   <div class="container py-4 is-size-5 is-fluid">
 
-    <!-- welcome header box can be set in params -->
-    {{ if eq .Params.welcomeBox true }}
-      {{ partial "14_welcome-box" }}
-    {{ end }}
-
     {{ block "main" . }}{{ end }}
   
   </div>

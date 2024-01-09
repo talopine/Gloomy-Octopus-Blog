@@ -1,8 +1,22 @@
 <div class="homepage-column-width-setting home-page-card">
-  <a href="{{ .Permalink }}"><div class="homepage-page-card-title">{{ .Title }}</div></a>
-  {{ $default_file := resources.GetMatch "image.jpg" }} <!-- returns the first file matching the headerImage string: local > global > default -->
-  {{ $global_file := resources.GetMatch .Params.homepageimg | default $default_file }}
-  {{ $local_file := .Resources.GetMatch .Params.homepageimg | default $global_file }}
-  {{ $image := $local_file }}
-  <a href="{{ .Permalink }}"><img src="{{ $image.Permalink }}"></a>
+  <a href="{{ .RelPermalink }}">
+    <div class="homepage-page-card-title">
+      {{ .Title }}
+    </div>
+  </a>
+
+  {{ $tagName := "default" }}
+  {{ if (isset .Params "headerimage") }}
+    {{ $tagName = .Params.headerImage }}
+  {{ else if (isset .Site.Params.tagImages (lower .Title))}}
+    {{ $tagName = lower .Title }}  
+  {{ end }}
+
+  {{ $image := resources.Get (index .Site.Params.tagImages $tagName) }}
+  {{ with $image }}
+    {{ $image = $image.Fit "200x200" }}
+    <div>
+      <img src="{{ $image.RelPermalink }}">
+    </div>
+  {{ end }}
 </div> 

@@ -1,5 +1,9 @@
 {{ define "main" }}
 
+{{ if .Params.welcomeBox }}
+  {{ partial "34_list-page-title" . }}
+{{ end }}
+
 <div class="list-page-card">
   
   <!-- blog header, date and tags -->

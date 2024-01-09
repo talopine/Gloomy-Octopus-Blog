@@ -93,3 +93,16 @@ params:
       url: http://www.github.com/talopine
       icon: "/ionicons/logo-github.svg"
       weight: 20
+  tagImages:
+    default: "img/transistor_sewing-code.png"
+    about: "img/transistor_tea.png"
+    writing: "img/transistor_typing.png"
+    crafts-evening: "img/transistor_brain-merge.png"
+    books: "img/transistor_books.png"
+    cosplay: "img/transistor_furry-suit.png"
+    crafts: "img/transistor_pigeon-mail.png"
+    fashion: "img/transistor_fairy-godmother.png"
+    home-diy: "img/transistor_tentacle-wardrobe.png" 
+    knitting: "img/transistor_socks.png"
+    quilting: "img/transistor_witch.png"
+    sewing: "img/transistor_sewing-code.png"

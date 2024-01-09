@@ -62,6 +62,7 @@
   max-width: 100%;
   border-radius: 10px;
   border-style: none;
+  align-self:normal;
 
   .list-page-card-title {
     font-family: $family-sans-serif;
@@ -146,7 +147,7 @@
   position: relative;
   margin-top: 1rem;
   margin-bottom: 1rem;
-  padding: 0 2rem 0 2rem;
+  padding: 1rem 2rem 0 2rem;
   background-color: white;
   box-shadow: 0 0.75em 1em -0.125em rgba(10, 10, 10, 0.3);
   max-width: 100%;
@@ -162,10 +163,6 @@
     font-family: $family-sans-serif;
     font-size: 2rem;
     background-color: transparent;   
-  }
-
-  .a {
-    margin-top: 1rem;
   }
 }
 

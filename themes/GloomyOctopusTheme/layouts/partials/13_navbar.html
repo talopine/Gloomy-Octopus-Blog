@@ -1,4 +1,3 @@
-<!-- declare subtitle variables -->
 {{ .Scratch.Set "subtitle" "" }}
   {{ if .IsHome }}
     {{ .Scratch.Set "subtitle" "" }}
@@ -15,12 +14,14 @@
 <!-- START NAVBAR FOR MOBILE -->
 <nav class="navbar is-transparent is-fixed-top is-light" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
+    
     <div class="navbar-item">
       <a href="{{ .Site.BaseURL }}">
-        <img src="/img/logo_h40.png" width="435" height="40" style="max-height: 100%;" alt="{{ .Site.Title }}">
+        <img src="/icons/favicon.png" alt="{{ .Site.Title }}">
       </a>
       <span class="subtitle pl-2 has-text-grey-light is-size-3 has-text-weight-normal is-family-secondary">{{ (.Scratch.Get "subtitle") | lower }}</span>
     </div>
+  
 
     <a role="button" class="navbar-burger is-align-items-center" aria-label="menu" aria-expanded="false" data-target="MainNavigationMenu">
       <span aria-hidden="true"></span>

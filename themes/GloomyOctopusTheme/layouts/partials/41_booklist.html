@@ -1,13 +1,3 @@
-{{ define "main" }}
-
-<div class="list-page-card">
-  <!-- blog header, date and tags -->
-  {{ partial "61_single-page-header" . }}
-  <div class="card-content" style="padding-left: 2rem;">
-    <div class="content is-family-serif">
-      {{ .Content }}    <!-- page content -->
-    </div>
-
 <!-- book list section -->
 <table class="booklist">
   <thead>
@@ -16,7 +6,7 @@
     <th scope="col">Author</th>
     <th scope="col">Date read</th>
   </thead>
-
+  
   <!-- declare variables -->
   {{ $tableOfContents := slice "" }}
   {{ $EachYear := "0" }}  <!-- declare variable to create year header rows -->
@@ -27,7 +17,7 @@
     {{ $opts := dict "delimiter" "," }}
     {{ $booklistcsv = . | transform.Unmarshal $opts }}
   {{ end }}
-
+  
   <tbody>
   {{ range $i, $r := $booklistcsv }}
     {{ $Number := index $r 0 }}
@@ -62,20 +52,14 @@
 </table>
 <!-- end book list section -->
 
-    <!-- table of contents -- manually creates the nav section -->
-    {{ $firsthalf := slice "<nav id='TableOfContents'><ul>" }}
-    {{ range $tableOfContents }}
-      {{ $li_content := printf "<li class='is-size-6'><a href='#BookYear%s'>%s</a></li>" . . }} 
-      {{ $firsthalf = $firsthalf | append $li_content }}
-    {{ end }}
-    {{ $firsthalf = $firsthalf | append "</ul></nav>" }}
-    {{ $booklistTOC := delimit $firsthalf "" | safeHTML }}
-   
-    {{ .Scratch.Set "contentOfTableOfContents" $booklistTOC }}
-    {{ partial "63_table-of-contents.html" . }}
-    
-    </div>
-  {{ partial "65_post-footer.html" . }}
-</div>
-
+<!-- manually creates table of contents nav section -->
+{{ $firsthalf := slice "<nav id='TableOfContents'><ul>" }}
+{{ range $tableOfContents }}
+  {{ $li_content := printf "<li class='is-size-6'><a href='#BookYear%s'>%s</a></li>" . . }} 
+  {{ $firsthalf = $firsthalf | append $li_content }}
 {{ end }}
+{{ $firsthalf = $firsthalf | append "</ul></nav>" }}
+{{ $booklistTOC := delimit $firsthalf "" | safeHTML }}
+
+<!-- TOC passed through to TOC partial -->
+{{ .Scratch.Set "contentOfTableOfContents" $booklistTOC }}

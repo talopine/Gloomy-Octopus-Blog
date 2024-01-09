@@ -1,19 +1,37 @@
 {{ define "main" }}
 
 <div class="list-page-card">
+  
   <!-- blog header, date and tags -->
-  {{ partial "61_single-page-header" . }}
+  {{ if ne .Params.showHeaderDate false }}
+    {{ partial "31_title-and-date-header" . }}
+  {{ end }}
+  
   <div class="card-content" style="padding-left: 2rem;">
+  
+    <!-- default page content section -->
     <div class="content is-family-serif">
-      {{ .Content }}    <!-- page content -->
+      {{ .Content }}
     </div>
-    <!-- table of contents -->
-    {{ if ne (plainify .TableOfContents) "" }}
-      {{ .Scratch.Set "contentOfTableOfContents" .TableOfContents }}
-      {{ partial "63_table-of-contents.html" . }}
+    <!-- end default page content section -->
+
+    <!-- custom content sections -->
+    {{ if eq .Params.layout "booklist" }}
+      {{ partial "41_booklist" . }}
+    {{ else if eq .Params.layout "gala" }}
+      {{ partial "42_gala" . }}
     {{ end }}
+    <!-- end custom content section -->
+
+    {{ partial "33_table-of-contents" . }}
+
   </div>
-  {{ partial "65_post-footer.html" . }}
+  
+  <!-- "page" type doesn't get a prev/next footer -->
+  {{ if ne .Type "pages" }}
+    {{ partial "32_prev-next-footer" . }}
+  {{ end}}
+
 </div>
 
 {{ end }}

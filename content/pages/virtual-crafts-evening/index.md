@@ -9,6 +9,7 @@ lastmod: 2023-05-02T14:21:21+10:00
 slug: "virtual-crafts-evening"
 created: 2023-05-02T14:21:21+10:00
 headerImage: "img/transistor-programming_crop.png"
+homepageimg: "sewing_crop.png"
 ---
 
 ## tl;dr

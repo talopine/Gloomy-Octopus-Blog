@@ -1,3 +1,14 @@
+<!--  
+If TOC variable is not blank, create table of contents
+
+Note that "booklist" has a blank TOC variable but has 
+created its own contentOfTableOfContents scratch variable
+-->
+
+{{ if ne (plainify .TableOfContents) "" }}
+  {{ .Scratch.Set "contentOfTableOfContents" .TableOfContents }}
+{{ end }}
+
 <!-- table of contents -->
 {{ $toc := .Scratch.Get "contentOfTableOfContents" }}
 

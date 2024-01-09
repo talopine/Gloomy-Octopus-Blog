@@ -4,16 +4,21 @@
   <!-- HEAD AND META -->
   {{ partial "10_head.html" . }}
   <!-- SCRIPTS (TOP) --> 
-  {{ partial "20_scripts-top.html" . }}
+  {{ partial "11_scripts-top.html" . }}
 </head>
 
 <body class="has-navbar-fixed-top">
 
   <!-- HORIZONTAL NAVBAR -->
-  {{ partial "30_navbar.html" . }}
+  {{ partial "13_navbar.html" . }}
 
   <!-- LAYOUT CONTAINER: MAIN CONTENT BOX -->
   <div class="container py-4 is-size-5 is-fluid">
+
+    <!-- welcome header box can be set in params -->
+    {{ if eq .Params.welcomeBox true }}
+      {{ partial "14_welcome-box" }}
+    {{ end }}
 
     {{ block "main" . }}{{ end }}
   
@@ -21,10 +26,10 @@
   <!-- END LAYOUT CONTAINER: MAIN CONTENT BOX -->
 
   <!-- FOOTER -->
-  {{ partial "50_footer.html" . }}
+  {{ partial "15_footer.html" . }}
   
   <!-- SCRIPTS (BOTTOM) -->
-  {{ partial "55_scripts-bottom.html" . }}
+  {{ partial "12_scripts-bottom.html" . }}
 
   </body>
 </html>

@@ -35,13 +35,13 @@
 
     <div class="navbar-end">
       <div class="navbar-item has-dropdown is-hoverable is-align-items-stretch">
-        <a class="navbar-link is-flex is-align-items-center" href="/pages/">
+        <a class="navbar-link is-flex is-align-items-center" href="/">
           <img class="icon" src="/icons/font-awesome/pen-to-square.svg" aria-hidden="true">
           <span class="pl-2">Pages</span>
         </a>
         {{ $page_range := where .Site.RegularPages "Type" "pages" }}
          <div class="navbar-dropdown is-right is-size-6">
-          {{ range $page_range }}
+          {{ range $page_range.ByTitle }}
             <a class="navbar-item" href="{{ .Permalink }}">{{ .Title }}</a>
           {{ end }}
         </div>
@@ -54,14 +54,14 @@
         </a>
         {{ $page_range := where .Site.RegularPages "Type" "galas" }}
          <div class="navbar-dropdown is-right is-size-6">
-          {{ range $page_range }}
+          {{ range $page_range.ByDate.Reverse }}
             <a class="navbar-item" href="{{ .Permalink }}">{{ .Title }}</a>
           {{ end }}
         </div>
       </div>
 
       <div class="navbar-item has-dropdown is-hoverable is-align-items-stretch">
-        <a class="navbar-link is-flex is-align-items-center" href="/posts/">
+        <a class="navbar-link is-flex is-align-items-center" href="/blog/">
           <img class="icon" src="/icons/ionicons/pricetags-outline.svg" aria-hidden="true">
           <span class="pl-2">Tags</span>
         </a>

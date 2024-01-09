@@ -78,33 +78,18 @@ permalinks:
 
 params:
   description: "This is my blog about crafts"
-  mainSections:
-    - posts
+  mainSections: # included on home page
     - pages
+  blogSections: # included in blog List page
     - galas
-# SPECIFIC SIDEBAR MENU PARAMETERS
-  menu_default_icon: "/ionicons/bug-outline.svg"
-  nav_menu_sidebar:
-    - name: "Home"
-      url: "/"
-      icon: "/ionicons/home-outline.svg"
-      weight: 10
-# SPECIFIC HORIZONTAL NAV BAR MENU PARAMETERS
-  nav_menu_navbar:
-    - name: "Virtual Crafts Evening"
-      url: "/virtual-crafts-evening/"
-      weight: 30
-      icon: "/ionicons/bicycle-outline.svg"
-    - name: "Galas"
-      url: "/galas/"
-      weight: 40
+    - posts
   social_media:
     # social media account links
     - name: "Instagram"
       url: https://www.instagram.com/gloomy_octopus
       icon: "/ionicons/logo-instagram.svg"
       weight: 10
-    - name: "Bitbucket"
-      url: https://bitbucket
-      icon: "/ionicons/logo-bitbucket.svg"
+    - name: "GitHub"
+      url: http://www.github.com/talopine
+      icon: "/ionicons/logo-github.svg"
       weight: 20

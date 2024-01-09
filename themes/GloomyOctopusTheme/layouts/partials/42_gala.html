@@ -1,0 +1,36 @@
+<!-- gala gallery -->
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom" itemscope itemtype="http://schema.org/ImageGallery">
+<div class="pswp-gallery pswp-gallery--single-column" id="photoswipe5-gallery">
+{{ $data := .Resources.GetMatch "*.json" | transform.Unmarshal }}
+{{ $gallery := .Resources.ByType "image" }}
+{{ $thumbnailSize := .Params.thumbnailSize | default "300x300 Top" }}
+{{ range $gallery }}
+  {{ $image := . }}
+  {{ $thumbnail := .Fill $thumbnailSize }}
+  {{ $name := path.Base . }}
+  {{ range where $data "FilePath" $name }}
+    {{ $ImageDescription := index . "ImageDescription" }}
+    {{ $LicensorURL := index . "LicensorURL" }}
+    {{ $PhotoCredit := index . "PhotoCredit" }}
+    {{ $Commentary := index . "Commentary" }}
+    <div class="gallery-box" style="max-width: {{ $image.Width }}px;">
+      <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <div class="gallery-img" style="background-image: url('{{ $thumbnail.RelPermalink }}'); background-repeat:no-repeat;" >
+          <a href="{{ $image.RelPermalink }}" data-pswp-width="{{ $image.Width }}" data-pswp-height="{{ $image.Height }}" target="_blank">
+            <img src="{{ $thumbnail.RelPermalink }}" width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" alt="{{ $ImageDescription }}">
+            <div class="pswp-caption-content">
+              <div class="gala__image-description">{{ $ImageDescription }}</div>
+              <div class="gala__commentary">{{ $Commentary | markdownify }}</div>
+              <div class="gala__photo-credit">Photo credit: {{ $PhotoCredit }} <br> {{ $LicensorURL }}</div>
+            </div>
+          </a>
+        </div>
+        <figcaption class="gallery__gallery-caption">
+          <p>{{ $ImageDescription }}</p>
+        </figcaption>
+      </figure>
+    </div>
+  {{ end }}
+{{ end }}
+</div>
+<!-- end gala gallery -->

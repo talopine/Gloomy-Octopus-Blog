@@ -2,8 +2,10 @@
 title: "About me"
 date: "0001-01-01"
 slug: "about"
-layout: "about"
-tags:  
+tags:
+homepageimg: "wardrobe_crop.png"
+welcomeBox: true
+showHeaderDate: false
 ---
 
 ### I run a weekly online crafts evening on Zoom!

@@ -1,20 +1,24 @@
 {{ define "main" }}
 
-{{ if .IsHome }}
-  {{ partial "70_blog-welcome.html" . }}
-{{ end }}
+  {{ partial "34_list-page-title" . }}
 
-<div class="flex is-flex-wrap-wrap is-align-items-start is-justify-content-space-evenly columns pt-2">
+  <!-- set content variables for what to display-->
   {{ $pages := .RegularPages }}
+  {{ $listcardtype := "35_list-card" }}
+
+  {{ if eq .Params.slug "blog" }}
+    {{ $pages = (where site.RegularPages "Type" "in" site.Params.blogSections) }}
+  {{ end }}
   {{ if .IsHome }}
-    {{ $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{ $pages = (where site.RegularPages "Type" "in" site.Params.mainSections).ByTitle }}
+    {{ $listcardtype = "36_list-card-2" }}
   {{ end }}
 
-  {{ range $pages }}
-    <!-- blog card -->
-    {{ partial "71_list-page-card.html" . }}
-  {{ end }}
-</div>
-<div class="block"></div>
+  <!-- range through the relevant content -->
+  <div class="flex is-flex-wrap-wrap is-align-items-start is-justify-content-space-evenly columns pt-2">
+    {{ range $pages }}
+      {{ partial $listcardtype . }}
+    {{ end }}
+  </div>
 
 {{ end }}

@@ -1,5 +1,5 @@
 {
-  "name": "GloomyOctopus_blog",
+  "name": "gloomy-octopus-blog",
   "version": "1.0.0",
   "description": "This is my blog about crafts, using Hugo (extended) and Bulma CSS",
   "main": "index.js",

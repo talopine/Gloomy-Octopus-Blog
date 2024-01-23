@@ -3,8 +3,6 @@ title: "Chair mending project"
 date: "2021-08-15"
 tags:
   - home-diy
-draft: true
-updated: 2023-01-09T15:20:34+11:00
 ---
 
 Here is the tale of my chair mending project.
@@ -39,18 +37,19 @@ Things I already had were:
 
 ## Process
 
-Start date  
-End date
+- Started reupholstering seat on 15/8/2021 using Jos Proust flamingos and upholstery tacks - useful video at [https://youtu.be/oalkMvROapU](https://youtu.be/oalkMvROapU)
+- Started sanding the pieces on 14/8/2021
+- Glued legs in place on 24 August  
+- Took more apart on 25 August  
+- Glued in back on 26 August (broke top and glued that too)
+- Put in arms on 27 August 2021
 
-Started reupholstering seat on 15/8/2021 using jos Proust flamingos and upholstery tacks - useful video at [https://youtu.be/oalkMvROapU](https://youtu.be/oalkMvROapU)
+## Current status
+As at 23 January 2024 (when this post was finally posted) the chair is *kinda* back together again, but it still keeps starting to come loose at the same section of the seat where it was originally coming loose.
 
-Started sanding the pieces on 14/8/2021
+It needs some more work...
 
-Glued legs in place on 24 August  
-Took more apart on 25 August  
-Glued in back on 26 August (broke top and glued that too)
-
-Put in arms on 27 August 2021
+I'm quite pleased with the way the actual upholstering turned out, but the woodworking aspect clearly needs more skills.
 
 [^1]: He was a bit nonplussed, because technically we weren't allowed to work from home at that point, so none of the protocols about taking home office equipment had been worked out yet, but I didn't exactly \*ask\*, just told him what I'd be doing, sincerely promised to bring them back, and sauntered off with my employer's property.
 [^2]: I am deeply sorry for the cheese I left in the fridge in late May, thinking I'd be back to eat it the next day....

@@ -1,16 +1,12 @@
 ---
 title: "Maighdean-ròin Shawl by Wolf & Faun Knits"
-slug: "Maighdean-roin Shawl by Wolf & Faun Knits"
+slug: "Maighdean-roin Shawl by Wolf and Faun Knits"
 date: "2020-11-23"
 tags:
   - crafts
   - knitting
-updated: 2023-01-09T18:30:44+11:00
-resources: 
-  SealMaidenShawl_Oct2020_01.jpg: "caption=aption 32432fdsaf" 
-  SealMaidenShawl_Oct2020_02.jpg: "2fsdsaf af sdaption 32432fdsaf"
-  SealMaidenShawl_Oct2020_03.jpg: "3rd fdafdsa f aption 32432fdsaf"
-  SealMaidenShawl_Oct2020_06.jpg: "6th fdafads aption 32432fdsaf"
+resources:
+  SealMaidenShawl_Oct2020_13.jpg: "I think here she is doing an impression of a Dementor, but also JKR is persona non grata for me these days"
 headerimage: "Oct2020/SealMaidenShawl_Oct2020_03.jpg"
 ---
 

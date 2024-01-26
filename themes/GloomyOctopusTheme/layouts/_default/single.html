@@ -5,14 +5,14 @@
 {{ end }}
 
 <div class="list-page-card">
-  
+
   <!-- blog header, date and tags -->
   {{ if ne .Params.showHeaderDate false }}
     {{ partial "31_title-and-date-header" . }}
   {{ end }}
-  
+
   <div class="card-content" style="padding-left: 2rem;">
-  
+
     <!-- default page content section -->
     <div class="content is-family-serif">
       {{ .Content }}
@@ -30,7 +30,7 @@
     {{ partial "33_table-of-contents" . }}
 
   </div>
-  
+
   <!-- "page" type doesn't get a prev/next footer -->
   {{ if ne .Type "pages" }}
     {{ partial "32_prev-next-footer" . }}

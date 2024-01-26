@@ -1,13 +1,11 @@
 ---
 title: Virtual Crafts Evenings
 date: 2021-02-03
-draft: 
+lastmod: 2024-01-23
 author: Marian
 tags:
-- crafts 
-lastmod: 2023-05-02T14:21:21+10:00
+- crafts
 slug: "virtual-crafts-evening"
-created: 2023-05-02T14:21:21+10:00
 headerImage: "crafts-evening"
 ---
 

@@ -8,10 +8,16 @@
       {{ range (.GetTerms "tags") }}
         <span class="modified-tag "><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></span>
       {{ end }}
-    </div>  
+    </div>
   </div>
   <div class="header-right">
-    <div class="date-ribbon">{{ .Date.Format "2 January 2006" }}</div>
+    <!-- special date setting for booklist based on booklist.csv modification date -->
+    {{ $postDate := .Date }}
+    {{ if eq .Params.layout "booklist" }}
+      {{ $booklistFileLocation := os.Stat "pages/booklist/booklist.csv" }}
+      {{ $postDate = $booklistFileLocation.ModTime }}
+    {{ end }}
+    <div class="date-ribbon">{{ $postDate.Format "2 January 2006" }}</div>
   </div>
 </div>
 <!--  end -->

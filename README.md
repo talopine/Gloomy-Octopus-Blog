@@ -1,13 +1,8 @@
 # BulmaHugo
 
 ## To do
+* citations for icons
 
-* remove/shrink subtitle in navbar when screen is too small
-* markdown parsing in gallery captions
-* when list page is one column, there's insufficient space between blog post cards
-* automatically update the date on the book list page
-* mobile friendly booklist page
-* mobile friendly site banner
 
 pen-to-square
 champagne-glasses

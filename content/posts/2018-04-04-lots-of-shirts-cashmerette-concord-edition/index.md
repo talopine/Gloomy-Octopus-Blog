@@ -4,7 +4,6 @@ date: "2018-04-04"
 tags:
   - crafts
   - sewing
-updated: 2023-01-09T18:30:24+11:00
 headerImage: "Colourful/*.jpg"
 ---
 

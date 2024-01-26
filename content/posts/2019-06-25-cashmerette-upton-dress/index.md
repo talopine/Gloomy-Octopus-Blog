@@ -4,7 +4,6 @@ date: "2019-06-25"
 tags:
   - crafts
   - sewing
-updated: 2023-01-09T15:18:58+11:00
 headerImage: "*.jpg"
 ---
 

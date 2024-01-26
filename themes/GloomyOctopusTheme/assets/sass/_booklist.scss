@@ -1,6 +1,5 @@
 table.booklist {
   table-layout: fixed;
-  width: 100%;
   border-collapse: collapse;
   font-size: 1rem;
 }
@@ -17,25 +16,84 @@ th.row {
   padding: 0.1em 0 !important;
   text-align: center !important;
   background-color: $grey-light;
+  width: 100%;
 }
 
-th:nth-child(1) {width: 6%;}
-th:nth-child(2) {width:55%;}
-th:nth-child(3) {width:35%;}
-th:nth-child(4) {width: 14%;}
+th:nth-child(1) {
+  width: 60px;
+}
 
-th:nth-child(4), td:nth-child(4) {
+
+td:nth-child(4),
+th:nth-child(4) {
   text-align: right !important;
+  width: 100px;
 }
 
-tr:nth-child(2n){
+tr:nth-child(2n) {
   background-color: #eee;
 }
 
-tr:hover{
+tr:hover {
   background: linear-gradient(90deg, rgba(255,0,0,0), rgba($link, 0.4) 5%, rgba($link, 0.6) 25%, rgba(255,0,0,0) 100%);
 }
 
 .booklist h6 {
   scroll-margin-top: 3.5em; // this makes the window go higher than the a href target point
 }
+
+
+/*	css from https://css-tricks.com/responsive-data-tables/	*/
+	@media
+	  only screen
+    and (max-width: 760px), (min-device-width: 768px)
+    and (max-device-width: 1024px)  {
+
+		/* Force table to not be like tables anymore */
+		table, thead, tbody, th, td, tr {
+			display: block;
+		}
+
+		/* Hide table headers (but not display: none;, for accessibility) */
+		thead tr {
+			position: absolute;
+			top: -9999px;
+			left: -9999px;
+		}
+
+		td {
+			/* Behave like a "row" */
+			border: none;
+			position: relative;
+			padding-left: 80px;
+		}
+
+		td:before {
+			/* Now like a table header */
+			position: absolute;
+			/* Top/left values mimic padding */
+			top: 0;
+			left: 6px;
+			padding-right: 10px;
+			white-space: nowrap;
+		}
+
+    th:nth-child(1) {
+      min-width: 100%;
+    }
+
+    td:nth-child(4),
+    th:nth-child(4) {
+      width: 100%;
+      text-align: left !important;
+    }
+
+		/*
+		Label the data
+    You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+		*/
+		td:nth-of-type(1):before { content: "#"; }
+		td:nth-of-type(2):before { content: "Title"; }
+		td:nth-of-type(3):before { content: "Author"; }
+		td:nth-of-type(4):before { content: "Date read"; }
+	}

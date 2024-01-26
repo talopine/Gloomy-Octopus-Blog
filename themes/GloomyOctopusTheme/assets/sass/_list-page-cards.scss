@@ -1,11 +1,11 @@
 // sets the width of the cards in the main index layout so they aren't too wide but scale with the window
 // it's less than 50%, 33% etc because of padding or something
 
-.column-width-setting {width: 100%;}
-@media screen and (min-width: 769px) {.column-width-setting {width: 47%;}}
-@media screen and (min-width: 1024px) {.column-width-setting {width: 31%;}}
-@media screen and (min-width: 1216px) {.column-width-setting {width: 31%;}}
-@media screen and (min-width: 1408px) {.column-width-setting {width: 24%;}}
+.column-width-setting {width: 100%;margin-bottom: 2rem;}
+@media screen and (min-width: 769px) {.column-width-setting {width: 47%;margin-bottom: 1rem;}}
+@media screen and (min-width: 1024px) {.column-width-setting {width: 31%;margin-bottom: 1rem;}}
+@media screen and (min-width: 1216px) {.column-width-setting {width: 31%;margin-bottom: 1rem;}}
+@media screen and (min-width: 1408px) {.column-width-setting {width: 24%;margin-bottom: 1rem;}}
 
 // concise version of bulma-ribbon
 // https://github.com/Wikiki/bulma-ribbon/
@@ -56,13 +56,12 @@
 .list-page-card {
   position: relative;
   margin-top: 0.5rem;
-  margin-bottom: 1rem;
   background-color: white;
   box-shadow: 0 0.75em 1em -0.125em rgba(10, 10, 10, 0.3);
   max-width: 100%;
   border-radius: 10px;
   border-style: none;
-  align-self:normal;
+  align-self: normal;
 
   .list-page-card-title {
     font-family: $family-sans-serif;
@@ -117,7 +116,7 @@
     color: $primary;
     line-height: 1.5;
     margin-bottom: 1rem;
-  } 
+  }
   .header-left {
   }
   .header-right {
@@ -147,7 +146,7 @@
   position: relative;
   margin-top: 1rem;
   margin-bottom: 1rem;
-  padding: 1rem 2rem 0 2rem;
+  padding: 1rem 2rem 1rem 2rem;
   background-color: white;
   box-shadow: 0 0.75em 1em -0.125em rgba(10, 10, 10, 0.3);
   max-width: 100%;
@@ -162,12 +161,12 @@
   .homepage-page-card-title {
     font-family: $family-sans-serif;
     font-size: 2rem;
-    background-color: transparent;   
+    background-color: transparent;
   }
 }
 
 // sets the width of the cards in the main index layout so they aren't too wide but scale with the window
 // it's less than 50%, 33% etc because of padding or something
 
-.homepage-column-width-setting {width: 100%;}
-@media screen and (min-width: 769px) {.homepage-column-width-setting {width: 47%;}}
+.homepage-column-width-setting {width: 100%;margin-bottom: 2rem;}
+@media screen and (min-width: 769px) {.homepage-column-width-setting {width: 47%;margin-bottom: 1rem;}}

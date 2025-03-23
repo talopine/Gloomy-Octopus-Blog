@@ -77,3 +77,5 @@ The following people must eat prior to joining crafts evening or bring food to e
 * Lucija
 
 _(Other people may be added to this list at the discretion of management.)_
+
+### 9. No generative AI please

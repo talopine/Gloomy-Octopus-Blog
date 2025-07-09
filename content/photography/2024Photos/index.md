@@ -1,6 +1,6 @@
 ---
-title: "Photography 2006"
-date: "2006-12-31"
+title: "Photography 2024"
+date: "2024-12-31"
 tags: 
   - photography
 layout: gala

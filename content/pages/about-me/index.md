@@ -3,7 +3,6 @@ title: "About me"
 date: "0001-01-01"
 slug: "about"
 tags:
-welcomeBox: true
 showHeaderDate: false
 headerImage: about
 ---

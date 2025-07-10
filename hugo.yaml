@@ -68,22 +68,19 @@ taxonomies:
   tag: "tags"
   page: "pages"
   post: "posts"
-  gala: "galas"
+
 permalinks:
   # style of permalinks for content https://gohugo.io/content-management/urls/#permalinks
   posts: "/p/:year/:slug"
   pages: "/:slug"
   tags: "/:title" # this is to omit the taxonomy segment of the URL in "tags"
-  galas: "/:title"
 
 params:
   description: "This is my blog about crafts"
   mainSections: # included on home page
     - pages
   blogSections: # included in blog List page
-    - galas
     - posts
-    - photography
   social_media:
     # social media account links
     - name: "Instagram"
@@ -100,7 +97,7 @@ params:
     books:          "img/transistor_books.png"
     cosplay:        "img/transistor_furry-suit.png"
     crafts:         "img/transistor_pigeon-mail.png"
-    crafts-evening: "img/transistor_brain-merge.png"
+    crafts-evening: "img/transistor_sewing-code.png"
     fashion:        "img/transistor_fairy-godmother.png"
     home-diy:       "img/transistor_tentacle-wardrobe.png" 
     knitting:       "img/transistor_socks.png"

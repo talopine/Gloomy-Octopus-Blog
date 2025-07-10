@@ -1,10 +1,8 @@
 {{ .Scratch.Set "subtitle" "" }}
   {{ if .IsHome }}
-    {{ .Scratch.Set "subtitle" "" }}
+    {{ .Scratch.Set "subtitle" (printf " | %s" .Site.Title) }}
   {{ else if eq .Type "tags" }}
     {{ .Scratch.Set "subtitle" (printf " | %s" .Title) }}
-  {{ else if eq .Type "galas" }}
-    {{ .Scratch.Set "subtitle" (printf " | %s" .Type) }}
   {{ else if eq .Type "pages" }}
     {{ .Scratch.Set "subtitle" (printf " | %s" .Title) }}
   {{ else if eq .Type "posts" }}
@@ -43,19 +41,6 @@
         {{ $page_range := where .Site.RegularPages "Type" "pages" }}
          <div class="navbar-dropdown is-right is-size-6">
           {{ range $page_range.ByTitle }}
-            <a class="navbar-item" href="{{ .Permalink }}">{{ .Title }}</a>
-          {{ end }}
-        </div>
-      </div>
-
-      <div class="navbar-item has-dropdown is-hoverable is-align-items-stretch">
-        <a class="navbar-link is-flex is-align-items-center" href="/galas/">
-          <img class="icon" src="/icons/font-awesome/trophy.svg" aria-hidden="true">
-          <span class="pl-2">Galas</span>
-        </a>
-        {{ $page_range := where .Site.RegularPages "Type" "galas" }}
-         <div class="navbar-dropdown is-right is-size-6">
-          {{ range $page_range.ByDate.Reverse }}
             <a class="navbar-item" href="{{ .Permalink }}">{{ .Title }}</a>
           {{ end }}
         </div>

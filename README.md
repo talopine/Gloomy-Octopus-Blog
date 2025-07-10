@@ -21,3 +21,8 @@ vest-patches
 
 
 Illustration by <a href="https://icons8.com/illustrations/author/VKgWUPlqQ7Ea">AlexManokhi</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+
+
+* need to make "Photo Credit" conditional on the field existing in json
+
+

@@ -3,6 +3,7 @@ title: "Met Gala 2023"
 date: "2023-05-06"
 tags: 
   - fashion
+  - gala
 layout: gala
 headerImage: "img/*.jpg"
 ---

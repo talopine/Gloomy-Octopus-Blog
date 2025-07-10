@@ -1,9 +1,435 @@
 [
   {
-    "FilePath": "",
-    "ImageDescription": "",
-    "LicensorURL": "",
-    "PhotoCredit": "",
-    "Commentary": ""
-  }
- ]
+    "FilePath" : "001_gettyimages-1340151347.jpg",
+    "ImageDescription" : "Paloma Elsesser",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340151347",
+    "PhotoCredit" : "Dimitrios Kambouris",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "002_gettyimages-1340146962.jpg",
+    "ImageDescription" : "Tessa Thompson",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340146962",
+    "PhotoCredit" : "Theo Wargo",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "003_gettyimages-1340127067.jpg",
+    "ImageDescription" : "Ella Emhoff",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340127067",
+    "PhotoCredit" : "John Shearer",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "004_gettyimages-1340127021.jpg",
+    "ImageDescription" : "Ella Emhoff",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340127021",
+    "PhotoCredit" : "Theo Wargo",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "005_gettyimages-1340137121.jpg",
+    "ImageDescription" : "Megan Rapinoe",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340137121",
+    "PhotoCredit" : "Dimitrios Kambouris",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "006_gettyimages-1340137216.jpg",
+    "ImageDescription" : "Debbie Harry",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340137216",
+    "PhotoCredit" : "Theo Wargo",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "007_gettyimages-1340135501.jpg",
+    "ImageDescription" : "Addison Rae",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340135501",
+    "PhotoCredit" : "Theo Wargo",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "008_gettyimages-1340131585.jpg",
+    "ImageDescription" : "Valentina Sampaio",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340131585",
+    "PhotoCredit" : "Dimitrios Kambouris",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "009_gettyimages-1340131679.jpg",
+    "ImageDescription" : "Storm Reid",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340131679",
+    "PhotoCredit" : "John Shearer",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "010_gettyimages-1340132622.jpg",
+    "ImageDescription" : "Storm Reid",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340132622",
+    "PhotoCredit" : "Jeff Kravitz",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "011_gettyimages-1340120707.jpg",
+    "ImageDescription" : "Rachel Smith",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340120707",
+    "PhotoCredit" : "Theo Wargo",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "012_gettyimages-1340128995.jpg",
+    "ImageDescription" : "Yara Shahidi",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340128995",
+    "PhotoCredit" : "Dimitrios Kambouris",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "013_gettyimages-1340140166.jpg",
+    "ImageDescription" : "Mindy Kaling",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340140166",
+    "PhotoCredit" : "Mike Coppola",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "014_gettyimages-1340125812.jpg",
+    "ImageDescription" : "Amanda Gorman",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340125812",
+    "PhotoCredit" : "John Shearer",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "015_gettyimages-1340123293.jpg",
+    "ImageDescription" : "Adam Mosseri and Monica Mosseri",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340123293",
+    "PhotoCredit" : "John Shearer",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "016_gettyimages-1340135155.jpg",
+    "ImageDescription" : "Nikkie de Jager",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340135155",
+    "PhotoCredit" : "Theo Wargo",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "017_gettyimages-1340129097.jpg",
+    "ImageDescription" : "Naomi Osaka",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340129097",
+    "PhotoCredit" : "Theo Wargo",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "018_gettyimages-1340129116.jpg",
+    "ImageDescription" : "Naomi Osaka",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340129116",
+    "PhotoCredit" : "Mike Coppola",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "019_gettyimages-1340147019.jpg",
+    "ImageDescription" : "Lupita Nyong'o",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340147019",
+    "PhotoCredit" : "Mike Coppola",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "020_gettyimages-1340143333.jpg",
+    "ImageDescription" : "Lupita Nyong'o",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340143333",
+    "PhotoCredit" : "John Shearer",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "021_gettyimages-1340147033.jpg",
+    "ImageDescription" : "Regina King",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340147033",
+    "PhotoCredit" : "Mike Coppola",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "022_gettyimages-1340134308.jpg",
+    "ImageDescription" : "Madison Beer",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340134308",
+    "PhotoCredit" : "John Shearer",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "023_gettyimages-1340265010.jpg",
+    "ImageDescription" : "Whitney Peak",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340265010",
+    "PhotoCredit" : "Taylor Hill",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "024_gettyimages-1340265017.jpg",
+    "ImageDescription" : "Whitney Peak",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340265017",
+    "PhotoCredit" : "Taylor Hill",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "025_gettyimages-1340144128.jpg",
+    "ImageDescription" : "Sharon Stone",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340144128",
+    "PhotoCredit" : "Theo Wargo",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "026_gettyimages-1340144125.jpg",
+    "ImageDescription" : "Sharon Stone",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340144125",
+    "PhotoCredit" : "Theo Wargo",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "027_gettyimages-1340263700.jpg",
+    "ImageDescription" : "Kiki Layne",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340263700",
+    "PhotoCredit" : "Taylor Hill",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "028_gettyimages-1340263727.jpg",
+    "ImageDescription" : "Kiki Layne",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340263727",
+    "PhotoCredit" : "Taylor Hill",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "029_gettyimages-1340133027.jpg",
+    "ImageDescription" : "Anok Yai",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340133027",
+    "PhotoCredit" : "Dimitrios Kambouris",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "030_gettyimages-1340138212.jpg",
+    "ImageDescription" : "Sophia Roe",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340138212",
+    "PhotoCredit" : "John Shearer",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "031_gettyimages-1340128172.jpg",
+    "ImageDescription" : "Sophia Roe",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340128172",
+    "PhotoCredit" : "Mike Coppola",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "032_gettyimages-1340138720.jpg",
+    "ImageDescription" : "Chloe Fineman",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340138720",
+    "PhotoCredit" : "John Shearer",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "033_gettyimages-1340129247.jpg",
+    "ImageDescription" : "Adrienne Warren",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340129247",
+    "PhotoCredit" : "John Shearer",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "034_gettyimages-1340140026.jpg",
+    "ImageDescription" : "Alexandria Ocasio-Cortez (L) and Aurora James",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340140026",
+    "PhotoCredit" : "Mike Coppola",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "035_gettyimages-1340140366.jpg",
+    "ImageDescription" : "Emily Blunt",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340140366",
+    "PhotoCredit" : "Theo Wargo",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "036_gettyimages-1340127870.jpg",
+    "ImageDescription" : "Barbie Ferreira",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340127870",
+    "PhotoCredit" : "Mike Coppola",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "037_gettyimages-1340127848.jpg",
+    "ImageDescription" : "Barbie Ferreira",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340127848",
+    "PhotoCredit" : "Theo Wargo",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "038_gettyimages-1340142484.jpg",
+    "ImageDescription" : "Kacey Musgraves",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340142484",
+    "PhotoCredit" : "Mike Coppola",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "039_gettyimages-1340121950.jpg",
+    "ImageDescription" : "Anna Wintour",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340121950",
+    "PhotoCredit" : "Theo Wargo",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "040_gettyimages-1340131534.jpg",
+    "ImageDescription" : "Jordan Roth",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340131534",
+    "PhotoCredit" : "Mike Coppola",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "041_gettyimages-1340123792.jpg",
+    "ImageDescription" : "The Honorable Carolyn B. Maloney",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340123792",
+    "PhotoCredit" : "Dimitrios Kambouris",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "042_gettyimages-1340263582.jpg",
+    "ImageDescription" : "The Honorable Carolyn B. Maloney",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340263582",
+    "PhotoCredit" : "Taylor Hill",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "043_gettyimages-1340123794.jpg",
+    "ImageDescription" : "The Honorable Carolyn B. Maloney",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340123794",
+    "PhotoCredit" : "Dimitrios Kambouris",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "044_gettyimages-1340124989.jpg",
+    "ImageDescription" : "Eva Chen",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340124989",
+    "PhotoCredit" : "Dimitrios Kambouris",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "045_gettyimages-1340124953.jpg",
+    "ImageDescription" : "Eva Chen",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340124953",
+    "PhotoCredit" : "Mike Coppola",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "046_gettyimages-1340263552.jpg",
+    "ImageDescription" : "Eva Chen",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340263552",
+    "PhotoCredit" : "Taylor Hill",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "047_gettyimages-1340136650.jpg",
+    "ImageDescription" : "Taraji P. Henson",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340136650",
+    "PhotoCredit" : "Mike Coppola",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "048_gettyimages-1340263421.jpg",
+    "ImageDescription" : "Sandy Schreier",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340263421",
+    "PhotoCredit" : "Taylor Hill",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "049_gettyimages-1340134066.jpg",
+    "ImageDescription" : "Kim Petras",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340134066",
+    "PhotoCredit" : "Dimitrios Kambouris",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "050_gettyimages-1340140229.jpg",
+    "ImageDescription" : "Kim Petras",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340140229",
+    "PhotoCredit" : "Kevin Mazur",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "051_gettyimages-1340134129.jpg",
+    "ImageDescription" : "Hillary Taymour and Kim Petras",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340134129",
+    "PhotoCredit" : "Dimitrios Kambouris",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "052_gettyimages-1340140394.jpg",
+    "ImageDescription" : "Maria Sharapova and Alexander Gilkes",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340140394",
+    "PhotoCredit" : "Mike Coppola",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "053_gettyimages-1340141789.jpg",
+    "ImageDescription" : "Gabrielle Union",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340141789",
+    "PhotoCredit" : "Theo Wargo",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "054_gettyimages-1340142878.jpg",
+    "ImageDescription" : "Will Welch",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340142878",
+    "PhotoCredit" : "Dimitrios Kambouris",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "055_gettyimages-1340145875.jpg",
+    "ImageDescription" : "Simone Biles",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340145875",
+    "PhotoCredit" : "Dimitrios Kambouris",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "056_gettyimages-1340145920.jpg",
+    "ImageDescription" : "Winnie Harlow",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340145920",
+    "PhotoCredit" : "Mike Coppola",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "057_gettyimages-1340128847.jpg",
+    "ImageDescription" : "Billie Eilish",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340128847",
+    "PhotoCredit" : "Dimitrios Kambouris",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "058_gettyimages-1340146013.jpg",
+    "ImageDescription" : "Hailee Steinfeld",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340146013",
+    "PhotoCredit" : "Dimitrios Kambouris",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "059_gettyimages-1340146848.jpg",
+    "ImageDescription" : "Kristen Stewart",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340146848",
+    "PhotoCredit" : "Mike Coppola",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "060_gettyimages-1340146913.jpg",
+    "ImageDescription" : "Kristen Stewart",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340146913",
+    "PhotoCredit" : "Mike Coppola",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "061_gettyimages-1340263822.jpg",
+    "ImageDescription" : "Lisa Love",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340263822",
+    "PhotoCredit" : "Taylor Hill",
+    "Commentary" : ""
+  },
+  {
+    "FilePath" : "062_gettyimages-1340132678.jpg",
+    "ImageDescription" : "Iman",
+    "LicensorURL" : "https://www.gettyimages.com/detail/1340132678",
+    "PhotoCredit" : "John Shearer",
+    "Commentary" : ""}
+  ]

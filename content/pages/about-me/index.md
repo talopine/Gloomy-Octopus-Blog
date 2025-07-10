@@ -17,6 +17,7 @@ You can find details [here](/virtual-crafts-evening/)
 * [taking things apart and trying to put them back together](/home-diy/)
 * [red carpet galas with Fashion!](/galas/)
 * [books and reading, especially SFF](/books/)
+* [taking photos of stuff](/photography/)
 
 ### My current sewing machines are
 

@@ -6,7 +6,7 @@ timeout: 80000
 title: 'Gloomy Octopus'
 baseURL: "https://gloomyoctopus.xyz/" 
   # The absolute URL (protocol, host, path, and trailing slash) of your published site (e.g., https://www.example.org/docs/).
-copyright: "&copy; Marian 2018 -- {Year}"
+copyright: "&copy; Marian 2018–{Year}"
 languageCode: 'en'
 
 # STYLES FOR IMAGES AND CODE FORMATTING

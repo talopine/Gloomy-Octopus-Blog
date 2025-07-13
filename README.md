@@ -1,8 +1,8 @@
 # BulmaHugo
 
 ## To do
-* citations for icons
 
+* citations for icons
 
 pen-to-square
 champagne-glasses
@@ -17,11 +17,8 @@ vest-patches
 * <a href="https://www.flaticon.com/free-icons/elegant" title="elegant icons">Elegant icons created by Freepik - Flaticon</a>
 ```
 
-
-
-
 Illustration by <a href="https://icons8.com/illustrations/author/VKgWUPlqQ7Ea">AlexManokhi</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
 
+## Current to do
 
-
-exiftool -"File Name" -Abstract -By-line -csv *.jpg > out.csv   
+Vertical photos in 2007 album don't work properly??

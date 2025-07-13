@@ -3,7 +3,7 @@ title: "Photography 2006"
 date: "2006-12-31"
 tags: 
   - photography
-layout: gala
+layout: album
 headerImage: "img/*.jpg"
 ---
 

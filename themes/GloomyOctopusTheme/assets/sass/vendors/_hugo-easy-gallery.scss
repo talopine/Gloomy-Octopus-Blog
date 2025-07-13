@@ -116,12 +116,12 @@ From photoswipe5 caption plugin.
 .pswp__item { font-size: 150%; }
 .pswp__dynamic-caption--aside { max-width: 500px; }
 .gallery__gallery-caption {font-style: normal !important;}
-.gala__image-description {color: $link;}
-.gala__commentary {
+.album__image-description {color: $link;}
+.album__commentary {
   padding-top: 10px;
   color: $body-background-color;
 }
-.gala__photo-credit {
+.album__photo-credit {
   font-size: 75%;
   color: $m_light-grey;
   padding-top: 10px;

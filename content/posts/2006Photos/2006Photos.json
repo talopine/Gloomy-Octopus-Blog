@@ -1,72 +1,72 @@
 [
   {
     "FilePath": "001_blogphoto_2006-03-05.jpg",
-    "ImageDescription": "This was photo 0001. Interesting selection of superceded technologies.",
-    "LicensorURL": "",
-    "PhotoCredit": "Canon PowerShot S2 IS",
+    "ImageTitle": "This was photo 0001. Interesting selection of superceded technologies.",
+    "PhotoDetails2": "",
+    "PhotoDetails1": "Canon PowerShot S2 IS",
     "Commentary": ""
   },
   {
     "FilePath": "002_blogphoto_2006-04-08.JPG",
-    "ImageDescription": "Random close-up of a leaf on the front path.",
-    "LicensorURL": "",
-    "PhotoCredit": "Canon PowerShot S2 IS",
+    "ImageTitle": "Random close-up of a leaf on the front path.",
+    "PhotoDetails2": "",
+    "PhotoDetails1": "Canon PowerShot S2 IS",
     "Commentary": ""
   },
   {
     "FilePath": "003_blogphoto_2006-04-08.JPG",
-    "ImageDescription": "Dennis the cat.",
-    "LicensorURL": "",
-    "PhotoCredit": "Canon PowerShot S2 IS",
+    "ImageTitle": "Dennis the cat.",
+    "PhotoDetails2": "",
+    "PhotoDetails1": "Canon PowerShot S2 IS",
     "Commentary": ""
   },
   {
     "FilePath": "004_blogphoto_2006-04-16.JPG",
-    "ImageDescription": "Victoria Park, outside Sydney University.",
-    "LicensorURL": "",
-    "PhotoCredit": "Canon PowerShot S2 IS",
+    "ImageTitle": "Victoria Park, outside Sydney University.",
+    "PhotoDetails2": "",
+    "PhotoDetails1": "Canon PowerShot S2 IS",
     "Commentary": ""
   },
   {
     "FilePath": "005_blogphoto_2006-08-11.JPG",
-    "ImageDescription": "Barry the cat.",
-    "LicensorURL": "",
-    "PhotoCredit": "Canon PowerShot S2 IS",
+    "ImageTitle": "Barry the cat.",
+    "PhotoDetails2": "",
+    "PhotoDetails1": "Canon PowerShot S2 IS",
     "Commentary": ""
   },
   {
     "FilePath": "006_blogphoto_2006-10-01.JPG",
-    "ImageDescription": "Circular Quay from the Cahill Expressway.",
-    "LicensorURL": "",
-    "PhotoCredit": "Canon PowerShot S2 IS",
+    "ImageTitle": "Circular Quay from the Cahill Expressway.",
+    "PhotoDetails2": "",
+    "PhotoDetails1": "Canon PowerShot S2 IS",
     "Commentary": ""
   },
   {
     "FilePath": "007_blogphoto_2006-10-01.JPG",
-    "ImageDescription": "Circular Quay from the Cahill Expressway.",
-    "LicensorURL": "",
-    "PhotoCredit": "Canon PowerShot S2 IS",
+    "ImageTitle": "Circular Quay from the Cahill Expressway.",
+    "PhotoDetails2": "",
+    "PhotoDetails1": "Canon PowerShot S2 IS",
     "Commentary": ""
   },
   {
     "FilePath": "008_blogphoto_2006-10-01.jpg",
-    "ImageDescription": "Pinchgut, Sydney Harbour.",
-    "LicensorURL": "",
-    "PhotoCredit": "Canon PowerShot S2 IS",
+    "ImageTitle": "Pinchgut, Sydney Harbour.",
+    "PhotoDetails2": "",
+    "PhotoDetails1": "Canon PowerShot S2 IS",
     "Commentary": ""
   },
   {
     "FilePath": "009_blogphoto_2006-10-02.jpg",
-    "ImageDescription": "Barry the cat.",
-    "LicensorURL": "",
-    "PhotoCredit": "Canon PowerShot S2 IS",
+    "ImageTitle": "Barry the cat.",
+    "PhotoDetails2": "",
+    "PhotoDetails1": "Canon PowerShot S2 IS",
     "Commentary": ""
   },
   {
     "FilePath": "010_blogphoto_2006-11-24.JPG",
-    "ImageDescription": "Mountain goats at Taronga Zoo, overlooking the Sydney Opera House.",
-    "LicensorURL": "",
-    "PhotoCredit": "Canon PowerShot S2 IS",
+    "ImageTitle": "Mountain goats at Taronga Zoo, overlooking the Sydney Opera House.",
+    "PhotoDetails2": "",
+    "PhotoDetails1": "Canon PowerShot S2 IS",
     "Commentary": ""
   }
 ]

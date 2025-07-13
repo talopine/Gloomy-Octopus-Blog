@@ -3,7 +3,7 @@ title: "Photography 2024"
 date: "2024-12-31"
 tags: 
   - photography
-layout: gala
+layout: album
 headerImage: "img/*.jpg"
 ---
 

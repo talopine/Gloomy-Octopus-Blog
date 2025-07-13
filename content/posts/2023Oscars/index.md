@@ -4,6 +4,6 @@ date: "2023-03-14"
 tags: 
   - fashion
   - gala
-layout: gala
+layout: album
 headerImage: "img/*.jpg"
 ---

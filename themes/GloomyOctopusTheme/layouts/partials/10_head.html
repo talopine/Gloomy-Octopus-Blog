@@ -9,6 +9,6 @@
   <link rel="alternate" type="application/rss+xml" href="{{.Site.BaseURL }}/index.xml" title="{{ .Site.Title }}">
   <!-- CSS -->
   {{ $css := resources.Get "/sass/main.scss" }}
-  {{ $style := $css | css.Sass | resources.Fingerprint }}
+  {{ $style := $css | resources.ToCSS | resources.Fingerprint }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
   <!-- Favicon -->
